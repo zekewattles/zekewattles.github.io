@@ -13,8 +13,14 @@
 			hmu: <a href="https://www.instagram.com/zeke.www/">@zeke.www</a> / <a href="mailto:zekewattles@gmail.com">zekewattles@gmail.com</a>
 		</p>
 	</div>
-	<script src="js/glitchover.js"></script>
+	<!-- <script src="js/glitchover.js"></script>
 	<script src="js/three.js"></script>
+	<script>
+	var links = document.querySelectorAll('a');
+      for (var i = 0, l = links.length; i < l; i++) {
+        if (links[i].className !== 'nope') $glitchover(links[i]);
+      }
+	</script>
 	<script>
 			var camera, scene, renderer;
 			var isUserInteracting = false,
@@ -100,6 +106,6 @@
 				camera.lookAt( camera.target );
 				renderer.render( scene, camera );
 			}
-		</script>
+		</script> -->
 </body>
 </html>
