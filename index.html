@@ -23,15 +23,19 @@
       <a title="instagram" target="_blank" href="http://www.instagram.com/zeke.www"><span>&#x1f4f7; </span>@zeke.www</a>
       <a title="email" target="_blank" href="mailto:zekewattles@gmail.com"><span>&#x1f4e8;
         </span>zekewattles@gmail.com</a>
-      <span>&#x1F334; </span><span id="time"></span>
+      <span>&#x1F334; </span><span id="time"><span id="hours"></span><span id="colon">:</span><span id="minutes"></span><span id="colon">:</span><span id="seconds"></span></span>
     </div>
     <div class="stuff">
       <span class="caption">
-        * This webpage is currently typeset in Platz, a font-in-progress inspired by the typographic landscape of Berlin.
-        Platz combines a monospace-inspired feel with humanistic contrast & proportions optimized for small sizes. It’s currently only one weight, with over 440 unique glyphs.
- A full release is aimed for late 2019.
+        * This webpage is currently typeset in Platz, a font-in-progress inspired by the typographic landscape of
+        Berlin.
+        Platz combines a monospace-inspired feel with humanistic contrast & proportions optimized for small sizes.
+        It’s currently only one weight, with over 440 unique glyphs. A full release is aimed for late 2019.
       </span>
     </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
   </aside>
 
   <div id="screen"></div>
@@ -44,7 +48,7 @@
       if (links[i].className !== 'nope') $glitchover(links[i]);
     }
   </script>
-  <script>
+  <!-- <script>
     function checkTime(i) {
       if (i < 10) {
         i = "0" + i;
@@ -66,7 +70,20 @@
       }, 500);
     }
     startTime();
-  </script>
+  </script> -->
+  
+  <!-- this is currently broken with the second separators. also, can it be LA time? -->
+  <script>
+    var toggle = true;
+    setInterval(function () {
+      var d = new Date().toLocaleTimeString('en-US', { hour12: true, hour: 'numeric', minute: 'numeric', second: 'numeric' });
+      var parts = d.split(":");
+      $('#hours').text(parts[0]);
+      $('#minutes').text(parts[1]);
+      $('#seconds').text(parts[2]);
+      $("#colon").css({ visibility: toggle ? "visible" : "hidden" });
+      toggle = !toggle;}, 1000);
+      </script>
 </body>
 
 </html>

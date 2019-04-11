@@ -135,4 +135,5 @@ body {
 
   #time {
     font-variant-numeric: tabular-nums;
+    /* font-variant-numeric: slashed-zero; */
   }
