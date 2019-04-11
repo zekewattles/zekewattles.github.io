@@ -8,6 +8,9 @@ body {
     background: #0f0;
     color: white;
     font-family: 'Platz-Regular', monospace;
+  }
+
+  .text{
     font-size: 13px;
     line-height: 1.4;
   }
