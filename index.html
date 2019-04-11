@@ -23,7 +23,8 @@
       <a title="instagram" target="_blank" href="http://www.instagram.com/zeke.www"><span>&#x1f4f7; </span>@zeke.www</a>
       <a title="email" target="_blank" href="mailto:zekewattles@gmail.com"><span>&#x1f4e8;
         </span>zekewattles@gmail.com</a>
-      <span>&#x1F334; </span><span id="time"><span id="hours"></span><span id="colon">:</span><span id="minutes"></span><span id="colon">:</span><span id="seconds"></span></span>
+      <span>&#x1F334; </span><span id="time"></span>
+      <!-- <span id="hours"></span><span id="colon">:</span><span id="minutes"></span><span id="colon">:</span><span id="seconds"></span> -->
     </div>
     <div class="stuff">
       <span class="caption">
@@ -48,7 +49,7 @@
       if (links[i].className !== 'nope') $glitchover(links[i]);
     }
   </script>
-  <!-- <script>
+  <script>
     function checkTime(i) {
       if (i < 10) {
         i = "0" + i;
@@ -70,10 +71,10 @@
       }, 500);
     }
     startTime();
-  </script> -->
-  
+  </script>
+
   <!-- this is currently broken with the second separators. also, can it be LA time? -->
-  <script>
+  <!-- <script>
     var toggle = true;
     setInterval(function () {
       var d = new Date().toLocaleTimeString('en-US', { hour12: true, hour: 'numeric', minute: 'numeric', second: 'numeric' });
@@ -83,7 +84,7 @@
       $('#seconds').text(parts[2]);
       $("#colon").css({ visibility: toggle ? "visible" : "hidden" });
       toggle = !toggle;}, 1000);
-      </script>
+      </script> -->
 </body>
 
 </html>
