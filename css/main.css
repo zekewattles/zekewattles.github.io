@@ -20,11 +20,6 @@ body {
     line-height: 1.2;
   }
 
-  .big{
-    font-size: 100px;
-    line-height: 0.8;
-  }
-
   body.loading {
     background: black;
   }
