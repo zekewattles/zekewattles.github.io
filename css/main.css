@@ -5,7 +5,7 @@
   }
 
 body {
-    background: greenyellow;
+    background: #0f0;
     color: white;
     font-family: 'Platz-Regular', monospace;
     font-size: 13px;
@@ -46,7 +46,7 @@ body {
   }
 
   a {
-    color: greenyellow;
+    color: #0f0;
     text-decoration: none
   }
 
@@ -137,3 +137,10 @@ body {
     font-variant-numeric: tabular-nums;
     /* font-variant-numeric: slashed-zero; */
   }
+
+  .blink {
+    -webkit-animation: blink 1s step-end infinite;
+            animation: blink 1s step-end infinite;
+}
+@-webkit-keyframes blink { 50% { visibility: hidden; }}
+        @keyframes blink { 50% { visibility: hidden; }}
