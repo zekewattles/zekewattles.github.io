@@ -57,10 +57,10 @@ body {
     color: #fff
   }
 
-  a span {
+  /* a span {
     font-size: 13px;
     line-height: 0
-  }
+  } */
 
   /* .cover-mini {
     width: 300px;
@@ -100,7 +100,7 @@ body {
     box-shadow: inset 0 0 200px 0 rgba(255, 255, 255, .08);
   } */
 
-  iframe {
+  /* iframe {
     background-color: #000;
   }
 
@@ -110,7 +110,7 @@ body {
 
   .single {
     margin-bottom: 20px;
-  }
+  } */
 
   .stuff {
     padding-left: 20px;
@@ -141,9 +141,9 @@ body {
     /* font-variant-numeric: slashed-zero; */
   }
 
-  .blink {
+  /* .blink {
     -webkit-animation: blink 1s step-end infinite;
             animation: blink 1s step-end infinite;
 }
 @-webkit-keyframes blink { 50% { visibility: hidden; }}
-        @keyframes blink { 50% { visibility: hidden; }}
+        @keyframes blink { 50% { visibility: hidden; }} */
