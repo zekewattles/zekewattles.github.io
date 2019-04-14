@@ -4,13 +4,16 @@
   font-style:bold;font-weight:700;
 }
 
-html { 
-    background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-1.jpg) no-repeat center center fixed;
-    background-color: black;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+html {
+  /* background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web1-1.jpg) no-repeat center center fixed; */
+  /* background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web1-2.jpg) no-repeat center center fixed; */
+  background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-1.jpg) no-repeat center center fixed;
+  /* background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-2.jpg) no-repeat center center fixed; */
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 mark{
