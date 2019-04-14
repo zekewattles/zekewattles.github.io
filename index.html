@@ -9,48 +9,41 @@
   <link rel='stylesheet' href='css/main.css'>
 </head>
 
-<body class="loading">
+<body>
 
-  <canvas id="c"></canvas>
+    <div class="wrapper">
 
-  <aside>
-    <div class="stuff">
-      <br>
       <div class="text">
-        Hi, I’m Zeke. I’m a Los Angeles-based graphic designer interested in the intersections between design, code,
-        sound, & typography.
-        <br>My portfolio will live here soon.<br><br>
-        Let’s stay in touch!
+        <mark>
+        &#xF8FF; &nbsp; Hi, I’m Zeke. I’m a Los Angeles-based graphic designer interested in the intersections between design, code,
+        sound, & typography. My portfolio will live here soon. Let’s stay in touch:
         <br><br>
-        <a title="instagram" target="_blank" href="http://www.instagram.com/zeke.www"><span>&#x1f4f7;
-          </span>&#xF8FF;zeke.www</a>
-        <a title="email" target="_blank" href="mailto:zekewattles@gmail.com"><span>&#x1f4e8;
-          </span>zekewattles@gmail.com</a>
-        <span>&#x1F334; </span><span id="time"></span>
-        <!-- <span id="hours"></span><span id="colon">:</span><span id="minutes"></span><span id="colon">:</span><span id="seconds"></span> -->
-        </div>
-    </div>
-    <div class="stuff">
-      <div class="caption">
-        &#x2192; This webpage is typeset in Platz. Platz began as an exploration of monospace characteristics within a
-        text typeface. The name, Platz, is an ambiguous word in German meaning place, space, location. It can often be
-        seen on the names of streets, for example. If typography can convey an sense of place, as it is often said,
-        Platz is an impressionistic Berlin from the perspective of a Californian. It’s currently at one weight with over
-        440 unique glyphs. A full release is slated for late 2019.
+        <span>&#x1f4f7; &nbsp; </span><a title="instagram" target="_blank" href="http://www.instagram.com/zeke.www">@zeke.www</a><br>
+        <span>&#x1f4e8; &nbsp; </span><a title="email" target="_blank" href="mailto:zekewattles@gmail.com">zekewattles@gmail.com</a><br>
+        <span>&#x1F334; &nbsp; </span><span id="time"></span></mark>
       </div>
-    </div>
-  </aside>
 
-  <div id="screen"></div>
+      <div class="caption">
+        <mark>
+        &#x2192; &nbsp; This webpage is typeset in Platz. Platz began as an exploration of monospace characteristics within a
+        text font. Platz is an ambiguous German word for place, space, or location. If typography can convey an sense of
+        place, Platz is an impressionistic Berlin from the perspective of a Californian. It’s currently at one weight
+        with over 440 unique glyphs. A full release, with more weights and italics, is planned for late 2019.
+      </mark>
+      </div>
+
+  </div>
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="js/glitchover.js"></script>
-  <!-- <script src="js/haunted.js"></script> -->
+
   <script>
     var links = document.querySelectorAll('a');
     for (var i = 0, l = links.length; i < l; i++) {
       if (links[i].className !== 'nope') $glitchover(links[i]);
     }
   </script>
+
   <script>
     function checkTime(i) {
       if (i < 10) {
@@ -75,18 +68,6 @@
     startTime();
   </script>
 
-  <!-- this is currently broken with the second separators. also, can it be LA time? -->
-  <!-- <script>
-    var toggle = true;
-    setInterval(function () {
-      var d = new Date().toLocaleTimeString('en-US', { hour12: true, hour: 'numeric', minute: 'numeric', second: 'numeric' });
-      var parts = d.split(":");
-      $('#hours').text(parts[0]);
-      $('#minutes').text(parts[1]);
-      $('#seconds').text(parts[2]);
-      $("#colon").css({ visibility: toggle ? "visible" : "hidden" });
-      toggle = !toggle;}, 1000);
-      </script> -->
 </body>
 
 </html>
