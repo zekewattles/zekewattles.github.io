@@ -30,6 +30,7 @@ body {
     padding-left: 0.8rem;
     padding-right: 0.8rem;
     padding-top: 1.5rem;
+    padding-bottom: 10rem;
   }
 
   .text{
@@ -48,7 +49,7 @@ body {
     word-wrap: break-word;
     hyphens: manual;
     height: 100%;
-    padding-bottom: 5rem;
+    padding-bottom: 2rem;
     line-height: 1.5rem;
     max-width: 25em;
   }
