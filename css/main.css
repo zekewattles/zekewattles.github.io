@@ -27,9 +27,9 @@ body {
   .wrapper {
     margin: 0 auto;
     max-width: 35em;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-top: 2rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-top: 1.5rem;
   }
 
   .text{
