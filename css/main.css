@@ -5,7 +5,8 @@
 }
 
 html { 
-    background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-1.jpg) no-repeat center center fixed; 
+    background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-1.jpg) no-repeat center center fixed;
+    background-color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -26,9 +27,9 @@ body {
   .wrapper {
     margin: 0 auto;
     max-width: 35em;
-    padding-left: 1.2rem;
-    padding-right: 1.2rem;
-    padding-top: 2.2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
   }
 
   .text{
