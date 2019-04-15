@@ -29,7 +29,7 @@ body {
 
   .wrapper {
     margin: 0 auto;
-    max-width: 35em;
+    max-width: 36em;
     padding-left: 0.8rem;
     padding-right: 0.8rem;
     padding-top: 1.5rem;
@@ -54,7 +54,7 @@ body {
     height: 100%;
     padding-bottom: 2rem;
     line-height: 1.5rem;
-    max-width: 25em;
+    max-width: 24em;
   }
 
   a {
