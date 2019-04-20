@@ -4,70 +4,53 @@
   font-style:bold;font-weight:700;
 }
 
-html {
-  background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-1.jpg) no-repeat center center fixed;
-  background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-  /* background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web1-1.jpg) no-repeat center center fixed; */
-  /* background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web1-2.jpg) no-repeat center center fixed; */
-  /* background: url(https://cdns.abclocal.go.com/three/kabc/webcam/web2-2.jpg) no-repeat center center fixed; */
-
-mark{
-  background: rgba(0,0,0,0.8);
-  color: white;
-}
-
 body {
-    /* background: black; */
-    color: white;
-    font-family: 'Platz-Regular', monospace;
-  }
+background-color: rgba(208,199,194,0.3);
+  color: black;
+  font-family: 'Platz-Regular', monospace;
+  -webkit-font-smoothing: antialiased;
+  font-size: 12px;
+  line-height: 18px;
+}
 
-  .wrapper {
-    margin: 0 auto;
-    max-width: 35em;
-    padding-left: 0.8rem;
-    padding-right: 0.8rem;
-    padding-top: 1.5rem;
-    padding-bottom: 8rem;
-  }
+.wrapper {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
 
-  .text{
-    font-size: 1.5rem;
-    display: block;
-    word-wrap: break-word;
-    hyphens: manual;
-    height: 100%;
-    padding-bottom: 2rem;
-    line-height: 2rem;
-  }
+.centerme{
+max-width: 50%;
+margin-bottom: 10%;
+}
 
-  .caption{
-    font-size: 1rem;
-    display: block;
-    word-wrap: break-word;
-    hyphens: manual;
-    height: 100%;
-    padding-bottom: 2rem;
-    line-height: 1.5rem;
-    max-width: 25em;
-  }
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
 
-  a {
-    color: #4f0;
-    text-decoration: none
-  }
+h1{
+  font-size: 16px;
+  line-height: 24px;
+}
 
-  a:hover {
-    color: #fff
-  }
+a {
+  color: #04e;
+}
 
-  #time {
-    font-variant-numeric: tabular-nums;
-    /* font-variant-numeric: slashed-zero; */
-  }
+.highlight {
+  color: #04e;
+}
+
+a:hover {
+  color: #04e
+}
+
+#time {
+  font-variant-numeric: tabular-nums;
+  /* font-variant-numeric: slashed-zero; */
+}
