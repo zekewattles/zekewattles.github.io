@@ -95,7 +95,7 @@ a:hover {
   position: absolute;
   overflow: hidden;
 
-  animation: marquee 10s linear infinite;
+  animation: marquee 8s linear infinite;
 }
 
 .marquee span {
