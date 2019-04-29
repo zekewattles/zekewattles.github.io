@@ -100,7 +100,7 @@ a:hover {
 
 .marquee span {
   float: left;
-  width: 50%;
+  width: 25%;
 }
 
 @keyframes marquee {
