@@ -137,3 +137,56 @@ a:hover {
   width: 400px;
   -webkit-tap-highlight-color: transparent;
 } */
+
+.floater2 {
+  color: black;
+  font-size: 14px;
+  letter-spacing: 0.06em;
+
+  padding-top: 8px;
+  height: 28px;
+  width: 100%;
+  background: yellow;
+  
+  overflow: hidden;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+ }
+ .floater2.inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  line-height: 50px;
+  text-align: center;
+  /* Starting position */
+  -moz-transform:translateX(100%);
+  -webkit-transform:translateX(100%);	
+  transform:translateX(100%);
+  /* Apply animation to this element */	
+  -moz-animation: example1 15s linear infinite;
+  -webkit-animation: example1 15s linear infinite;
+  animation: example1 15s linear infinite;
+ }
+ /* Move it (define the animation) */
+ @-moz-keyframes floater2 {
+  0%   { -moz-transform: translateX(100%); }
+  100% { -moz-transform: translateX(-100%); }
+ }
+ @-webkit-keyframes floater2 {
+  0%   { -webkit-transform: translateX(100%); }
+  100% { -webkit-transform: translateX(-100%); }
+ }
+ @keyframes floater2 {
+  0%   { 
+  -moz-transform: translateX(100%); /* Firefox bug fix */
+  -webkit-transform: translateX(100%); /* Firefox bug fix */
+  transform: translateX(100%); 		
+  }
+  100% { 
+  -moz-transform: translateX(-100%); /* Firefox bug fix */
+  -webkit-transform: translateX(-100%); /* Firefox bug fix */
+  transform: translateX(-100%); 
+  }
+ }
