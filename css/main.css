@@ -25,11 +25,11 @@ body {
   height: 100vh;
   margin: 0 auto;
   max-width: 1160px;
-  padding: 40px 20px 160px 20px;
+  padding: 20px 20px 160px 20px;
 }
 
 .centered{
-  max-width: 66%;
+  max-width: 70%;
   margin-bottom: 10%;
   box-sizing: border-box;
 }
