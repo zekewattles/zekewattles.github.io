@@ -1,0 +1,87 @@
+// Global styling for this template
+
+body {
+  @include sans-serif-font;
+  background-color: $black;
+  color: $white;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-top: 1.2rem;
+}
+
+.inline-image {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+}
+
+.subtitle {
+  @include monospace-font;
+  color: $text-muted;
+}
+
+.post-header {
+  text-align: center;
+}
+
+a {
+  color: $text-muted;
+  @include transition-all;
+  &:focus,
+  &:hover {
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+.caption {
+  @include monospace-font;
+  display: block;
+  padding-top: 0.6rem;
+  padding-bottom: 1.2rem;
+  text-align: center;
+}
+
+.small-text {
+  @include monospace-font;
+  display: block;
+}
+
+::-moz-selection {
+  color: $white;
+  background: $primary;
+  text-shadow: none;
+}
+
+::selection {
+  color: $white;
+  background: $primary;
+  text-shadow: none;
+}
+
+img::selection {
+  color: $white;
+  background: transparent;
+}
+
+img::-moz-selection {
+  color: $white;
+  background: transparent;
+}
