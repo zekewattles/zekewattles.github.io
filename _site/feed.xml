@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T00:25:13-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-enviro.jpg&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T00:45:29-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-enviro.jpg&quot; /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -239,8 +239,15 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Design as Performance&lt;/h2&gt;
 
     &lt;p&gt;
-      Indeterminacy is an approach to composing, pioneered by John Cage, in
-      which some aspects of a work are left open to chance or to the
+      &lt;a
+        href=&quot;https://en.wikipedia.org/wiki/Indeterminacy_(music)&quot;
+        target=&quot;_blank&quot;
+        &gt;Indeterminacy&lt;/a
+      &gt;
+      is an approach to composing, pioneered by
+      &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;
+        &gt;John Cage&lt;/a
+      &gt;, in which some aspects of a work are left open to chance or to the
       interpreter’s free choice. Proposed as part of a Dublab event series based
       on the idea of chance in music and design, an interactive microsite allows
       users to generate their own posters and output them in real time via a
