@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T08:14:01-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-enviro.jpg&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-27T08:30:50-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-enviro.jpg&quot; /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -320,4 +320,68 @@
 
     &lt;br /&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html"></summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-28T20:45:13-07:00</published><updated>2017-10-28T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/blade/">&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-01.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-6 col-md-8 mx-auto&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;LA &amp;rarr; Berlin &amp;rarr; Worldwide&lt;/h2&gt;
+
+    &lt;p&gt;
+      Five top graphic design students and one instructor travel to Berlin to
+      concept and design an interactive installation for a tech client. The
+      client had something really unique: a new type of LED with the power of
+      the sun.
+    &lt;/p&gt;
+    &lt;p&gt;
+      What do I mean by that? Most commercial lighting operates at a relatively
+      limited spectrum — it’s why you might get a headache after sitting under
+      fluorescent lights for too long. All light has a color temperature — it’s
+      also why golden hour looks so good. Somehow, this company managed to
+      design a type of LED that could replicate the deepest reds and the coolest
+      blues, at nearly the full range of natural light. And at low energy input.
+      That’s a pretty big deal.
+    &lt;/p&gt;
+    &lt;br /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-02.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-03.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-6 col-md-8 mx-auto&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;A Sunset You Can Touch&lt;/h2&gt;
+
+    &lt;p&gt;
+      So how do you communicate the power of the sun? By letting light speak for
+      itself. The blade is a visceral experience of pure light—a massive slice
+      of sunset, on loop.
+    &lt;/p&gt;
+    &lt;p&gt;
+      The back of the blade functions as seating. Relax and watch the sunset —
+      then, the second sunset begins. It’s like watching a sunset that you can
+      walk right up to and touch. The power of this lighting is its relation to
+      nature.
+    &lt;/p&gt;
+
+    &lt;br /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-04.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-05.jpg&quot; /&gt;
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img
+      class=&quot;img-fluid inline-image&quot;
+      src=&quot;/img/indeterminacy/animation-black.gif&quot;
+    /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img
+      class=&quot;img-fluid inline-image&quot;
+      src=&quot;/img/indeterminacy/poster-wall.jpg&quot;
+    /&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html"></summary></entry></feed>
