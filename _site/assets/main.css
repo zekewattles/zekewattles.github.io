@@ -1,5 +1,16 @@
+@font-face {
+  font-family: 'Styrene';
+  src: url("/fonts/StyreneB-Regular-Web.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'NHG';
+  src: url("/fonts/StyreneB-Bold-Web.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal; }
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Styrene', Arial, Helvetica, sans-serif;
+  font-feature-settings: "kern" on, "liga" off, "calt" off, "ss01";
   background-color: #000;
   color: #fff; }
 
@@ -12,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: normal; }
+  font-weight: bold; }
 
 h2,
 h3,
@@ -26,14 +37,15 @@ h6 {
   padding-bottom: 1.2rem; }
 
 .subtitle {
-  font-family: monospace;
-  color: #6c757d; }
+  font-family: 'Styrene', monospace;
+  font-size: 1rem;
+  color: #868e96; }
 
 .post-header {
   text-align: center; }
 
 a {
-  color: #6c757d;
+  color: #868e96;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
@@ -42,14 +54,16 @@ a {
     text-decoration: none; }
 
 .caption {
-  font-family: monospace;
+  font-family: 'Styrene', monospace;
+  font-size: 1rem;
   display: block;
   padding-top: 0.6rem;
   padding-bottom: 1.2rem;
   text-align: center; }
 
 .small-text {
-  font-family: monospace;
+  font-family: 'Styrene', monospace;
+  font-size: 1rem;
   display: block; }
 
 ::-moz-selection {
@@ -115,7 +129,8 @@ header.masthead {
       line-height: 1.1;
       display: block;
       margin: 10px 0 0;
-      font-family: Arial, Helvetica, sans-serif; }
+      font-family: 'Styrene', Arial, Helvetica, sans-serif;
+      font-feature-settings: "kern" on, "liga" off, "calt" off, "ss01"; }
     @media only screen and (min-width: 768px) {
       header.masthead .page-heading h1,
       header.masthead .site-heading h1 {
@@ -130,7 +145,8 @@ header.masthead {
     font-size: 24px;
     font-weight: 600;
     margin: 10px 0 30px;
-    font-family: Arial, Helvetica, sans-serif; }
+    font-family: 'Styrene', Arial, Helvetica, sans-serif;
+    font-feature-settings: "kern" on, "liga" off, "calt" off, "ss01"; }
   header.masthead .post-heading .meta {
     font-size: 20px;
     font-weight: 300;
@@ -149,7 +165,7 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover; }
   .post-preview > a {
-    color: #6c757d;
+    color: #868e96;
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
@@ -159,7 +175,8 @@ header.masthead {
     .post-preview > a > .post-title {
       margin-top: 0.5rem;
       margin-bottom: 2rem;
-      font-family: monospace;
+      font-family: 'Styrene', monospace;
+      font-size: 1rem;
       text-align: center; }
     .post-preview > a > .post-subtitle {
       font-weight: 300; }
@@ -189,11 +206,13 @@ header.masthead {
     border-radius: 0;
     background: #111;
     box-shadow: none !important;
-    font-family: monospace; }
+    font-family: 'Styrene', monospace;
+    font-size: 1rem; }
     .floating-label-form-group input::-webkit-input-placeholder,
     .floating-label-form-group textarea::-webkit-input-placeholder {
       color: #868e96;
-      font-family: monospace; }
+      font-family: 'Styrene', monospace;
+      font-size: 1rem; }
   .floating-label-form-group label {
     font-size: 0.85em;
     line-height: 1.764705882em;
@@ -228,12 +247,14 @@ footer {
     margin: 0;
     padding: 0; }
   footer .copyright {
-    font-family: monospace;
+    font-family: 'Styrene', monospace;
+    font-size: 1rem;
     margin-bottom: 0;
     text-align: center; }
 
 .btn {
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: 'Styrene', Arial, Helvetica, sans-serif;
+  font-feature-settings: "kern" on, "liga" off, "calt" off, "ss01"; }
 
 .btn-primary {
   background-color: #007bff;
