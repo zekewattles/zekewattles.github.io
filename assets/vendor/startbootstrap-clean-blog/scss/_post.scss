@@ -12,8 +12,9 @@
     > .post-title {
       margin-top: 0.5rem;
       margin-bottom: 2rem;
-      @include monospace-font;
       text-align: center;
+      font-size: 1.5rem;
+      font-weight: normal;
     }
     > .post-subtitle {
       font-weight: 300;

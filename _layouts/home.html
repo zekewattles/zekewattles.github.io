@@ -4,7 +4,7 @@ layout: default
 
   <div class="container-fluid">
     <div class="row">
-      <div class="col-lg mx-auto">
+      <div class="col-lg">
 
         {{ content }}
 
@@ -12,12 +12,13 @@ layout: default
         {% for post in site.posts %}
 
         <article class="post-preview">
+          
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
 
             {% if post.hero %}
             <img src="{{ post.hero | prepend: site.baseurl | replace: '//', '/' }}" class="img-fluid">
             {% endif %}
-
+            
             <p class="post-title">{{ post.title }}</p>
             <!-- {% if post.subtitle %}
             <h3 class="post-subtitle">{{ post.subtitle }}</h3>
@@ -25,9 +26,12 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %} -->
           </a>
+
         </article>
 
         {% endfor %}
+
+        {% include footer.html %}
 
       </div>
     </div>

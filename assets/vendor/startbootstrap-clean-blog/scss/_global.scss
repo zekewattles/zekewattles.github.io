@@ -4,18 +4,26 @@ body {
   @include sans-serif-font;
   background-color: $black;
   color: $white;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+// .blended {
+//   background-color: red;
+//   background-blend-mode: multiply;
+// }
+
+.btn {
+  color: black;
+}
+
+hr {
+  border: none;
+  border-bottom: 2px solid $text-muted;
 }
 
 h1 {
-  font-size: 4rem;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+  font-size: 3rem;
   font-weight: bold;
 }
 
@@ -24,31 +32,36 @@ h3,
 h4,
 h5,
 h6 {
-  padding-top: 1.2rem;
+  font-weight: bold;
+  // text-transform: uppercase;
+  // color: $text-muted;
+}
+
+h2 {
+  font-size: 1.5rem;
 }
 
 .inline-image {
-  padding-top: 1.2rem;
   padding-bottom: 1.2rem;
 }
 
 .subtitle {
   @include monospace-font;
-  color: $text-muted;
 }
 
 .post-header {
-  text-align: center;
+  // text-align: center;
 }
 
 a {
-  color: $text-muted;
+  color: $accent;
   @include transition-all;
   &:focus,
   &:hover {
     color: $white;
     text-decoration: none;
   }
+  // cursor: alias;
 }
 
 .caption {

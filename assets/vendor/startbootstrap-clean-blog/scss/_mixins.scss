@@ -62,26 +62,96 @@
 }
 
 // Font declarations
+// NHG
 
-// @font-face {
-//   font-family: 'Styrene';
-//   src: url('/fonts/StyreneB-Regular-Web.woff2') format('woff2');
-//   font-weight: normal;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: "NHG";
+  src: url("/fonts/roman-text-55.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
 
-// @font-face {
-//   font-family: 'NHG';
-//   src: url('/fonts/StyreneB-Bold-Web.woff2') format('woff2');
-//   font-weight: bold;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: "NHG";
+  src: url("/fonts/text-italic-56.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "NHG";
+  src: url("/fonts/text-bold-75.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+// Real
+
+@font-face {
+  font-family: "Real";
+  src: url("/fonts/RealTextWebPro-Book.woff") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Real";
+  src: url("/fonts/RealTextItalic-Book.woff") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Real";
+  src: url("/fonts/RealTextWebPro-Bold.woff") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Styrene";
+  src: url("/fonts/StyreneB-Regular-Web.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Styrene";
+  src: url("/fonts/StyreneB-Bold-Web.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("/fonts/Graphik-Regular-Cy-Gr-Web.woff") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("/fonts/Graphik-RegularItalic-Web.woff") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("/fonts/Graphik-Semibold-Web.woff") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
 
 @mixin sans-serif-font() {
-  font-family: Arial, Helvetica, sans-serif;
-  // font-feature-settings: "kern" on, "liga" off, "calt" off, "ss01";
+  font-family: "Graphik", Arial, Helvetica, sans-serif;
+  // -webkit-font-feature-settings: "kern" on, "ss01";
+  // font-feature-settings: "kern" on, "ss01";
 }
 
 @mixin monospace-font() {
-  font-family: monospace;
+  @include sans-serif-font;
+  // font-family: monospace;
+  color: $text-muted;
 }
