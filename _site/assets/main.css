@@ -57,8 +57,11 @@ body {
   font-family: "Graphik", Arial, Helvetica, sans-serif;
   background-color: #000;
   color: #fff;
-  font-size: 13px;
+  font-size: 0.9rem;
   line-height: 1.2; }
+
+.intro {
+  font-size: 1.5rem; }
 
 .btn {
   color: black; }

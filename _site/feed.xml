@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-09T10:04:39-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;p&gt;
-  Related project: &lt;a href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-09T10:11:53-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;p&gt;
+    Related project: &lt;a href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br&gt;
   Category: Identity&lt;br&gt;
   Year: 2018
 &lt;/p&gt;
@@ -7,23 +7,23 @@
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;What It Is&lt;/h2&gt;
+    &lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;What It Is&lt;/h2&gt; --&gt;
 
-    &lt;p&gt;
-      Dublab is an online radio station based in Los Angeles. This is a transmedia identity system based on drawing with sound.
+    &lt;p class=&quot;intro&quot;&gt;
+      Dublab is an online radio station based in Los Angeles. This project is a transmedia identity system based on experimenting with sound.
     &lt;/p&gt;
 
-    &lt;h2 class=&quot;section-heading&quot;&gt;Why It Matters&lt;/h2&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Background&lt;/h2&gt;
 
-    &lt;p&gt;
-      I grew up in LA and have been a fan of Dublab since I was a teenager. 
-      I was a classically trained cellist who dreamed of being a bedroom beatmaker, and a huge fan of the LA beat scene, which Dublab played a big part in.
-    &lt;/p&gt;
     &lt;p&gt;
       &lt;a href=&quot;https://www.Dublab.com/&quot;&gt;Dublab&lt;/a&gt; has been around since 1999 and is an independent online radio
-      station with a raw, DIY, experimental ethos &amp;emdash; an experimental platform for the growth of music, art, culture, and
+      station with a raw, DIY, experimental ethos &amp;mdash; an experimental platform for the growth of music, art, culture, and
       everything in between.
     &lt;/p&gt;
+    &lt;p&gt;
+        I grew up in LA and have been a fan of Dublab since I was a teenager. 
+        I was a classically trained cellist who dreamed of being a bedroom beatmaker, and a huge fan of the LA beat scene, which Dublab played a big part in.
+      &lt;/p&gt;
 
     &lt;br /&gt;
   &lt;/div&gt;
@@ -33,42 +33,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr&gt;
-&lt;!-- 
-&lt;h2 class=&quot;section-heading&quot;&gt;Poster Gallery&lt;/h2&gt; --&gt;
-
 &lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-3.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-&lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-      &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-sm&quot;&gt;
+          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-4.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-6.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -142,26 +114,7 @@
       DB Circuit Mono is a connected digital “script” based on the way type is
       rendered on oscilloscopes.
     &lt;/p&gt;
-    &lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;DB Circuit Mono&lt;/h2&gt;
 
-    &lt;p&gt;
-      Circuit is a display typeface combining the idea of a circuit and a
-      musical staff. The grid is based on a musical staff: 5 lines with one
-      interval between each. The method of drawing is based on the concept of an
-      electrical circuit and the way a vector display (i.e., oscilloscope)
-      renders type: as continuous, connected lines. The typeface is built in
-      Glyphs with two styles that can be layered to create the connected effect.
-    &lt;/p&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;DB Data Mono&lt;/h2&gt;
-
-    &lt;p&gt;
-      Taking inspiration from the typographic language of early synthesizers and
-      sci-fi cinema, Data Mono is a re-drawing of Data70 as a true monospaced
-      font. To relate to the idea of sound, there are two variatiants: the
-      original, analog, “sine wave” variant, and hard-edged, digital, “square
-      wave” variant built on the same anatomy.
-    &lt;/p&gt; --&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/fonts-1.png&quot; /&gt;
@@ -227,37 +180,50 @@
       &lt;/a&gt;
     &lt;/div&gt;
 
-  &lt;!-- &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-sm&quot;&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-8&quot;&gt;
-          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-6.jpg&quot; /&gt;
-      &lt;/div&gt;
+    &lt;hr&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
+    
+    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+      &lt;video
+        class=&quot;embed-responsive-item&quot;
+        playsinline
+        autoplay
+        muted
+        loop
+        poster=&quot;/img/dublab/web-preview.jpg&quot;
+      &gt;
+        &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;/video&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-8&quot;&gt;
-            &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-5.jpg&quot; /&gt;
-        &lt;/div&gt;
-      &lt;/div&gt; --&gt;
 
 &lt;hr&gt;
+&lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;Poster Gallery&lt;/h2&gt; --&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video
-    class=&quot;embed-responsive-item&quot;
-    playsinline
-    autoplay
-    muted
-    loop
-    poster=&quot;/img/dublab/web-preview.jpg&quot;
-  &gt;
-    &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-3.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-4.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-6.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 
 &lt;hr&gt;
 
@@ -278,8 +244,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;!-- &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;/div&gt; --&gt;
+
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img
       class=&quot;img-fluid inline-image&quot;
@@ -292,75 +257,7 @@
       src=&quot;/img/dublab/print-letterhead-2.jpg&quot;
     /&gt;
   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/dublab/print-letterhead-1.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/dublab/print-letterhead-2.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video
-    class=&quot;embed-responsive-item&quot;
-    playsinline
-    autoplay
-    muted
-    loop
-    poster=&quot;/img/dublab/web-preview.jpg&quot;
-  &gt;
-    &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Poster Gallery&lt;/h2&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-3.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-4.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-6.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Indeterminacy</title><link href="http://localhost:4000/projects/indeterminacy/" rel="alternate" type="text/html" title="Indeterminacy" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/indeterminacy</id><content type="html" xml:base="http://localhost:4000/projects/indeterminacy/">&lt;p&gt;
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Indeterminacy</title><link href="http://localhost:4000/projects/indeterminacy/" rel="alternate" type="text/html" title="Indeterminacy" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/indeterminacy</id><content type="html" xml:base="http://localhost:4000/projects/indeterminacy/">&lt;p&gt;
     Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
     Category: Interactive&lt;br&gt;
     Year: 2018

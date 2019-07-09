@@ -4,8 +4,12 @@ body {
   @include sans-serif-font;
   background-color: $black;
   color: $white;
-  font-size: 13px;
+  font-size: 0.9rem;
   line-height: 1.2;
+}
+
+.intro {
+  font-size: 1.5rem;
 }
 
 // .blended {
