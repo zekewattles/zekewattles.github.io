@@ -1,8 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-07T16:03:49-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-09T08:30:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;p&gt;
   Related project: &lt;a href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br&gt;
   Category: Identity&lt;br&gt;
   Year: 2018
 &lt;/p&gt;
+
+&lt;hr&gt;
+&lt;!-- 
+&lt;h2 class=&quot;section-heading&quot;&gt;Poster Gallery&lt;/h2&gt; --&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-3.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+&lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+      &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-4.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-6.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -10,20 +47,18 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;What It Is&lt;/h2&gt;
 
     &lt;p&gt;
-      Dublab is an online radio station based in Los Angeles.
+      Dublab is an online radio station based in Los Angeles. This is a transmedia identity system based on drawing with sound.
     &lt;/p&gt;
 
     &lt;h2 class=&quot;section-heading&quot;&gt;Why It Matters&lt;/h2&gt;
 
     &lt;p&gt;
-      Growing up in LA, music was all around me. From high school cellist to
-      self-taught bedroom producer and
-      &lt;a href=&quot;https://www.littlesounddj.com/lsd/index.php&quot;&gt;GameBoy DJ&lt;/a&gt;, I
-      loved exploring sound in any way I could. So I’ve been a fan of
-      &lt;a href=&quot;https://www.Dublab.com/&quot;&gt;Dublab&lt;/a&gt;, an independent online radio
-      station started in 1999, for a very long time. Dublab had grown — but its
-      identity was static. It wasn’t communicating their core ethos: a raw,
-      experimental platform for the growth of music, art, culture, and
+      I grew up in LA and have been a fan of Dublab since I was a teenager. 
+      I was a classically trained cellist who dreamed of being a bedroom beatmaker, and a huge fan of the LA beat scene, which Dublab played a big part in.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;a href=&quot;https://www.Dublab.com/&quot;&gt;Dublab&lt;/a&gt; has been around since 1999 and is an independent online radio
+      station with a raw, DIY, experimental ethos &amp;emdash; an experimental platform for the growth of music, art, culture, and
       everything in between.
     &lt;/p&gt;
 
@@ -53,30 +88,19 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Drawing with Sound&lt;/h2&gt;
 
     &lt;p&gt;
-      Most of Dublab’s audience are familiar with digital music tools, many of
-      which can be used for visualizing sound. Dublab’s identity takes it a step
-      further: drawing with sound.
-    &lt;/p&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Creating Tools&lt;/h2&gt;
-
-    &lt;p&gt;
-      The code is based on Ted Davis’s
-      &lt;a href=&quot;https://teddavis.org/xyscope/&quot;&gt;XYscope&lt;/a&gt; library for
-      &lt;a href=&quot;https://processing.org/&quot;&gt;Processing&lt;/a&gt;, modified for use with
-      both static images and a Kinect camera or webcam. It is used for both
-      static visuals and a large-scale, interactive sound installation. It works
+      I created a unique tool for making posters and large-scale installations through sound synthesis. 
+      The Processing program works
       like a feedback loop: images are translated to sound, sound is visualized
       on the oscilloscope, then that sound is filtered, which affects the image
-      again.
-      &lt;!-- But you don’t need to
-      know all that to use it. Basically, it’s just really fun to play with. --&gt;
+      again. It’s like a synthesizer for visuals.
+      The code is based on the open source 
+      &lt;a href=&quot;https://teddavis.org/xyscope/&quot;&gt;XYscope&lt;/a&gt; library.
     &lt;/p&gt;
 
     &lt;br /&gt;
   &lt;/div&gt;
 
-  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
     &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
       &lt;video
         class=&quot;embed-responsive-item&quot;
@@ -94,24 +118,29 @@
       &gt;The Processing sketch used to generate poster&amp;nbsp;linework.&lt;/span
     &gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
-      &lt;video
-        class=&quot;embed-responsive-item&quot;
-        playsinline
-        autoplay
-        muted
-        loop
-        poster=&quot;/img/dublab/video-drawsound-2.jpg&quot;
-      &gt;
-        &lt;source src=&quot;/img/dublab/video-drawsound-2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-      &lt;/video&gt;
-    &lt;/div&gt;
-    &lt;span class=&quot;caption text-muted&quot;
-      &gt;A phone running TouchOSC controls the filter value for the
-      sound&amp;nbsp;image.&lt;/span
-    &gt;
-  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;col-lg-8&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
+          &lt;video
+            class=&quot;embed-responsive-item&quot;
+            playsinline
+            autoplay
+            muted
+            loop
+            poster=&quot;/img/dublab/video-drawsound-2.jpg&quot;
+          &gt;
+            &lt;source src=&quot;/img/dublab/video-drawsound-2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+          &lt;/video&gt;
+        &lt;/div&gt;
+        &lt;span class=&quot;caption text-muted&quot;
+          &gt;A phone running TouchOSC controls the filter value for the
+          sound&amp;nbsp;image.&lt;/span
+        &gt;
+      &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -164,7 +193,12 @@
       &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
   
       &lt;p&gt;
-        Talking to Mark, he became a partner in the process. I took the initiative to talk to the client directly and asked, what would be useful to you? He mentioned that Dublab had a large archive of interviews with musicians that he felt was important to preserve. I proposed a print version. I used the same text tool I built for Indeterminacy to create chapter breaks, and DB Circuit Mono for the cover typography. The first edition is a conversation with Van Dyke
+        Talking to Mark, he became a partner in the process. 
+        I took the initiative to talk to the client directly and asked, what would be useful to you? He mentioned that Dublab had a large archive of 
+        interviews with musicians that he felt was important to preserve. 
+        I proposed a print version. I used the same text tool I built for 
+        &lt;a href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt; to create chapter breaks, and DB Circuit Mono for the cover typography. 
+        The first edition is a conversation with Van Dyke Parks.
       &lt;/p&gt;
   
     &lt;/div&gt;
@@ -177,15 +211,65 @@
         &lt;/div&gt;
   &lt;/div&gt;
 
-  &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-sm&quot;&gt;
-
+  &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+      &lt;div class=&quot;carousel-inner&quot;&gt;
+        &lt;div class=&quot;carousel-item active&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-1.jpg&quot; alt=&quot;First slide&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-2.jpg&quot; alt=&quot;Second slide&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-3.jpg&quot; alt=&quot;Third slide&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-4.jpg&quot; alt=&quot;Third slide&quot;&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;carousel-item&quot;&gt;
+              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-5.jpg&quot; alt=&quot;Third slide&quot;&gt;
+            &lt;/div&gt;
       &lt;/div&gt;
-    
+      &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+      &lt;/a&gt;
+      &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;!-- &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;col-sm&quot;&gt;
+      &lt;/div&gt;
       &lt;div class=&quot;col-lg-8&quot;&gt;
           &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-6.jpg&quot; /&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-lg-8&quot;&gt;
+            &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-5.jpg&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt; --&gt;
+
+&lt;hr&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video
+    class=&quot;embed-responsive-item&quot;
+    playsinline
+    autoplay
+    muted
+    loop
+    poster=&quot;/img/dublab/web-preview.jpg&quot;
+  &gt;
+    &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
 
 &lt;hr&gt;
 
@@ -206,6 +290,23 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img
+      class=&quot;img-fluid inline-image&quot;
+      src=&quot;/img/dublab/print-letterhead-1.jpg&quot;
+    /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img
+      class=&quot;img-fluid inline-image&quot;
+      src=&quot;/img/dublab/print-letterhead-2.jpg&quot;
+    /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
     &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -271,7 +372,7 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Indeterminacy</title><link href="http://localhost:4000/projects/indeterminacy/" rel="alternate" type="text/html" title="Indeterminacy" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/indeterminacy</id><content type="html" xml:base="http://localhost:4000/projects/indeterminacy/">&lt;p&gt;
+&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Indeterminacy</title><link href="http://localhost:4000/projects/indeterminacy/" rel="alternate" type="text/html" title="Indeterminacy" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/indeterminacy</id><content type="html" xml:base="http://localhost:4000/projects/indeterminacy/">&lt;p&gt;
     Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
     Category: Interactive&lt;br&gt;
     Year: 2018
@@ -283,20 +384,26 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Design as Performance&lt;/h2&gt;
 
     &lt;p&gt;
+      This is an interactive installation proposed as part of a 
+      &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; series 
+      about chance in music, also known as 
       &lt;a
         href=&quot;https://en.wikipedia.org/wiki/Indeterminacy_(music)&quot;
         target=&quot;_blank&quot;
-        &gt;Indeterminacy&lt;/a
-      &gt;
-      is an approach to composing, pioneered by
+        &gt;indeterminacy&lt;/a
+      &gt;.
+    &lt;/p&gt;
+      &lt;p&gt;
+      &lt;!-- is an approach to composing, pioneered by
       &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;
         &gt;John Cage&lt;/a
       &gt;, in which some aspects of a work are left open to chance or to the
       interpreter’s free choice. Proposed as part of a
       &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; event series
-      based on the idea of chance in music and design, an interactive microsite
+      based on the idea of chance in music and design,  --&gt;
+      An interactive microsite
       allows users to generate their own posters and output them in real time
-      via a hacked dot matrix printer.
+      via a hacked dot matrix printer, then take them home as a commemoration of the event.
     &lt;/p&gt;
 
     &lt;p&gt;
@@ -317,23 +424,6 @@
 
 &lt;/div&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img
-          class=&quot;img-fluid inline-image&quot;
-          src=&quot;/img/indeterminacy/poster-wall.jpg&quot;
-        /&gt;
-      &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-      &lt;img
-        class=&quot;img-fluid inline-image&quot;
-        src=&quot;/img/indeterminacy/animation-black.gif&quot;
-      /&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
   &lt;hr&gt;
 
   &lt;h2 class=&quot;section-heading&quot;&gt;Documentation video&lt;/h2&gt;
@@ -352,6 +442,24 @@
     &lt;source src=&quot;/img/indeterminacy/video-reel.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   &lt;/video&gt;
 &lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img
+          class=&quot;img-fluid inline-image&quot;
+          src=&quot;/img/indeterminacy/poster-wall.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+      &lt;img
+        class=&quot;img-fluid inline-image&quot;
+        src=&quot;/img/indeterminacy/animation-black.gif&quot;
+      /&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
 
 &lt;!-- &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-lg-6 col-md-8 mx-auto&quot;&gt;
@@ -474,10 +582,10 @@
       &lt;div class=&quot;col-sm&quot;&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-06-alt.jpg&quot; /&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-sm&quot;&gt;
-            &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-05-alt.jpg&quot; /&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-05-alt.jpg&quot; /&gt;
+    &lt;/div&gt;
+      &lt;div class=&quot;col-sm&quot;&gt;
+          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
         &lt;/div&gt;
 
     &lt;/div&gt;
@@ -543,7 +651,7 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Please binge responsibly&lt;/h2&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Please Binge Responsibly&lt;/h2&gt;
 
     &lt;p&gt;
       Chill by Netflix is a fresh, bold, and accessible line of sexual personal
