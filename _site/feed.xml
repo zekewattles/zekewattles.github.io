@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-09T10:11:53-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;p&gt;
-    Related project: &lt;a href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-09T10:25:51-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;p&gt;
+    Related project: &lt;a href=&quot;/projects/order-and-chaos&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br&gt;
   Category: Identity&lt;br&gt;
   Year: 2018
 &lt;/p&gt;
@@ -257,7 +257,7 @@
       src=&quot;/img/dublab/print-letterhead-2.jpg&quot;
     /&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Indeterminacy</title><link href="http://localhost:4000/projects/indeterminacy/" rel="alternate" type="text/html" title="Indeterminacy" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/indeterminacy</id><content type="html" xml:base="http://localhost:4000/projects/indeterminacy/">&lt;p&gt;
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/projects/order-and-chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/projects/order-and-chaos/">&lt;p&gt;
     Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
     Category: Interactive&lt;br&gt;
     Year: 2018
@@ -266,9 +266,22 @@
   &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;
+        &lt;a
+        href=&quot;https://en.wikipedia.org/wiki/Indeterminacy_(music)&quot;
+        target=&quot;_blank&quot;
+        &gt;Indeterminacy&lt;/a
+      &gt; is an approach to composing, pioneered by
+      &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;
+        &gt;John Cage&lt;/a
+      &gt;, in which some aspects of a work are left open to chance or to the
+      interpreter’s free choice. This project uses new tools and technologies to create a unique voice for the proposed &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; brand.
+    &lt;/p&gt;
+      &lt;p&gt;
+    &lt;/p&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Design as Performance&lt;/h2&gt;
 
-    &lt;p&gt;
+    &lt;!-- &lt;p&gt;
       This is an interactive installation proposed as part of a 
       &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; series 
       about chance in music, also known as 
@@ -277,18 +290,12 @@
         target=&quot;_blank&quot;
         &gt;indeterminacy&lt;/a
       &gt;.
-    &lt;/p&gt;
+    &lt;/p&gt; --&gt;
       &lt;p&gt;
-      &lt;!-- is an approach to composing, pioneered by
-      &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;
-        &gt;John Cage&lt;/a
-      &gt;, in which some aspects of a work are left open to chance or to the
-      interpreter’s free choice. Proposed as part of a
-      &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; event series
-      based on the idea of chance in music and design,  --&gt;
-      An interactive microsite
+      An interactive installation 
       allows users to generate their own posters and output them in real time
-      via a hacked dot matrix printer, then take them home as a commemoration of the event.
+      via a hacked dot matrix printer. It's chance in design, inspired by chance in music. 
+      People then take them home as a commemoration of the event, reflecting the time-based, participatory nature of performance.
     &lt;/p&gt;
 
     &lt;p&gt;

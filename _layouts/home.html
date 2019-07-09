@@ -19,7 +19,7 @@ layout: default
             <img src="{{ post.hero | prepend: site.baseurl | replace: '//', '/' }}" class="img-fluid">
             {% endif %}
             
-            <p class="post-title">{{ post.title }}</p>
+            <p class="post-title"><strong>{{ post.title }}</strong><br>{{ post.subtitle }}</p>
             <!-- {% if post.subtitle %}
             <h3 class="post-subtitle">{{ post.subtitle }}</h3>
             {% else %}
