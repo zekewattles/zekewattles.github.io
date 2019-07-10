@@ -132,7 +132,8 @@ img::-moz-selection {
   background: transparent; }
 
 #mainNav {
-  margin-bottom: 1.8rem; }
+  margin-bottom: 1.8rem;
+  margin-top: 1.2rem; }
 
 header.masthead {
   margin-bottom: 50px;
@@ -287,6 +288,7 @@ form .form-group:first-child .floating-label-form-group {
   border-top: 1px solid #dee2e6; }
 
 footer {
+  font-size: 0.9rem;
   margin-top: 2.4rem;
   margin-bottom: 3.6rem; }
   footer .list-inline {
