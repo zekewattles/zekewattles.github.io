@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-10T11:22:46-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-11T08:16:32-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;p class=&quot;intro&quot;&gt;
             A sound-exlporing identity system for an experimental online radio station in Los Angeles.
@@ -286,6 +286,7 @@
         &lt;/p&gt;
         &lt;p&gt;
             Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
+            Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
             Category: Interactive&lt;br&gt;
             Year: 2018
         &lt;/p&gt;
@@ -396,13 +397,13 @@
 
     &lt;br /&gt;
   &lt;/div&gt;
-&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance. Related project: Dublab Category: Interactive Year: 2018</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the-blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-28T20:45:13-07:00</published><updated>2017-10-28T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the-blade/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the-blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-28T20:45:13-07:00</published><updated>2017-10-28T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the-blade/">&lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED technology.&lt;/p&gt;
         &lt;p&gt;
             Category: Interactive installation&lt;br /&gt;
-            Year: 2019
-            Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;
+            Year: 2019&lt;br&gt;
+            Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor
           &lt;/p&gt;
           
     &lt;/div&gt;
@@ -512,6 +513,7 @@
       &lt;div class=&quot;col-sm&quot;&gt;
           &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
           &lt;p&gt;We created small-scale prototypes and VR sketches to iterate fast and discovered that simple forms best communicated the power of the light.&lt;/p&gt;
+          &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-sm&quot;&gt;
           &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
@@ -584,7 +586,7 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Year: 2019 Collaborator: Ali Torbati</summary></entry><entry><title type="html">Various Freelance Projects</title><link href="http://localhost:4000/projects/various/" rel="alternate" type="text/html" title="Various Freelance Projects" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/various</id><content type="html" xml:base="http://localhost:4000/projects/various/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Year: 2019 Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor</summary></entry><entry><title type="html">Various Freelance Projects</title><link href="http://localhost:4000/projects/various/" rel="alternate" type="text/html" title="Various Freelance Projects" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/various</id><content type="html" xml:base="http://localhost:4000/projects/various/">&lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
             &lt;p class=&quot;intro&quot;&gt;A selection of freelance projects.&lt;/p&gt;
 
