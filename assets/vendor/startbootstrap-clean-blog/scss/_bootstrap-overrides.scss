@@ -9,22 +9,25 @@
   @include sans-serif-font;
 }
 
+$primary-darker:    darken($primary, 7.5) !important;
+$primary-darkest:    darken($primary, 15) !important;
+
 .btn-primary {
-  background-color: $primary;
+  background-color: $primary-darker;
   border-color: $primary;
+  border-radius: 0;
+  border-bottom: 4px solid $primary-darkest;
   &:hover,
   &:focus,
   &:active {
     color: $white;
-    background-color: darken($primary, 7.5) !important;
-    border-color: darken($primary, 7.5) !important;
+    background-color: darken($primary, 15) !important;
+    // border-color: darken($primary, 7.5) !important;
+    border-bottom: 4px solid darken($primary, 7.5) !important;
+    outline: none !important;
+    box-shadow: none;
   }
 }
-
-// .btn-lg {
-//   font-size: 16px;
-//   padding: 25px 35px;
-// }
 
 html {
   font-family: monospace;

@@ -63,9 +63,6 @@ body {
 .intro {
   font-size: 1.5rem; }
 
-.btn {
-  color: black; }
-
 hr {
   border: none;
   border-bottom: 2px solid #9b9b9b; }
@@ -304,12 +301,16 @@ footer {
   font-family: "Graphik", Arial, Helvetica, sans-serif; }
 
 .btn-primary {
-  background-color: #00ff40;
-  border-color: #00ff40; }
+  background-color: #00d936 !important;
+  border-color: #00ff40;
+  border-radius: 0;
+  border-bottom: 4px solid #00b32d !important; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: #00d936 !important;
-    border-color: #00d936 !important; }
+    background-color: #00b32d !important;
+    border-bottom: 4px solid #00d936 !important;
+    outline: none !important;
+    box-shadow: none; }
 
 html {
   font-family: monospace; }
