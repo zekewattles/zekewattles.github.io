@@ -13,6 +13,7 @@ $primary-darker:    darken($primary, 7.5) !important;
 $primary-darkest:    darken($primary, 15) !important;
 
 .btn-primary {
+  font-weight: bold;
   background-color: $primary-darker;
   border-color: $primary;
   border-radius: 0;
