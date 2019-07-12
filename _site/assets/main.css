@@ -219,7 +219,7 @@ header.masthead {
       margin-top: 0.5rem;
       margin-bottom: 2rem;
       text-align: center;
-      font-size: 1.5rem;
+      font-size: 1.25rem;
       font-weight: normal; }
     .post-preview > a > .post-subtitle {
       font-weight: 300; }
@@ -298,7 +298,8 @@ footer {
     text-align: center; }
 
 .btn {
-  font-family: "Graphik", Arial, Helvetica, sans-serif; }
+  font-family: "Graphik", Arial, Helvetica, sans-serif;
+  font-weight: bold; }
 
 .btn-primary {
   background-color: #00d936 !important;

@@ -2,37 +2,39 @@
 layout: default
 ---
 
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-lg">
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg">
 
-        {{ content }}
+      {{ content }}
 
-        <!-- Home Post List -->
-        {% for post in site.posts %}
+      <!-- Home Post List -->
+      {% for post in site.posts %}
 
-        <article class="post-preview">
-          
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+      <article class="post-preview">
 
-            {% if post.hero %}
-            <img src="{{ post.hero | prepend: site.baseurl | replace: '//', '/' }}" class="img-fluid">
-            {% endif %}
-            
-            <p class="post-title"><strong>{{ post.title }}</strong><br>{{ post.subtitle }}</p>
-            <!-- {% if post.subtitle %}
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+
+          {% if post.hero %}
+          <img src="{{ post.hero | prepend: site.baseurl | replace: '//', '/' }}" class="img-fluid">
+          {% endif %}
+
+          <p class="post-title"><strong>{{ post.title }}</strong>
+            <!-- <br>{{ post.subtitle }} -->
+          </p>
+          <!-- {% if post.subtitle %}
             <h3 class="post-subtitle">{{ post.subtitle }}</h3>
             {% else %}
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %} -->
-          </a>
+        </a>
 
-        </article>
+      </article>
 
-        {% endfor %}
+      {% endfor %}
 
-        {% include footer.html %}
+      {% include footer.html %}
 
-      </div>
     </div>
   </div>
+</div>

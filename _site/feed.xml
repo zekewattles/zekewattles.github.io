@@ -1,16 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-11T16:59:29-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;p class=&quot;intro&quot;&gt;
-            A sound-exlporing identity system for an experimental online radio station in Los Angeles.
-        &lt;/p&gt;
-        &lt;p&gt;
-            Related project: &lt;a href=&quot;/projects/order-and-chaos&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br&gt;
-            Category: Identity&lt;br&gt;
-            Year: 2018
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-11T22:42:42-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;
+      A sonic identity system for an experimental online radio station in Los Angeles.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Related project: &lt;a href=&quot;/projects/order-and-chaos&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br /&gt;
+      Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie&lt;br /&gt;
+      Category: Identity&lt;br /&gt;
+      Year: 2018
+    &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -22,14 +24,14 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Future Roots Radio&lt;/h2&gt;
 
     &lt;p&gt;
-      &lt;a href=&quot;https://www.Dublab.com/&quot;&gt;Dublab&lt;/a&gt; independent online radio that prides itself on being a hotbed for emerging music, art, and culture. Since 1999, its experimental ethos has attracted musicians including Flying Lotus, Daedelus, and many more.
-      &lt;!-- station with a raw, DIY, experimental ethos &amp;mdash; an experimental platform for the growth of music, art, culture, and
-      everything in between. --&gt;
+      &lt;a href=&quot;https://www.Dublab.com/&quot;&gt;Dublab&lt;/a&gt; is an independent online radio that prides itself on being a hotbed
+      for emerging music, art, and culture. Since 1999, its experimental ethos has attracted musicians including Flying
+      Lotus, Daedelus, and many more.
     &lt;/p&gt;
     &lt;p&gt;
-        As a kid in LA, I’ve been a big fan for as long as I can remember. Their tagline ”Future Roots” refers to their style of mixing old and new to create something fresh.
-        &lt;!-- I was a classically trained cellist who dreamed of being a bedroom beatmaker, and a huge fan of the LA beat scene, which Dublab played a big part in. --&gt;
-      &lt;/p&gt;
+      As a kid in LA, I’ve been a big fan for as long as I can remember. Their tagline ”Future Roots” refers to their
+      style of mixing old and new to create something fresh.
+    &lt;/p&gt;
 
     &lt;br /&gt;
   &lt;/div&gt;
@@ -40,13 +42,13 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -54,15 +56,13 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Drawing with Sound&lt;/h2&gt;
 
     &lt;p&gt;
-      I created a unique tool for making posters and large-scale installations through sound synthesis. 
+      I created a unique tool for making posters and large-scale installations through sound synthesis.
     &lt;/p&gt;
     &lt;p&gt;
-      The Processing program works
-      like a feedback loop: images are translated to sound, sound is visualized
-      on the oscilloscope, then that sound is filtered, which affects the image
-      again. It’s like a synthesizer for visuals.
-      The code is based on the open source 
-      &lt;a href=&quot;https://teddavis.org/xyscope/&quot;&gt;XYscope&lt;/a&gt; library.
+      The Processing program works like a feedback loop: images are translated to sound, sound is visualized
+      on the oscilloscope, then that sound is filtered, which affects the image again. It’s like a synthesizer for
+      visuals.
+      The code is based on the open source &lt;a href=&quot;https://teddavis.org/xyscope/&quot;&gt;XYscope&lt;/a&gt; library.
     &lt;/p&gt;
 
     &lt;br /&gt;
@@ -70,45 +70,27 @@
 
   &lt;div class=&quot;col-lg-8&quot;&gt;
     &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
-      &lt;video
-        class=&quot;embed-responsive-item&quot;
-        playsinline
-        autoplay
-        muted
-        loop
-        poster=&quot;/img/dublab/video-drawsound-1.jpg&quot;
-      &gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/video-drawsound-1.jpg&quot;&gt;
         &lt;source src=&quot;/img/dublab/video-drawsound-1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
       &lt;/video&gt;
     &lt;/div&gt;
 
-    &lt;span class=&quot;caption text-muted&quot;
-      &gt;The Processing sketch used to generate poster&amp;nbsp;linework.&lt;/span
-    &gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;The Processing sketch used to generate poster&amp;nbsp;linework.&lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-      &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
-          &lt;video
-            class=&quot;embed-responsive-item&quot;
-            playsinline
-            autoplay
-            muted
-            loop
-            poster=&quot;/img/dublab/video-drawsound-2.jpg&quot;
-          &gt;
-            &lt;source src=&quot;/img/dublab/video-drawsound-2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-          &lt;/video&gt;
-        &lt;/div&gt;
-        &lt;span class=&quot;caption text-muted&quot;
-          &gt;A phone running TouchOSC controls the filter value for the
-          sound&amp;nbsp;image.&lt;/span
-        &gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/video-drawsound-2.jpg&quot;&gt;
+        &lt;source src=&quot;/img/dublab/video-drawsound-2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;/video&gt;
+    &lt;/div&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;A phone running TouchOSC controls the filter value for the
+      sound&amp;nbsp;image.&lt;/span&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -119,12 +101,12 @@
     &lt;p&gt;
       Two typefaces were developed for Dublab based around sound.
     &lt;/p&gt;
-    &lt;p&gt;DB Data Mono
-      is a true monospace revival of Data70 in sine- and square wave variants inspired by the concept of Future Roots.
+    &lt;p&gt;&lt;strong&gt;DB Data Mono&lt;/strong&gt; is a true monospace revival of Data70 in sine- and square wave variants inspired by
+      the concept of Future Roots.
     &lt;/p&gt;
     &lt;p&gt;
-      DB Circuit Mono is a connected digital “script” based on the way type is
-      rendered on oscilloscopes.
+      &lt;strong&gt;DB Circuit Mono&lt;/strong&gt; is a connected digital “script” based on the way type is rendered on
+      oscilloscopes.
     &lt;/p&gt;
 
   &lt;/div&gt;
@@ -141,81 +123,70 @@
 &lt;hr /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-  
-      &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
-  
-      &lt;p&gt;
-        I met Mark (Dublab founder) at an event where he gave a talk on &lt;a href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;.
-        I felt the need to go deeper into my research, so I struck up a conversation. He was passionate and excited to share.
-      &lt;/p&gt;
-      &lt;p&gt;
-        I asked directly what interested Mark that Dublab could do more of, and he mentioned that Dublab had a large archive of 
-        interviews with musicians that he felt was important to preserve. I took the initiative to propose a print version and transcribe one of the most memorable interviews.
-      &lt;/p&gt;
-      &lt;!-- &lt;p&gt;
-        The publication features custom typefaces for the cover, 
-        to create chapter breaks, and DB Circuit Mono for the cover typography. 
-        The first edition is a conversation with Van Dyke Parks.
-      &lt;/p&gt; --&gt;
-  
-    &lt;/div&gt;
-  
-      &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-1.jpg&quot; /&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-2.jpg&quot; /&gt;
-        &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
+
+    &lt;p&gt;
+      I met Mark (Dublab founder) at an event where he gave a talk on &lt;a
+        href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;.
+      Looking to get deeper into my research, I struck up a conversation. He was passionate and excited to share.
+    &lt;/p&gt;
+    &lt;p&gt;
+      I asked directly what interested Mark that Dublab could do more of, and he mentioned that Dublab had a large
+      archive of interviews with musicians that he felt was important to preserve. I took the initiative to propose a
+      print version and transcribe one of the most memorable interviews.
+    &lt;/p&gt;
+
   &lt;/div&gt;
 
-  &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-      &lt;div class=&quot;carousel-inner&quot;&gt;
-        &lt;div class=&quot;carousel-item active&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-1.jpg&quot; alt=&quot;First slide&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-2.jpg&quot; alt=&quot;Second slide&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-3.jpg&quot; alt=&quot;Third slide&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-4.jpg&quot; alt=&quot;Third slide&quot;&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;carousel-item&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-5.jpg&quot; alt=&quot;Third slide&quot;&gt;
-            &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-      &lt;/a&gt;
-      &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-1.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-2.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-    &lt;hr&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
-    
-    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-      &lt;video
-        class=&quot;embed-responsive-item&quot;
-        playsinline
-        autoplay
-        muted
-        loop
-        poster=&quot;/img/dublab/web-preview.jpg&quot;
-      &gt;
-        &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-      &lt;/video&gt;
+&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;carousel-item active&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-1.jpg&quot; alt=&quot;First slide&quot;&gt;
     &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-2.jpg&quot; alt=&quot;Second slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-3.jpg&quot; alt=&quot;Third slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-4.jpg&quot; alt=&quot;Third slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-5.jpg&quot; alt=&quot;Third slide&quot;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
 &lt;hr&gt;
-&lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;Poster Gallery&lt;/h2&gt; --&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/web-preview.jpg&quot;&gt;
+    &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
 
 &lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -245,14 +216,14 @@
 &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-  
-        &lt;h2 class=&quot;section-heading&quot;&gt;Collateral&lt;/h2&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
 
-        &lt;p&gt;Inspired by the concept of Future Roots, dot matrix printing plays a prominent role in the identity. 
-          Dot matrix paper becomes an envelope and letter in one.&lt;/p&gt;
-    
-      &lt;/div&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Collateral&lt;/h2&gt;
+
+    &lt;p&gt;Inspired by the concept of Future Roots, dot matrix printing plays a prominent role in the identity.
+      Dot matrix paper becomes an envelope and letter in one.&lt;/p&gt;
+
+  &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-cards-3.jpg&quot; /&gt;
   &lt;/div&gt;
@@ -264,95 +235,66 @@
 &lt;div class=&quot;row&quot;&gt;
 
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/dublab/print-letterhead-1.jpg&quot;
-    /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-letterhead-1.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/dublab/print-letterhead-2.jpg&quot;
-    /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-letterhead-2.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A sound-exlporing identity system for an experimental online radio station in Los Angeles. Related project: Indeterminacy Category: Identity Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/projects/order-and-chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/projects/order-and-chaos/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;p class=&quot;intro&quot;&gt;
-            An interactive installation inspired by &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;
-            &gt;John Cage&lt;/a&gt;’s method for       &lt;a
-            href=&quot;https://en.wikipedia.org/wiki/Indeterminacy_(music)&quot;
-            target=&quot;_blank&quot;
-            &gt;composing with chance.&lt;/a&gt;
-        &lt;/p&gt;
-        &lt;p&gt;
-            Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
-            Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
-            Category: Interactive&lt;br&gt;
-            Year: 2018
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;/div&gt;
 &lt;/div&gt;
 
-  &lt;hr&gt;
+&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A sonic identity system for an experimental online radio station in Los Angeles. Related project: Indeterminacy Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie Category: Identity Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/projects/order-and-chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/projects/order-and-chaos/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;
+      An interactive installation inspired by &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;&gt;John
+        Cage&lt;/a&gt;’s method for &lt;a href=&quot;https://en.wikipedia.org/wiki/Indeterminacy_(music)&quot; target=&quot;_blank&quot;&gt;composing
+        with chance.&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
+      Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
+      Category: Interactive&lt;br&gt;
+      Year: 2018
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Design as Performance&lt;/h2&gt;
 
     &lt;p&gt;My proposed identity for Dublab is based on a set of unique tools for graphic creation inspired by music.&lt;/p&gt;
-    &lt;!-- &lt;p&gt;     in which some aspects of a work are left open to chance or to the
-        interpreter’s free choice. This project uses new tools and technologies to create a unique voice for the proposed &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; brand.&lt;/p&gt; --&gt;
-    &lt;!-- &lt;p&gt;
-      This is an interactive installation proposed as part of a 
-      &lt;a href=&quot;https://zeke.studio/projects/dublab/&quot;&gt;Dublab&lt;/a&gt; series 
-      about chance in music, also known as 
-      &lt;a
-        href=&quot;https://en.wikipedia.org/wiki/Indeterminacy_(music)&quot;
-        target=&quot;_blank&quot;
-        &gt;indeterminacy&lt;/a
-      &gt;.
-    &lt;/p&gt; --&gt;
-      &lt;p&gt;
-      This interactive installation 
-      allows guests to generate their own posters and output them in real time
-      via a hacked dot matrix printer, honoring the time-based nature of musical performance.
-      &lt;!-- It's chance in design, inspired by chance in music. 
-      People then take them home as a commemoration of the event, reflecting the time-based, participatory nature of performance. --&gt;
+
+    &lt;p&gt;
+      This interactive installation allows guests to generate and output their own posters in real time
+      via a hacked dot matrix printer.
     &lt;/p&gt;
 
     &lt;p&gt;
-      &lt;a
-        class=&quot;btn btn-primary btn-lg&quot;
-        href=&quot;http://zeke.studio/indeterminacy&quot;
-        target=&quot;_blank&quot;
-        role=&quot;button&quot;
-        &gt;Create your own poster&lt;/a
-      &gt;
+      &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot; role=&quot;button&quot;&gt;Create
+        your own poster&lt;/a&gt;
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
-      &lt;a href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot;
-      &gt;&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/web-laptop.jpg&quot;
-    /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid inline-image&quot;
+        src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt;&lt;/a&gt;
   &lt;/div&gt;
 
 &lt;/div&gt;
 
-  &lt;hr&gt;
+&lt;hr&gt;
 
-  &lt;h2 class=&quot;section-heading&quot;&gt;Documentation video&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Documentation video&lt;/h2&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video
-    class=&quot;embed-responsive-item&quot;
-    playsinline
-    autoplay
-    muted
-    loop
-    controls
-    poster=&quot;/img/indeterminacy/video-reel.jpg&quot;
-  &gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop controls
+    poster=&quot;/img/indeterminacy/video-reel.jpg&quot;&gt;
     &lt;source src=&quot;/img/indeterminacy/video-reel.webm&quot; type=&quot;video/webm&quot; /&gt;
     &lt;source src=&quot;/img/indeterminacy/video-reel.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   &lt;/video&gt;
@@ -361,54 +303,31 @@
 &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img
-          class=&quot;img-fluid inline-image&quot;
-          src=&quot;/img/indeterminacy/poster-wall.jpg&quot;
-        /&gt;
-      &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-      &lt;img
-        class=&quot;img-fluid inline-image&quot;
-        src=&quot;/img/indeterminacy/animation-black.gif&quot;
-      /&gt;
-    &lt;/div&gt;
-
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/animation-black.gif&quot; /&gt;
   &lt;/div&gt;
 
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-6 col-md-8 mx-auto&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Recognition&lt;/h2&gt;
+&lt;/div&gt;
 
-    &lt;p&gt;
-      &lt;a
-        href=&quot;https://designawards.core77.com/Visual-Communication/84690/DUBLAB-Online-Radio-Station&quot;
-        target=&quot;_blank&quot;
-        &gt;&amp;#x1F3C6; &lt;strong&gt;Core77 Design Awards (2019)&lt;/strong&gt;&lt;/a
-      &gt;&lt;br /&gt;Student Notable Visual Communication Award
-    &lt;/p&gt;
-    &lt;p&gt;
-      &lt;a
-        href=&quot;https://www.oneclub.org/awards/youngones/-award/34339/dublab-online-radio-station-identity&quot;
-        target=&quot;_blank&quot;
-        &gt;&amp;#x1F3C6; &lt;strong&gt;The One Club: Young Ones (2019)&lt;/strong&gt;&lt;/a
-      &gt;&lt;br /&gt;Merit Award in Branding Systems
-    &lt;/p&gt;
-
-    &lt;br /&gt;
+&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the-blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-28T20:45:13-07:00</published><updated>2017-10-28T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the-blade/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
+      technology.&lt;/p&gt;
   &lt;/div&gt;
-&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the-blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-28T20:45:13-07:00</published><updated>2017-10-28T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the-blade/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED technology.&lt;/p&gt;
-        &lt;p&gt;
-            Category: Interactive installation&lt;br /&gt;
-            Year: 2019&lt;br&gt;
-            Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor
-          &lt;/p&gt;
-          
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Interactive installation&lt;br /&gt;
+      Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor&lt;br /&gt;
+      Year: 2019
+    &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -420,36 +339,12 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Inspired by the Sun&lt;/h2&gt;
 
     &lt;p&gt;
-      An international tech client wanted to to communicate the power of their revolutionary LED technology &amp;mdash; light that embodies the sun.
-      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive scale.
+      An international tech client wanted to to communicate the power of their revolutionary LED technology &amp;mdash;
+      light that embodies the sun.
+      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive
+      scale.
     &lt;/p&gt;
 
-          &lt;!-- 
-            So how do you communicate the power of the sun? By letting light speak for
-      itself. The blade is a visceral experience of pure light—a massive slice
-      of sunset, on loop. &lt;p&gt;
-      The back of the blade functions as seating. Relax and watch the sunset —
-      then, the second sunset begins. It’s like watching a sunset that you can
-      walk right up to and touch. The power of this lighting is its relation to
-      nature.
-    &lt;/p&gt; &lt;h2 class=&quot;section-heading&quot;&gt;LA &amp;rarr; Berlin &amp;rarr; Worldwide&lt;/h2&gt;
-
-    &lt;p&gt;
-      Five top graphic design students and one instructor travel to Berlin to
-      concept and design an interactive installation for a tech client. The
-      client had something really unique: a new type of LED with the power of
-      the sun.
-    &lt;/p&gt;
-    &lt;p&gt;
-      What do I mean by that? Most commercial lighting operates at a relatively
-      limited spectrum — it’s why you might get a headache after sitting under
-      fluorescent lights for too long. All light has a color temperature — it’s
-      also why golden hour looks so good. Somehow, this company managed to
-      design a type of LED that could replicate the deepest reds and the coolest
-      blues, at nearly the full range of natural light. And at low energy input.
-      That’s a pretty big deal.
-    &lt;/p&gt; 
-  --&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
@@ -458,7 +353,7 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    
+
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
@@ -488,115 +383,53 @@
 &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-  
-        &lt;p&gt;
-            Models, SketchUp, projection mapping, DesertX (scale), testing &amp; even
-            coding for LEDs, pitching in Berlin!
-        &lt;/p&gt; --&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;A Powerful Narrative&lt;/h2&gt;
-
-        &lt;p&gt;
-            Our narrative about the power of the sun became a key component of the company’s new brand after we pitched it to the CEO and investors. 
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-
-  &lt;hr&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-          &lt;p&gt;We created small-scale prototypes and VR sketches to iterate fast and discovered that simple forms best communicated the power of the light.&lt;/p&gt;
-          &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-sm&quot;&gt;
-            &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-02.jpg&quot; /&gt;
-        &lt;/div&gt;
-
-      &lt;!-- &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-05-alt.jpg&quot; /&gt;
-    &lt;/div&gt; --&gt;
-
-
-    &lt;/div&gt;
-
-
-
-
-
-
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-6 col-md-8 mx-auto&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;A Powerful Narrative&lt;/h2&gt;
 
     &lt;p&gt;
-      Models, SketchUp, projection mapping, DesertX (scale), testing &amp; even
-      coding for LEDs, pitching in Berlin!
+      Our narrative about the power of the sun became a key driver of the company’s new brand narrative after we pitched
+      to the CEO and investors.
     &lt;/p&gt;
-
-    &lt;br /&gt;
   &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
+  &lt;/div&gt;
+
 &lt;/div&gt;
+
+&lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/blade/blade-process-05-alt.jpg&quot;
-    /&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
+    &lt;p&gt;We created small-scale prototypes and VR sketches to iterate fast and discovered that simple forms best
+      communicated the power of the light.&lt;/p&gt;
+    &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;.
+    &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/blade/blade-process-06-alt.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-02.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-03.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-04.jpg&quot; /&gt;
-  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;row&quot;&gt;
+&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Various Freelance Projects</title><link href="http://localhost:4000/projects/various/" rel="alternate" type="text/html" title="Various Freelance Projects" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/various</id><content type="html" xml:base="http://localhost:4000/projects/various/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-05.jpg&quot; /&gt;
+    &lt;p class=&quot;intro&quot;&gt;A selection of freelance projects.&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Year: 2019 Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor</summary></entry><entry><title type="html">Various Freelance Projects</title><link href="http://localhost:4000/projects/various/" rel="alternate" type="text/html" title="Various Freelance Projects" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/various</id><content type="html" xml:base="http://localhost:4000/projects/various/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-            &lt;p class=&quot;intro&quot;&gt;A selection of freelance projects.&lt;/p&gt;
-
-            &lt;p&gt;
-                Category: Print, Identity, Packaging, Art Direction&lt;br /&gt;
-                Year: 2017–2019
-              &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Print, Identity, Packaging, Art Direction&lt;br /&gt;
+      Year: 2017–2019
+    &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -607,74 +440,71 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Mike Sierra Tango&lt;/h2&gt;
 
     &lt;p&gt;
-        A series of type specimen posters for the HMCT’s “MST” exhibition on multi-script typefaces. Shown at ATypI Tokyo 2019.
+      A series of type specimen posters for the HMCT’s “MST” exhibition on multi-script typefaces. Shown at ATypI Tokyo
+      2019.
     &lt;/p&gt;
     &lt;p&gt;
-        I dissected the type specimen booklets for Plex and Kazimer provided by the designers and created a hierarchical system for each for the space of the poster.    &lt;/p&gt; 
+      I dissected the type specimen booklets for Plex and Kazimer provided by the designers and created a hierarchical
+      system for each for the space of the poster. &lt;/p&gt;
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/various/hmct/hmct-mst-1.jpg&quot;
-    /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/hmct/hmct-mst-1.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-      &lt;img
-        class=&quot;img-fluid inline-image&quot;
-        src=&quot;/img/various/hmct/hmct-mst-2.jpg&quot;
-      /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;hr /&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-  
-      &lt;h2 class=&quot;section-heading&quot;&gt;Upside Hats&lt;/h2&gt;
-  
-      &lt;p&gt;
-          Branding, packaging, and design direction for a Portland-based startup with a uniquely customizable product.
-      &lt;/p&gt;
-      &lt;p&gt;
-          A hat with velcro monospace letters can be rearranged to create a new message every day.
-      &lt;/p&gt;
-
-    &lt;/div&gt;
-    &lt;div class=&quot;col-lg-8&quot;&gt;
-
-      &lt;img
-        class=&quot;img-fluid inline-image&quot;
-        src=&quot;/img/various/upside/caption-cap-bw.jpg&quot;
-      /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-sm&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-lg-8&quot;&gt;
-              &lt;img
-                class=&quot;img-fluid inline-image&quot;
-                src=&quot;/img/various/upside/upside-bag.png&quot;
-              /&gt;
-            &lt;/div&gt;
-
-  &lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A selection of freelance projects.</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill-by-netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill-by-netflix/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
-      &lt;p class=&quot;intro&quot;&gt;A brand extension for Netflix in the personal care and sexual wellness market.&lt;/p&gt;
-      &lt;p&gt;
-          Category: Packaging&lt;br /&gt;
-          Year: 2017
-        &lt;/p&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/hmct/hmct-mst-2.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Upside Hats&lt;/h2&gt;
+
+    &lt;p&gt;
+      Branding, packaging, and design direction for a Portland-based startup with a uniquely customizable product.
+    &lt;/p&gt;
+    &lt;p&gt;
+      A hat with velcro monospace letters can be rearranged to create a new message every day.
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/upside/caption-cap-bw.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/upside/upside-bag.png&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A selection of freelance projects. Category: Print, Identity, Packaging, Art Direction Year: 2017–2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill-by-netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill-by-netflix/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;A brand extension for Netflix in the personal care and sexual wellness market.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Packaging&lt;br /&gt;
+      Instructors: Andrew Gibbs, Jessica Deseo&lt;br /&gt;
+      Year: 2017
+    &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -686,128 +516,50 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Binging is Better Together&lt;/h2&gt;
 
     &lt;p&gt;
-      Netflix’s brand known for its award-winning content as much as it is its unofficial catchphrase: Netflix and chill?
-    &lt;/p&gt; 
-    &lt;p&gt;
-      This packaging project proposes a way for Netflix to finally own ”chill” through their signature playful, cheeky humor.
+      Netflix’s brand known for its award-winning content as much as it is its unofficial catchphrase: Netflix and
+      chill?
     &lt;/p&gt;
-      
-      &lt;!-- REWRITE THIS: 
-      Chill by Netflix is a fresh, bold, and accessible line of sexual personal
-      care products from Netflix. It’s an opportunity for Netflix to finally own
-      “Netflix and Chill” while promoting safe sex to their audience, which is
-      predominantly Gen Z and Millennials. The line includes tingling body
-      lotion, personal lubricant, unisex fragrance, a massage candle, and
-      natural latex condoms. Products are sold online as a kit, and customers
-      receive them in a unique cardboard mailer box featuring cheeky illustrated
-      quotes from Netflix Originals that relate to sex and dating. Please binge
-      responsibly. --&gt;
+    &lt;p&gt;
+      This packaging project proposes a way for Netflix to finally own ”chill” through their signature playful, cheeky
+      humor.
+    &lt;/p&gt;
+
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-box-family.jpg&quot;
-    /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-box-family.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;h2 class=&quot;section-heading&quot;&gt;Product Photography&lt;/h2&gt;
 &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-sm&quot;&gt;
-          &lt;!-- &lt;p&gt;
-            Dark and alluring.
-          &lt;/p&gt; --&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-8&quot;&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-body-lotion.jpg&quot; /&gt;
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-lube.jpg&quot; /&gt;
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-candle.jpg&quot; /&gt;
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-fragrance.jpg&quot; /&gt;
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-1.jpg&quot; /&gt;
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-2.jpg&quot; /&gt;
-&lt;!-- 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Photography&lt;/h2&gt;
 
-    &lt;p&gt;
-      Dark, mysterious, alluring. For the night.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-body-lotion.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-lube.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-candle.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-fragrance.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-condom-1.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-condom-2.jpg&quot;
-    /&gt;
-  &lt;/div&gt;
-&lt;/div&gt; --&gt;
 
 &lt;hr /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Flexible Logo&lt;/h2&gt;
-    &lt;!-- &lt;p&gt;
-      Flexible logo. Bed/chair.
-    &lt;/p&gt; --&gt;
+
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
     &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-      &lt;video
-        class=&quot;embed-responsive-item&quot;
-        playsinline
-        autoplay
-        muted
-        loop
-        poster=&quot;/img/netflix/netflix-logo-poster.jpg&quot;
-      &gt;
-        &lt;source
-          src=&quot;/img/netflix/netflix-logo-animation.mp4&quot;
-          type=&quot;video/mp4&quot;
-        /&gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop
+        poster=&quot;/img/netflix/netflix-logo-poster.jpg&quot;&gt;
+        &lt;source src=&quot;/img/netflix/netflix-logo-animation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
       &lt;/video&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -819,23 +571,23 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Sketching process&lt;/h2&gt;
     &lt;p&gt;
-      The form language of the packaging is derived from the shape of the Netflix logo. The curve allows for comfortable grip and easy pouring. 
+      The form language of the packaging is derived from the shape of the Netflix logo. The curve allows for comfortable
+      grip and easy pouring.
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-process-1.jpg&quot;
-    /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
   &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img
-      class=&quot;img-fluid inline-image&quot;
-      src=&quot;/img/netflix/netflix-process-2.jpg&quot;
-    /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A brand extension for Netflix in the personal care and sexual wellness market. Category: Packaging Year: 2017</summary></entry></feed>
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A brand extension for Netflix in the personal care and sexual wellness market. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
