@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-12T20:45:15-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-13T18:52:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A sonic identity system for an experimental online radio station in Los Angeles.
@@ -418,83 +418,7 @@
 &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
   &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Various Freelance Projects</title><link href="http://localhost:4000/projects/various/" rel="alternate" type="text/html" title="Various Freelance Projects" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/various</id><content type="html" xml:base="http://localhost:4000/projects/various/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;A selection of freelance projects.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Print, Identity, Packaging, Art Direction&lt;br /&gt;
-      Year: 2017–2019
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Mike Sierra Tango&lt;/h2&gt;
-
-    &lt;p&gt;
-      A series of type specimen posters for the HMCT’s “MST” exhibition on multi-script typefaces. Shown at ATypI Tokyo
-      2019.
-    &lt;/p&gt;
-    &lt;p&gt;
-      I dissected the type specimen booklets for Plex and Kazimer provided by the designers and created a hierarchical
-      system for each for the space of the poster. &lt;/p&gt;
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/hmct/hmct-mst-1.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/hmct/hmct-mst-2.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Upside Hats&lt;/h2&gt;
-
-    &lt;p&gt;
-      Branding, packaging, and design direction for a Portland-based startup with a uniquely customizable product.
-    &lt;/p&gt;
-    &lt;p&gt;
-      A hat with velcro monospace letters can be rearranged to create a new message every day.
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/upside/caption-cap-bw.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/various/upside/upside-bag.png&quot; /&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;
-  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A selection of freelance projects. Category: Print, Identity, Packaging, Art Direction Year: 2017–2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill-by-netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill-by-netflix/">&lt;div class=&quot;row&quot;&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill-by-netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill-by-netflix/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;A brand extension for Netflix in the personal care and sexual wellness market.&lt;/p&gt;
   &lt;/div&gt;
