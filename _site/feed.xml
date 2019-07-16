@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-13T18:52:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-15T22:57:46-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A sonic identity system for an experimental online radio station in Los Angeles.
     &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
       Related project: &lt;a href=&quot;/projects/order-and-chaos&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br /&gt;
@@ -15,14 +14,10 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-
-
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-
     &lt;h2 class=&quot;section-heading&quot;&gt;Future Roots Radio&lt;/h2&gt;
-
     &lt;p&gt;
       &lt;a href=&quot;https://www.Dublab.com/&quot;&gt;Dublab&lt;/a&gt; is an independent online radio that prides itself on being a hotbed
       for emerging music, art, and culture. Since 1999, its experimental ethos has attracted musicians including Flying
@@ -32,57 +27,31 @@
       As a kid in LA, I’ve been a big fan for as long as I can remember. Their tagline ”Future Roots” refers to their
       style of mixing old and new to create something fresh.
     &lt;/p&gt;
-
     &lt;br /&gt;
   &lt;/div&gt;
-
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-enviro.jpg&quot; /&gt;
-  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-enviro.jpg&quot; /&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Drawing with Sound&lt;/h2&gt;
-
     &lt;p&gt;
       I created a unique tool for making posters and large-scale installations through sound synthesis.
     &lt;/p&gt;
     &lt;p&gt;
       The Processing program works like a feedback loop: images are translated to sound, sound is visualized
       on the oscilloscope, then that sound is filtered, which affects the image again. It’s like a synthesizer for
-      visuals.
-      The code is based on the open source &lt;a href=&quot;https://teddavis.org/xyscope/&quot;&gt;XYscope&lt;/a&gt; library.
+      visuals. The code is based on the open source &lt;a href=&quot;https://teddavis.org/xyscope/&quot;&gt;XYscope&lt;/a&gt; library.
     &lt;/p&gt;
-
-    &lt;br /&gt;
   &lt;/div&gt;
-
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
-      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/video-drawsound-1.jpg&quot;&gt;
-        &lt;source src=&quot;/img/dublab/video-drawsound-1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-      &lt;/video&gt;
-    &lt;/div&gt;
-
-    &lt;span class=&quot;caption text-muted&quot;&gt;The Processing sketch used to generate poster&amp;nbsp;linework.&lt;/span&gt;
-  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
     &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
       &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/video-drawsound-2.jpg&quot;&gt;
         &lt;source src=&quot;/img/dublab/video-drawsound-2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -91,13 +60,55 @@
     &lt;span class=&quot;caption text-muted&quot;&gt;A phone running TouchOSC controls the filter value for the
       sound&amp;nbsp;image.&lt;/span&gt;
   &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/video-drawsound-1.jpg&quot;&gt;
+        &lt;source src=&quot;/img/dublab/video-drawsound-1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;/video&gt;
+    &lt;/div&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;The Processing sketch used to generate poster&amp;nbsp;linework.&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Posters&lt;/h2&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-6.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-4.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-3.jpg&quot; /&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Custom Typefaces&lt;/h2&gt;
-
     &lt;p&gt;
       Two typefaces were developed for Dublab based around sound.
     &lt;/p&gt;
@@ -108,25 +119,25 @@
       &lt;strong&gt;DB Circuit Mono&lt;/strong&gt; is a connected digital “script” based on the way type is rendered on
       oscilloscopes.
     &lt;/p&gt;
-
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/fonts-2.png&quot; /&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;DB Data Mono&lt;/span&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/fonts-1.png&quot; /&gt;
     &lt;span class=&quot;caption text-muted&quot;&gt;DB Circuit Mono&lt;/span&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/fonts-2.png&quot; /&gt;
-    &lt;span class=&quot;caption text-muted&quot;&gt;DB Data Mono&lt;/span&gt;
-  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
-
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-
     &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
-
     &lt;p&gt;
       I met Mark (Dublab founder) at an event where he gave a talk on &lt;a
         href=&quot;/projects/indeterminacy&quot;&gt;Indeterminacy&lt;/a&gt;.
@@ -137,9 +148,10 @@
       archive of interviews with musicians that he felt was important to preserve. I took the initiative to propose a
       print version and transcribe one of the most memorable interviews.
     &lt;/p&gt;
-
   &lt;/div&gt;
-
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-1.jpg&quot; /&gt;
   &lt;/div&gt;
@@ -188,42 +200,16 @@
 
 &lt;hr&gt;
 
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-3.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;padding-top: 1.2rem;&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-4.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-6.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-8.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;hr&gt;
-
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-
     &lt;h2 class=&quot;section-heading&quot;&gt;Collateral&lt;/h2&gt;
-
     &lt;p&gt;Inspired by the concept of Future Roots, dot matrix printing plays a prominent role in the identity.
       Dot matrix paper becomes an envelope and letter in one.&lt;/p&gt;
-
   &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-cards-3.jpg&quot; /&gt;
   &lt;/div&gt;
@@ -253,7 +239,6 @@
         with chance.&lt;/a&gt;
     &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
       Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
@@ -276,31 +261,18 @@
       via a hacked dot matrix printer.
     &lt;/p&gt;
 
-    &lt;p&gt;
-      &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot; role=&quot;button&quot;&gt;Create
-        your own poster&lt;/a&gt;
-    &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;a href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid inline-image&quot;
-        src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
   &lt;/div&gt;
-
 &lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Documentation video&lt;/h2&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop controls
-    poster=&quot;/img/indeterminacy/video-reel.jpg&quot;&gt;
-    &lt;source src=&quot;/img/indeterminacy/video-reel.webm&quot; type=&quot;video/webm&quot; /&gt;
-    &lt;source src=&quot;/img/indeterminacy/video-reel.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
+&lt;a href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid inline-image&quot;
+    src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt;&lt;/a&gt;
+&lt;div style=&quot;text-align: center; padding-bottom: 1.2rem; padding-top: 1.2rem;&quot;&gt;
+  &lt;p&gt;
+    &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot; role=&quot;button&quot;&gt;Create
+      your own poster&lt;/a&gt;
+  &lt;/p&gt;
 &lt;/div&gt;
-
-&lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -309,7 +281,18 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/animation-black.gif&quot; /&gt;
   &lt;/div&gt;
+&lt;/div&gt;
 
+&lt;!-- &lt;hr&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Documentation video&lt;/h2&gt; --&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop controls
+    poster=&quot;/img/indeterminacy/video-reel.jpg&quot;&gt;
+    &lt;source src=&quot;/img/indeterminacy/video-reel.webm&quot; type=&quot;video/webm&quot; /&gt;
+    &lt;source src=&quot;/img/indeterminacy/video-reel.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
 &lt;/div&gt;
 
 &lt;br&gt;
@@ -320,7 +303,6 @@
     &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
       technology.&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
       Category: Interactive installation&lt;br /&gt;
@@ -346,41 +328,16 @@
     &lt;/p&gt;
 
   &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-03.jpg&quot; /&gt;
-  &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-04.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-05.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-03.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-04.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-05.jpg&quot; /&gt;
 
-&lt;hr&gt;
+&lt;!-- &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -395,123 +352,31 @@
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
   &lt;/div&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 
 &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-    &lt;p&gt;We created small-scale prototypes and VR sketches to iterate fast and discovered that simple forms best
-      communicated the power of the light.&lt;/p&gt;
-    &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;.
+    &lt;p&gt;This project was a first for ArtCenter: a student team collaborating with Triad Berlin and a real-world client. We created small-scale prototypes and VR sketches to iterate quickly and discovered that simple forms best
+      communicated the power of the light. Through its simple form, The Blade shows off the power of these lights in an immediate, immerse manner.&lt;/p&gt;
+
+    &lt;!-- &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;. --&gt;
     &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-02.jpg&quot; /&gt;
-  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-02.jpg&quot; /&gt;
+      &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
   &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill-by-netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill-by-netflix/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;A brand extension for Netflix in the personal care and sexual wellness market.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Packaging&lt;br /&gt;
-      Instructors: Andrew Gibbs, Jessica Deseo&lt;br /&gt;
-      Year: 2017
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Binging is Better Together&lt;/h2&gt;
-
-    &lt;p&gt;
-      Netflix’s brand known for its award-winning content as much as it is its unofficial catchphrase: Netflix and
-      chill?
-    &lt;/p&gt;
-    &lt;p&gt;
-      This packaging project proposes a way for Netflix to finally own ”chill” through their signature playful, cheeky
-      humor.
-    &lt;/p&gt;
-
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-box-family.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;h2 class=&quot;section-heading&quot;&gt;Product Photography&lt;/h2&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-body-lotion.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-lube.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-candle.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-fragrance.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-1.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-2.jpg&quot; /&gt;
-
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Flexible Logo&lt;/h2&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop
-        poster=&quot;/img/netflix/netflix-logo-poster.jpg&quot;&gt;
-        &lt;source src=&quot;/img/netflix/netflix-logo-animation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-      &lt;/video&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Sketching process&lt;/h2&gt;
-    &lt;p&gt;
-      The form language of the packaging is derived from the shape of the Netflix logo. The curve allows for comfortable
-      grip and easy pouring.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;
-  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A brand extension for Netflix in the personal care and sexual wellness market. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry></feed>

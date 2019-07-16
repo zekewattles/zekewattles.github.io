@@ -12,7 +12,6 @@ body {
   font-size: 1.5rem;
 }
 
-
 hr {
   border: none;
   border-bottom: 4px solid white;
@@ -87,3 +86,13 @@ img::-moz-selection {
   color: $white;
   background: transparent;
 }
+
+// a {
+//   & img {
+//     &:hover {
+//       -webkit-filter: blur(4px);
+//       filter: blur(4px);
+//       transition: .5s all;
+//     }
+//   }
+// }
