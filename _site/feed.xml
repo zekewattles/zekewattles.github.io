@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-15T23:09:56-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-16T10:51:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A sonic identity system for an experimental online radio station in Los Angeles.
@@ -393,4 +393,82 @@
 &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
   &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry></feed>
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill-by-netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill-by-netflix/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;A brand extension for Netflix in the personal care and sexual wellness market.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt; --&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Packaging&lt;br /&gt;
+      Instructors: Andrew Gibbs, Jessica Deseo&lt;br /&gt;
+      Year: 2017
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Binging is Better Together&lt;/h2&gt;
+
+    &lt;p&gt;
+      Netflix’s brand known for its award-winning content as much as it is its unofficial catchphrase: Netflix and
+      chill?
+    &lt;/p&gt;
+    &lt;p&gt;
+      This packaging project proposes a way for Netflix to finally own ”chill” through their signature playful, cheeky
+      humor.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-body-lotion.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-lube.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-candle.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-fragrance.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-1.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-2.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-box-family.jpg&quot; /&gt;
+
+
+&lt;!-- &lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Flexible Logo&lt;/h2&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop
+        poster=&quot;/img/netflix/netflix-logo-poster.jpg&quot;&gt;
+        &lt;source src=&quot;/img/netflix/netflix-logo-animation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;/video&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Sketching process&lt;/h2&gt;
+    &lt;p&gt;
+      The form language of the packaging is derived from the shape of the Netflix logo. The curve allows for comfortable
+      grip and easy pouring.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;    
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt;
+
+&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A brand extension for Netflix in the personal care and sexual wellness market. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
