@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T02:01:50-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T13:49:23-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -447,7 +447,305 @@
 &lt;!-- &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
   &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work in progress. Category: Interactive installation, video piece Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill_by_netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-25T20:45:13-07:00</published><updated>2017-10-25T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill_by_netflix/">&lt;div class=&quot;row&quot;&gt;
+&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work in progress. Category: Interactive installation, video piece Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/projects/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-26T20:45:13-07:00</published><updated>2017-10-26T20:45:13-07:00</updated><id>http://localhost:4000/projects/deepfakes</id><content type="html" xml:base="http://localhost:4000/projects/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;A print-based exploration of deepfakes: theory, technique, and practice. &lt;em&gt;Work in progress.&lt;/em&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Book design&lt;br /&gt;
+      Instructor: Brad Bartlett&lt;br /&gt;
+      Year: 2019
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;A Deep Dive Into Deepfakes&lt;/h2&gt;
+
+    &lt;p&gt;
+      A book investigating deepfakes, computer vision, and related technologies. A deepfake of myself onto Tim Cook
+      introducing new Apple products begins the book, and a deepfake of myself into Elon Musk in an interview about AI
+      brings the reader out. Different sections present multiple explorations of using AI tools for design: the creation
+      of deepfakes, the use of image-recognition algorithms, the use of Vuforia’s computer image recognition ”targets”
+      as a visual effect, and a machine learning-based text-to-emoji translator.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+      &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+          &lt;div class=&quot;carousel-inner&quot;&gt;
+            &lt;div class=&quot;carousel-item active&quot;&gt;
+              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/deepfakes/ats_cover_mockup_1.jpg&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;carousel-item&quot;&gt;
+              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/deepfakes/ats_cover_mockup_2.jpg&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+          &lt;/a&gt;
+          &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+
+    &lt;span class=&quot;caption text-muted&quot;&gt;This visual treatment comes from &lt;a href=&quot;https://developer.vuforia.com/&quot; target=&quot;_blank&quot;&gt;Vuforia&lt;/a&gt;’s image target engine. It is how a
+      computer recognizes text as image, like a QR code.&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_1.jpg&quot; /&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_4.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_3.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;Since the author is known for talking about symbols, I ran Baudrillard’s famous
+      “Simulation and Simulacra” through
+      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
+      original text nearly impossible to read, so I think that it is an improvement.&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_5.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_6.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;&lt;a href=&quot;https://github.com/iperov/DeepFaceLab&quot; target=&quot;_blank&quot;&gt;DeepFaceLab&lt;/a&gt;
+      generates a history of how it “trains” one face to match another &amp;mdash; in this case, my own face and Tim
+      Cook’s.&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_7.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_9.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_2.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_10.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_11.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;Can I use AI to write my book?
+      GPT-2 is a “natural language text generation model” from OpenAI, considered so good it’s “too dangerous to
+      release.” I used &lt;a href=&quot;https://talktotransformer.com/&quot; target=&quot;_blank&quot;&gt;TalkToTransformer.com&lt;/a&gt; to generate my
+      conclusions by posing a simple question: What’s a deepfake?&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_12.jpg&quot; /&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;
+
+&lt;!-- &lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Abstracting Theory through Technology&lt;/h2&gt;
+
+    &lt;p&gt;
+      Since the author is known for talking about symbols, I ran Baudrillard’s famous “Simulation and Simulacra” through
+      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
+      original text nearly impossible to read, so I think that it is an improvement.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_3.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_4.jpg&quot; /&gt; --&gt;
+
+
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Embodying Success&lt;/h2&gt;
+
+    &lt;p&gt;
+      Graduating ArtCenter caused more self-reflection and anxiety than I expected. By embodying successful figures in
+      design and technology, could I shortcut the whole job hunting process and propel my career?
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/deepfake_web_cover.png&quot; /&gt; --&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Tim Cook, embodying his near-cult presentor
+  status.&lt;/span&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/deepfakes/elon_web_full.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
+  simulations are indistinguishable from reality.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A print-based exploration of deepfakes: theory, technique, and practice. Work in progress. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-22T20:45:13-07:00</published><updated>2017-10-22T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the_blade/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
+      technology.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Interactive installation&lt;br /&gt;
+      Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor&lt;br /&gt;
+      Year: 2019
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Inspired by the Sun&lt;/h2&gt;
+
+    &lt;p&gt;
+      An international tech client wanted to to communicate the power of their revolutionary LED technology &amp;mdash;
+      light that embodies the sun.
+      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive
+      scale.
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-03.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-04.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-05.jpg&quot; /&gt;
+
+&lt;!-- &lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;A Powerful Narrative&lt;/h2&gt;
+
+    &lt;p&gt;
+      Our narrative about the power of the sun became a key driver of the company’s new brand narrative after we pitched
+      to the CEO and investors.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt; --&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
+    &lt;p&gt;This project was a first for ArtCenter: a student team collaborating with Triad Berlin and a real-world client.
+      We created small-scale prototypes and VR sketches to iterate quickly and discovered that simple forms best
+      communicated the power of the light. Through its simple form, The Blade shows off the power of these lights in an
+      immediate, immerse manner.&lt;/p&gt;
+
+    &lt;!-- &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;. --&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+      &lt;div class=&quot;carousel-inner&quot;&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-05-alt.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item active&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-01.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-02.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-05.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-06-alt.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-07.jpg&quot;&gt;
+        &lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+      &lt;/a&gt;
+      &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-02.jpg&quot; /&gt;
+      &lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Constant Change Berlin&lt;/h2&gt;
+    &lt;p&gt;To celebrate the end of our trip, we threw a party. We designed audio-reactive visuals for the DJs and
+      multi-media installations for guests. I designed the typeface, Platz, used throughout.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/332449130?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot;
+    allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/projects/chill_by_netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2017-10-20T20:45:13-07:00</published><updated>2017-10-20T20:45:13-07:00</updated><id>http://localhost:4000/projects/netflix</id><content type="html" xml:base="http://localhost:4000/projects/chill_by_netflix/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;A personal care brand extension for Netflix’s sultry side.&lt;/p&gt;
   &lt;/div&gt;
@@ -570,203 +868,4 @@
   &lt;/div&gt;
 
 &lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-22T20:45:13-07:00</published><updated>2017-10-22T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the_blade/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
-      technology.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Interactive installation&lt;br /&gt;
-      Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor&lt;br /&gt;
-      Year: 2019
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Inspired by the Sun&lt;/h2&gt;
-
-    &lt;p&gt;
-      An international tech client wanted to to communicate the power of their revolutionary LED technology &amp;mdash;
-      light that embodies the sun.
-      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive
-      scale.
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-03.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-04.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-05.jpg&quot; /&gt;
-
-&lt;!-- &lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;A Powerful Narrative&lt;/h2&gt;
-
-    &lt;p&gt;
-      Our narrative about the power of the sun became a key driver of the company’s new brand narrative after we pitched
-      to the CEO and investors.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt; --&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-    &lt;p&gt;This project was a first for ArtCenter: a student team collaborating with Triad Berlin and a real-world client. We created small-scale prototypes and VR sketches to iterate quickly and discovered that simple forms best
-      communicated the power of the light. Through its simple form, The Blade shows off the power of these lights in an immediate, immerse manner.&lt;/p&gt;
-
-    &lt;!-- &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;. --&gt;
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-      &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-          &lt;div class=&quot;carousel-inner&quot;&gt;
-            &lt;div class=&quot;carousel-item active&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-01.jpg&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;carousel-item&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/blade-process-02.jpg&quot;&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-          &lt;/a&gt;
-          &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-01.jpg&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-02.jpg&quot; /&gt;
-      &lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Constant Change Berlin&lt;/h2&gt;
-    &lt;p&gt;To celebrate the end of our trip, we threw a party. We designed audio-reactive visuals for the DJs and multi-media installations for guests. I designed the typeface, Platz, used throughout.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/332449130?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/projects/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-20T20:45:13-07:00</published><updated>2017-10-20T20:45:13-07:00</updated><id>http://localhost:4000/projects/deepfakes</id><content type="html" xml:base="http://localhost:4000/projects/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;A print-based exploration of deepfakes: theory, technique, and practice. Work in progress.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Book design&lt;br /&gt;
-      Instructor: Brad Bartlett&lt;br /&gt;
-      Year: 2019
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;A Deep Dive Into Deepfakes&lt;/h2&gt;
-
-    &lt;p&gt;
-      A book investigating deepfakes, computer vision, and related technologies. A deepfake of myself onto Tim Cook
-      introducing new Apple products begins the book, and a deepfake of myself into Elon Musk in an interview about AI
-      brings the reader out. Different sections present multiple explorations of using AI tools for design: the creation
-      of deepfakes, the use of image-recognition algorithms, the use of Vuforia’s computer image recognition ”targets”
-      as a visual effect, and a machine learning-based text-to-emoji translator.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Abstracting Theory through Technology&lt;/h2&gt;
-
-    &lt;p&gt;
-      Since the author is known for talking about symbols, I ran Baudrillard’s famous “Simulation and Simulacra” through
-      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
-      original text nearly impossible to read, so I think that it is an improvement.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Embodying Success&lt;/h2&gt;
-
-    &lt;p&gt;
-      Graduating ArtCenter caused more self-reflection and anxiety than I expected. By embodying successful figures in
-      design and technology, could I shortcut the whole job hunting process and propel my career?
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/deepfake_web_cover.png&quot; /&gt; --&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Tim Cook, embodying his near-cult presentor
-  status.&lt;/span&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/deepfakes/elon_web_full.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
-  simulations are indistinguishable from reality.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A print-based exploration of deepfakes: theory, technique, and practice. Work in progress. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry></feed>
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
