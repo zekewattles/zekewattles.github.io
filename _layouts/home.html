@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<div class="container-fluid">
+<div class="container">
   <div class="row">
     <div class="col-lg">
+
+      <br><br>
 
       {{ content }}
 
@@ -12,6 +14,8 @@ layout: default
       {% for post in site.posts %}
 
       <article class="post-preview">
+
+          <br><br>
 
         <!-- <hr> -->
 
@@ -30,8 +34,9 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %} -->
         </a>
-
       </article>
+
+      
 
       {% endfor %}
 

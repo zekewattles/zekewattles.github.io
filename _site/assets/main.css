@@ -65,7 +65,7 @@ body {
 
 hr {
   border: none;
-  border-bottom: 4px solid white; }
+  border-bottom: 2px solid #9b9b9b; }
 
 h1 {
   font-size: 3rem;
@@ -89,7 +89,7 @@ h2 {
   color: #9b9b9b; }
 
 a {
-  color: #00ff5c;
+  color: #00ff55;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
@@ -112,12 +112,12 @@ a {
 
 ::-moz-selection {
   color: #fff;
-  background: #00ff5c;
+  background: #00ff55;
   text-shadow: none; }
 
 ::selection {
   color: #fff;
-  background: #00ff5c;
+  background: #00ff55;
   text-shadow: none; }
 
 img::selection {
@@ -130,7 +130,8 @@ img::-moz-selection {
 
 #mainNav {
   margin-bottom: 1.2rem;
-  margin-top: 1.2rem; }
+  margin-top: 1.2rem;
+  background-color: black; }
 
 header.masthead {
   margin-bottom: 50px;
@@ -233,7 +234,7 @@ header.masthead {
       color: #212529; }
       .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
         text-decoration: underline;
-        color: #00ff5c; }
+        color: #00ff55; }
 
 .floating-label-form-group {
   font-size: 14px;
@@ -279,7 +280,7 @@ header.masthead {
   opacity: 1; }
 
 .floating-label-form-group-with-focus label {
-  color: #00ff5c; }
+  color: #00ff55; }
 
 form .form-group:first-child .floating-label-form-group {
   border-top: 1px solid #dee2e6; }
@@ -302,12 +303,12 @@ footer {
   font-weight: bold; }
 
 .btn-primary {
-  background-color: #00ff5c;
-  border-color: #00ff5c; }
+  background-color: #00ff55;
+  border-color: #00ff55; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: #00d94e !important;
-    border-bottom: #00d94e !important; }
+    background-color: #00d948 !important;
+    border-bottom: #00d948 !important; }
 
 html {
   font-family: monospace; }
