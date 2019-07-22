@@ -8,6 +8,14 @@ body {
   line-height: 1.2;
 }
 
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -74px; 
+  height: 74px; 
+  visibility: hidden; 
+}
+
 .intro {
   font-size: 1.5rem;
 }
