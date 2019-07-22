@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T22:33:03-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/projects/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/projects/dublab</id><content type="html" xml:base="http://localhost:4000/projects/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T22:39:15-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -6,9 +6,9 @@
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
-      Related project: &lt;a href=&quot;/projects/order_and_chaos&quot;&gt;Indeterminacy&lt;/a&gt;&lt;br /&gt;
+      Related project: &lt;a href=&quot;/work/order_and_chaos&quot;&gt;Order and Chaos&lt;/a&gt;&lt;br /&gt;
       Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie&lt;br /&gt;
-      Category: Identity&lt;br /&gt;
+      Category: Identity, type design, interactive, print&lt;br /&gt;
       Year: 2018
     &lt;/p&gt;
   &lt;/div&gt;
@@ -140,7 +140,7 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
     &lt;p&gt;
       I met Mark (Dublab founder) at an event where he gave a talk on &lt;a
-        href=&quot;/projects/order_and_chaos&quot;&gt;Indeterminacy&lt;/a&gt;.
+        href=&quot;/work/order_and_chaos&quot;&gt;Indeterminacy&lt;/a&gt;.
       Looking to get deeper into my research, I struck up a conversation. He was passionate and excited to share.
     &lt;/p&gt;
     &lt;p&gt;
@@ -230,8 +230,8 @@
 
 &lt;!-- &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
-  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound? Related project: Indeterminacy Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie Category: Identity Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/projects/order_and_chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/projects/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/projects/order_and_chaos/">&lt;div class=&quot;row&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt;
+&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound? Related project: Order and Chaos Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie Category: Identity, type design, interactive, print Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/work/order_and_chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/work/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/work/order_and_chaos/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       An interactive installation inspired by &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;&gt;John
@@ -241,7 +241,7 @@
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
-      Related project: &lt;a href=&quot;/projects/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
+      Related project: &lt;a href=&quot;/work/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
       Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
       Category: Interactive&lt;br&gt;
       Year: 2018
@@ -254,7 +254,7 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Design as Performance&lt;/h2&gt;
 
-    &lt;p&gt;I created a &lt;a href=&quot;/projects/dublab&quot;&gt;proposed identity for Dublab&lt;/a&gt; based on a unique
+    &lt;p&gt;I created a &lt;a href=&quot;/work/dublab&quot;&gt;proposed identity for Dublab&lt;/a&gt; based on a unique
       set
       of tools for graphic creation inspired by sound and music.&lt;/p&gt;
 
@@ -321,15 +321,14 @@
 
 &lt;!-- &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
-  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">Deepfake Karaoke</title><link href="http://localhost:4000/projects/deepfake_karaoke/" rel="alternate" type="text/html" title="Deepfake Karaoke" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/projects/karaoke</id><content type="html" xml:base="http://localhost:4000/projects/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
+  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt;
+&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">Deepfake Karaoke</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Deepfake Karaoke" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;An installation and video piece where karaoke becomes a way to collect data making deepfakes.
-      &lt;em&gt;Work in progress.&lt;/em&gt;&lt;/p&gt;
+    &lt;p class=&quot;intro&quot;&gt;An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work in progress.&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
-      Category: Interactive installation, video piece&lt;br /&gt;
+      Category: Interactive installation, motion graphics, video&lt;br /&gt;
       Instructor: Jennifer Rodenhouse&lt;br /&gt;
       Year: 2019
     &lt;/p&gt;
@@ -442,14 +441,9 @@
   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/lXgkuM2NhYI?rel=0&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;span class=&quot;caption text-muted&quot;&gt;Heroes &amp;mdash; David Bowie, destination video to be deepfaked.&lt;/span&gt;
-
-&lt;!-- &lt;br&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;
-  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all projects&lt;/a&gt;
-&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work in progress. Category: Interactive installation, video piece Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/projects/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-26T20:45:13-07:00</published><updated>2017-10-26T20:45:13-07:00</updated><id>http://localhost:4000/projects/deepfakes</id><content type="html" xml:base="http://localhost:4000/projects/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Heroes &amp;mdash; David Bowie, destination video to be deepfaked.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work in progress. Category: Interactive installation, motion graphics, video Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-26T20:45:13-07:00</published><updated>2017-10-26T20:45:13-07:00</updated><id>http://localhost:4000/work/deepfakes</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;A print-based exploration of deepfakes: theory, technique, and practice. &lt;em&gt;Work in progress.&lt;/em&gt;
+    &lt;p class=&quot;intro&quot;&gt;A print-based exploration of deepfakes: theory, technique, and practice. Work in progress.
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -614,7 +608,7 @@
 &lt;/div&gt;
 
 &lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
-  simulations are indistinguishable from reality.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A print-based exploration of deepfakes: theory, technique, and practice. Work in progress. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/projects/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-22T20:45:13-07:00</published><updated>2017-10-22T20:45:13-07:00</updated><id>http://localhost:4000/projects/blade</id><content type="html" xml:base="http://localhost:4000/projects/the_blade/">&lt;div class=&quot;row&quot;&gt;
+  simulations are indistinguishable from reality.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A print-based exploration of deepfakes: theory, technique, and practice. Work in progress. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/work/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-22T20:45:13-07:00</published><updated>2017-10-22T20:45:13-07:00</updated><id>http://localhost:4000/work/blade</id><content type="html" xml:base="http://localhost:4000/work/the_blade/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
       technology.&lt;/p&gt;
