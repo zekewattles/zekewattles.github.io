@@ -24,17 +24,12 @@ layout: default
           {% endif %}
 
           <p class="post-title"><strong>{{ post.title }}</strong>
-          <!-- <br>{{ post.subtitle }} -->
+
+            <!-- <br>{{ post.subtitle }} -->
+
           </p>
-          <!-- {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-            {% endif %} -->
         </a>
       </article>
-
-      
 
       {% endfor %}
 
