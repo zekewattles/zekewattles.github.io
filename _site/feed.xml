@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-22T17:55:22-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-24T14:49:10-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -324,7 +324,7 @@
   &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt;
 &lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">Deepfake Karaoke</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Deepfake Karaoke" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work
+    &lt;p class=&quot;intro&quot;&gt;An installation and video piece where karaoke becomes a tool for deepfake data collection. Work
       in progress.&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -344,6 +344,14 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Can deepfakes be a design tool?&lt;/h2&gt;
 
     &lt;p&gt;
+      Can deepfakes be a design tool? &lt;em&gt;Deepfake Karaoke&lt;/em&gt; is an installation and video exploring the use of karaoke as
+      a tool for deepfake data collection. Deepfakes are videos that uses artificial intelligence and facial pattern
+      recognition to map one person’s face onto another. To create a convincing transfer, all you need two video sources, with one face each, in a variety of angles and
+      expressions. Interviews, speeches, and lectures are best, but what about a passionate karaoke performance of
+      “Heroes” by David Bowie &amp;mdash; what if you could, through technology, become your heroes, too?
+    &lt;/p&gt;
+
+    &lt;!-- &lt;p&gt;
       I‘ve been fascinated with the phenomenon of deepfakes. For the unfamiliar, a deepfake is a video that uses
       artificial intelligence to map one person’s face onto another. To create a good one, all you really need is two
       video sources, with one face each, in a variety of angles and expressions. But could there be a side of deepfakes
@@ -354,7 +362,7 @@
       Initially, I learned the software by experimenting with deepfaking myself into successful design and tech “heroes”
       like Tim Cook and Elon Musk. I wondered if there could be a deeper side to this idea of deepfaking &amp;mdash; what
       does it mean to “embody” someone? To take their voice?
-    &lt;/p&gt;
+    &lt;/p&gt; --&gt;
 
     &lt;!-- After extensive research into the process of creating deepfakes, I concluded that karaoke is the perfect vehicle
     for collecting data to create deepfakes with. Deepfake Karaoke is an installation designed for the creation of a
@@ -368,24 +376,24 @@
 &lt;/div&gt;
 
 
-&lt;hr&gt;
+&lt;!-- &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
 
     &lt;h2 class=&quot;section-heading&quot;&gt;Creating content&lt;/h2&gt;
 
-    &lt;p&gt;
-      I chose the song “Heroes” by David Bowie as my initial deepfaking video. Its music video is a perfect candidate
+    &lt;p&gt; --&gt;
+      &lt;!-- I chose the song “Heroes” by David Bowie as my initial deepfaking video. Its music video is a perfect candidate
       &amp;mdash; it features Bowie and Bowie only, with plenty of close-up shots. Thematically, the lyrics are a perfect
-      fit &amp;mdash; what if you could, through technology, become your heroes, too?
+      fit &amp;mdash; what if you could, through technology, become your heroes, too? --&gt;
       &lt;!-- Videos were chosen on both the basis of featuring primarily one face per video, and for thematic content.
       (You’ll always be a part of me...) --&gt;
-    &lt;/p&gt;
+    &lt;!-- &lt;/p&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 
 
 &lt;!-- &lt;div class=&quot;row&quot;&gt;
@@ -459,7 +467,7 @@
     &lt;source src=&quot;/img/karaoke/calibration_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   &lt;/video&gt;
 &lt;/div&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Calibration&lt;/span&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a way to collect data making deepfakes. Work in progress. Category: Interactive installation, motion graphics, video Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-26T20:45:13-07:00</published><updated>2017-10-26T20:45:13-07:00</updated><id>http://localhost:4000/work/deepfakes</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Calibration&lt;/span&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a tool for deepfake data collection. Work in progress. Category: Interactive installation, motion graphics, video Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-26T20:45:13-07:00</published><updated>2017-10-26T20:45:13-07:00</updated><id>http://localhost:4000/work/deepfakes</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;A print-based exploration of deepfakes: theory, technique, and practice. Work in progress.
     &lt;/p&gt;
