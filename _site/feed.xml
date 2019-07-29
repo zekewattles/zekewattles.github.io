@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-24T14:49:10-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-29T12:13:52-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -322,317 +322,7 @@
 &lt;!-- &lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
   &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt;
-&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">Deepfake Karaoke</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Deepfake Karaoke" /><published>2017-10-27T20:45:13-07:00</published><updated>2017-10-27T20:45:13-07:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;An installation and video piece where karaoke becomes a tool for deepfake data collection. Work
-      in progress.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Interactive installation, motion graphics, video&lt;br /&gt;
-      Instructor: Jennifer Rodenhouse&lt;br /&gt;
-      Year: 2019
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Can deepfakes be a design tool?&lt;/h2&gt;
-
-    &lt;p&gt;
-      Can deepfakes be a design tool? &lt;em&gt;Deepfake Karaoke&lt;/em&gt; is an installation and video exploring the use of karaoke as
-      a tool for deepfake data collection. Deepfakes are videos that uses artificial intelligence and facial pattern
-      recognition to map one person’s face onto another. To create a convincing transfer, all you need two video sources, with one face each, in a variety of angles and
-      expressions. Interviews, speeches, and lectures are best, but what about a passionate karaoke performance of
-      “Heroes” by David Bowie &amp;mdash; what if you could, through technology, become your heroes, too?
-    &lt;/p&gt;
-
-    &lt;!-- &lt;p&gt;
-      I‘ve been fascinated with the phenomenon of deepfakes. For the unfamiliar, a deepfake is a video that uses
-      artificial intelligence to map one person’s face onto another. To create a good one, all you really need is two
-      video sources, with one face each, in a variety of angles and expressions. But could there be a side of deepfakes
-      that’s less scary, Black Mirror-esque? Yes. A passionate karaoke performance is the perfect vehicle for capturing
-      deepfake data.
-    &lt;/p&gt;
-    &lt;p&gt;
-      Initially, I learned the software by experimenting with deepfaking myself into successful design and tech “heroes”
-      like Tim Cook and Elon Musk. I wondered if there could be a deeper side to this idea of deepfaking &amp;mdash; what
-      does it mean to “embody” someone? To take their voice?
-    &lt;/p&gt; --&gt;
-
-    &lt;!-- After extensive research into the process of creating deepfakes, I concluded that karaoke is the perfect vehicle
-    for collecting data to create deepfakes with. Deepfake Karaoke is an installation designed for the creation of a
-    piece of video art: a collection of everyday people singing “Heroes” from David Bowie, then deepfaked into the
-    original music video. While most deepfake videos focus on grafting one famous face onto another, Deepfake Karaoke
-    takes a more democratic approaching, giving everyday people the opportunity to be heroes... just for one day. --&gt;
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;!-- &lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Creating content&lt;/h2&gt;
-
-    &lt;p&gt; --&gt;
-      &lt;!-- I chose the song “Heroes” by David Bowie as my initial deepfaking video. Its music video is a perfect candidate
-      &amp;mdash; it features Bowie and Bowie only, with plenty of close-up shots. Thematically, the lyrics are a perfect
-      fit &amp;mdash; what if you could, through technology, become your heroes, too? --&gt;
-      &lt;!-- Videos were chosen on both the basis of featuring primarily one face per video, and for thematic content.
-      (You’ll always be a part of me...) --&gt;
-    &lt;!-- &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-            &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/karaoke_posterframe.jpg&quot;&gt;
-              &lt;source src=&quot;/img/karaoke/abmb_karaoke_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-            &lt;/video&gt;
-          &lt;/div&gt;
-          
-          &lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, karaoke version for data collection.&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-            &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/LfRNRymrv9k?rel=0&quot;&gt;&lt;/iframe&gt;
-          &lt;/div&gt;
-          
-          &lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, destination video to be deepfaked.&lt;/span&gt;
-          
-    &lt;/div&gt;
-  &lt;/div&gt; --&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/karaoke_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/karaoke/heroes_karaoke_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Heroes &amp;mdash; David Bowie, karaoke edition, for data collection.&lt;/span&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/lXgkuM2NhYI?rel=0&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Heroes &amp;mdash; David Bowie, the original destination video for deepfaking. Note the
-  format: one person, plenty of closeups. It’s not HD, but neither are most deepfakes, so I chose to embrace it.&lt;/span&gt;
-
-
-&lt;!-- &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/karaoke_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/karaoke/abmb_karaoke_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, karaoke version for data collection.&lt;/span&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/LfRNRymrv9k?rel=0&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, destination video to be deepfaked.&lt;/span&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Data collection&lt;/h2&gt;
-
-    &lt;p&gt;
-      To make a good deepfake, you need multiple facial angles. A brief “calibration” video ensures this data is
-      collected.
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/calibration_poster.jpg&quot;&gt;
-    &lt;source src=&quot;/img/karaoke/calibration_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Calibration&lt;/span&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a tool for deepfake data collection. Work in progress. Category: Interactive installation, motion graphics, video Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-26T20:45:13-07:00</published><updated>2017-10-26T20:45:13-07:00</updated><id>http://localhost:4000/work/deepfakes</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;A print-based exploration of deepfakes: theory, technique, and practice. Work in progress.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Book design&lt;br /&gt;
-      Instructor: Brad Bartlett&lt;br /&gt;
-      Year: 2019
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;A Deep Dive Into Deepfakes&lt;/h2&gt;
-
-    &lt;p&gt;
-      A book investigating deepfakes, computer vision, and related technologies. A deepfake of myself onto Tim Cook
-      introducing new Apple products begins the book, and a deepfake of myself into Elon Musk in an interview about AI
-      brings the reader out. Different sections present multiple explorations of using AI tools for design: the creation
-      of deepfakes, the use of image-recognition algorithms, the use of Vuforia’s computer image recognition ”targets”
-      as a visual effect, and a machine learning-based text-to-emoji translator.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-      &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-          &lt;div class=&quot;carousel-inner&quot;&gt;
-            &lt;div class=&quot;carousel-item active&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/deepfakes/ats_cover_mockup_1.jpg&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;carousel-item&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/deepfakes/ats_cover_mockup_2.jpg&quot;&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-          &lt;/a&gt;
-          &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-
-    &lt;span class=&quot;caption text-muted&quot;&gt;This visual treatment comes from &lt;a href=&quot;https://developer.vuforia.com/&quot; target=&quot;_blank&quot;&gt;Vuforia&lt;/a&gt;’s image target engine. It is how a
-      computer recognizes text as image, like a QR code.&lt;/span&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_1.jpg&quot; /&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_4.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_3.jpg&quot; /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
-    &lt;span class=&quot;caption text-muted&quot;&gt;Since the author is known for talking about symbols, I ran Baudrillard’s famous
-      “Simulation and Simulacra” through
-      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
-      original text nearly impossible to read, so I think that it is an improvement.&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_5.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_6.jpg&quot; /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
-    &lt;span class=&quot;caption text-muted&quot;&gt;&lt;a href=&quot;https://github.com/iperov/DeepFaceLab&quot; target=&quot;_blank&quot;&gt;DeepFaceLab&lt;/a&gt;
-      generates a history of how it “trains” one face to match another &amp;mdash; in this case, my own face and Tim
-      Cook’s.&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_7.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_9.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_2.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_10.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_11.jpg&quot; /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
-    &lt;span class=&quot;caption text-muted&quot;&gt;Can I use AI to write my book?
-      GPT-2 is a “natural language text generation model” from OpenAI, considered so good it’s “too dangerous to
-      release.” I used &lt;a href=&quot;https://talktotransformer.com/&quot; target=&quot;_blank&quot;&gt;TalkToTransformer.com&lt;/a&gt; to generate my
-      conclusions by posing a simple question: What’s a deepfake?&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_12.jpg&quot; /&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;
-
-&lt;!-- &lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Abstracting Theory through Technology&lt;/h2&gt;
-
-    &lt;p&gt;
-      Since the author is known for talking about symbols, I ran Baudrillard’s famous “Simulation and Simulacra” through
-      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
-      original text nearly impossible to read, so I think that it is an improvement.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_3.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_4.jpg&quot; /&gt; --&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot; id=&quot;EmbodyingSuccess&quot;&gt;Embodying Success&lt;/h2&gt;
-
-    &lt;p&gt;
-      Graduating ArtCenter caused more self-reflection and anxiety than I expected. By embodying successful figures in
-      design and technology, could I shortcut the whole job hunting process and propel my career?
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/deepfake_web_cover.png&quot; /&gt; --&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Tim Cook, embodying his near-cult presentor
-  status.&lt;/span&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/deepfakes/elon_web_short.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
-  simulations are indistinguishable from reality.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A print-based exploration of deepfakes: theory, technique, and practice. Work in progress. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/work/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-22T20:45:13-07:00</published><updated>2017-10-22T20:45:13-07:00</updated><id>http://localhost:4000/work/blade</id><content type="html" xml:base="http://localhost:4000/work/the_blade/">&lt;div class=&quot;row&quot;&gt;
+&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/work/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2017-10-22T20:45:13-07:00</published><updated>2017-10-22T20:45:13-07:00</updated><id>http://localhost:4000/work/blade</id><content type="html" xml:base="http://localhost:4000/work/the_blade/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
       technology.&lt;/p&gt;
@@ -895,4 +585,321 @@
   &lt;/div&gt;
 
 &lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2017-10-18T20:45:13-07:00</published><updated>2017-10-18T20:45:13-07:00</updated><id>http://localhost:4000/work/deepfakes</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;
+      A print-based exploration of deepfakes: theory, technique, and practice.
+    &lt;/p&gt;
+    &lt;p class=&quot;intro&quot;&gt;
+      Work in progress.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Book design&lt;br /&gt;
+      Instructor: Brad Bartlett&lt;br /&gt;
+      Year: 2019
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;A Deep Dive Into Deepfakes&lt;/h2&gt;
+
+    &lt;p&gt;
+      A book investigating deepfakes, computer vision, and related technologies. A deepfake of myself onto Tim Cook
+      introducing new Apple products begins the book, and a deepfake of myself into Elon Musk in an interview about AI
+      brings the reader out. Different sections present multiple explorations of using AI tools for design: the creation
+      of deepfakes, the use of image-recognition algorithms, the use of Vuforia’s computer image recognition ”targets”
+      as a visual effect, and a machine learning-based text-to-emoji translator.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+      &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+          &lt;div class=&quot;carousel-inner&quot;&gt;
+            &lt;div class=&quot;carousel-item active&quot;&gt;
+              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/deepfakes/ats_cover_mockup_1.jpg&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;carousel-item&quot;&gt;
+              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/deepfakes/ats_cover_mockup_2.jpg&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+          &lt;/a&gt;
+          &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+
+    &lt;span class=&quot;caption text-muted&quot;&gt;This visual treatment comes from &lt;a href=&quot;https://developer.vuforia.com/&quot; target=&quot;_blank&quot;&gt;Vuforia&lt;/a&gt;’s image target engine. It is how a
+      computer recognizes text as image, like a QR code.&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_1.jpg&quot; /&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_4.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_3.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;Since the author is known for talking about symbols, I ran Baudrillard’s famous
+      “Simulation and Simulacra” through
+      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
+      original text nearly impossible to read, so I think that it is an improvement.&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_5.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_6.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;&lt;a href=&quot;https://github.com/iperov/DeepFaceLab&quot; target=&quot;_blank&quot;&gt;DeepFaceLab&lt;/a&gt;
+      generates a history of how it “trains” one face to match another &amp;mdash; in this case, my own face and Tim
+      Cook’s.&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_7.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_9.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_2.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_10.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_11.jpg&quot; /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8 col-md-&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;Can I use AI to write my book?
+      GPT-2 is a “natural language text generation model” from OpenAI, considered so good it’s “too dangerous to
+      release.” I used &lt;a href=&quot;https://talktotransformer.com/&quot; target=&quot;_blank&quot;&gt;TalkToTransformer.com&lt;/a&gt; to generate my
+      conclusions by posing a simple question: What’s a deepfake?&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_12.jpg&quot; /&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;
+
+&lt;!-- &lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Abstracting Theory through Technology&lt;/h2&gt;
+
+    &lt;p&gt;
+      Since the author is known for talking about symbols, I ran Baudrillard’s famous “Simulation and Simulacra” through
+      a machine learning-based &lt;a href=&quot;https://emojitranslate.com/&quot; target=&quot;_blank&quot;&gt;emoji translator&lt;/a&gt;. I found the
+      original text nearly impossible to read, so I think that it is an improvement.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_3.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_4.jpg&quot; /&gt; --&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot; id=&quot;EmbodyingSuccess&quot;&gt;Embodying Success&lt;/h2&gt;
+
+    &lt;p&gt;
+      Graduating ArtCenter caused more self-reflection and anxiety than I expected. By embodying successful figures in
+      design and technology, could I shortcut the whole job hunting process and propel my career?
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/deepfake_web_cover.png&quot; /&gt; --&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Tim Cook, embodying his near-cult presentor
+  status.&lt;/span&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/deepfakes/elon_web_short.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
+  simulations are indistinguishable from reality.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A print-based exploration of deepfakes: theory, technique, and practice. Work in progress. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2017-10-16T20:45:13-07:00</published><updated>2017-10-16T20:45:13-07:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;
+      An installation and video piece where karaoke becomes a tool for deepfake data collection.
+      &lt;/p&gt;
+      &lt;p class=&quot;intro&quot;&gt;
+      Work in progress.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Interactive installation, motion graphics, video&lt;br /&gt;
+      Instructor: Jennifer Rodenhouse&lt;br /&gt;
+      Year: 2019
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Can deepfakes be a design tool?&lt;/h2&gt;
+
+    &lt;p&gt;
+      Can deepfakes be a design tool? &lt;em&gt;Deepfake Karaoke&lt;/em&gt; is an installation and video exploring the use of karaoke as
+      a tool for deepfake data collection. Deepfakes are videos that uses artificial intelligence and facial pattern
+      recognition to map one person’s face onto another. To create a convincing transfer, all you need two video sources, with one face each, in a variety of angles and
+      expressions. Interviews, speeches, and lectures are best, but what about a passionate karaoke performance of
+      “Heroes” by David Bowie &amp;mdash; what if you could, through technology, become your heroes, too?
+    &lt;/p&gt;
+
+    &lt;!-- &lt;p&gt;
+      I‘ve been fascinated with the phenomenon of deepfakes. For the unfamiliar, a deepfake is a video that uses
+      artificial intelligence to map one person’s face onto another. To create a good one, all you really need is two
+      video sources, with one face each, in a variety of angles and expressions. But could there be a side of deepfakes
+      that’s less scary, Black Mirror-esque? Yes. A passionate karaoke performance is the perfect vehicle for capturing
+      deepfake data.
+    &lt;/p&gt;
+    &lt;p&gt;
+      Initially, I learned the software by experimenting with deepfaking myself into successful design and tech “heroes”
+      like Tim Cook and Elon Musk. I wondered if there could be a deeper side to this idea of deepfaking &amp;mdash; what
+      does it mean to “embody” someone? To take their voice?
+    &lt;/p&gt; --&gt;
+
+    &lt;!-- After extensive research into the process of creating deepfakes, I concluded that karaoke is the perfect vehicle
+    for collecting data to create deepfakes with. Deepfake Karaoke is an installation designed for the creation of a
+    piece of video art: a collection of everyday people singing “Heroes” from David Bowie, then deepfaked into the
+    original music video. While most deepfake videos focus on grafting one famous face onto another, Deepfake Karaoke
+    takes a more democratic approaching, giving everyday people the opportunity to be heroes... just for one day. --&gt;
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;!-- &lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Creating content&lt;/h2&gt;
+
+    &lt;p&gt; --&gt;
+      &lt;!-- I chose the song “Heroes” by David Bowie as my initial deepfaking video. Its music video is a perfect candidate
+      &amp;mdash; it features Bowie and Bowie only, with plenty of close-up shots. Thematically, the lyrics are a perfect
+      fit &amp;mdash; what if you could, through technology, become your heroes, too? --&gt;
+      &lt;!-- Videos were chosen on both the basis of featuring primarily one face per video, and for thematic content.
+      (You’ll always be a part of me...) --&gt;
+    &lt;!-- &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+            &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/karaoke_posterframe.jpg&quot;&gt;
+              &lt;source src=&quot;/img/karaoke/abmb_karaoke_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+            &lt;/video&gt;
+          &lt;/div&gt;
+          
+          &lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, karaoke version for data collection.&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+            &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/LfRNRymrv9k?rel=0&quot;&gt;&lt;/iframe&gt;
+          &lt;/div&gt;
+          
+          &lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, destination video to be deepfaked.&lt;/span&gt;
+          
+    &lt;/div&gt;
+  &lt;/div&gt; --&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/karaoke_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/karaoke/heroes_karaoke_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Heroes &amp;mdash; David Bowie, karaoke edition, for data collection.&lt;/span&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/lXgkuM2NhYI?rel=0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Heroes &amp;mdash; David Bowie, the original destination video for deepfaking. Note the
+  format: one person, plenty of closeups. It’s not HD, but neither are most deepfakes, so I chose to embrace it.&lt;/span&gt;
+
+
+&lt;!-- &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/karaoke_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/karaoke/abmb_karaoke_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, karaoke version for data collection.&lt;/span&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/LfRNRymrv9k?rel=0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Always Be My Baby &amp;mdash; Mariah Carey, destination video to be deepfaked.&lt;/span&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Data collection&lt;/h2&gt;
+
+    &lt;p&gt;
+      To make a good deepfake, you need multiple facial angles. A brief “calibration” video ensures this data is
+      collected.
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/karaoke/calibration_poster.jpg&quot;&gt;
+    &lt;source src=&quot;/img/karaoke/calibration_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Calibration&lt;/span&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An installation and video piece where karaoke becomes a tool for deepfake data collection. Work in progress. Category: Interactive installation, motion graphics, video Instructor: Jennifer Rodenhouse Year: 2019</summary></entry></feed>
