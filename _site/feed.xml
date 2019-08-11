@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-10T21:12:32-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-10T21:18:13-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -639,7 +639,7 @@
       &lt;/video&gt;
     &lt;/div&gt;
     &lt;span class=&quot;caption text-muted&quot;&gt;
-      Four minutes of every single single saved “history” state of the AI slowly learning my face, Tim Cook’s face, and
+      Four minutes of every single single saved “history” state of the AI slowly learning my face and Tim Cook’s face then
       applying my face to Tim Cook’s.
     &lt;/span&gt;
 
@@ -655,17 +655,23 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;embed-responsive embed-responsive-16by9  &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9  &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/deepfakes/elon_web_short.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+    &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
+      &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;/video&gt;
+  &lt;/div&gt;
+  
+  &lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Tim Cook, embodying his near-cult presentor
+    status.&lt;/span&gt;
+  
+  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+    &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
+      &lt;source src=&quot;/img/deepfakes/elon_web_short.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;/video&gt;
+  &lt;/div&gt;
+  
+  &lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
+    simulations are indistinguishable from reality.&lt;/span&gt;
 
 &lt;hr&gt;
 &lt;h1&gt;Set-Up&lt;/h1&gt;
@@ -1307,7 +1313,7 @@
   &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
   &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/tim_posterframe.jpg&quot;&gt;
     &lt;source src=&quot;/img/deepfakes/tim_web.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   &lt;/video&gt;
@@ -1316,7 +1322,7 @@
 &lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Tim Cook, embodying his near-cult presentor
   status.&lt;/span&gt;
 
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
   &lt;video class=&quot;embed-responsive-item&quot; playsinline loop controls poster=&quot;/img/deepfakes/elon_posterframe.jpg&quot;&gt;
     &lt;source src=&quot;/img/deepfakes/elon_web_short.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   &lt;/video&gt;
@@ -1324,7 +1330,6 @@
 
 &lt;span class=&quot;caption text-muted&quot;&gt;Design authorship as deepfaking myself into Elon Musk discussing a future in which
   simulations are indistinguishable from reality.&lt;/span&gt;
-
 &lt;hr&gt;
 
 &lt;div class=&quot;row&quot;&gt;
