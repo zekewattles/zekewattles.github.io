@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T01:37:54-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T11:50:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -362,7 +362,7 @@
 
 &lt;!-- &lt;hr style=&quot;border-bottom: 2px solid white;&quot;&gt; --&gt;
 &lt;hr&gt;
-&lt;h1&gt;Part 1: Exploration&lt;/h1&gt;
+&lt;h1 class=&quot;top-margin&quot;&gt;Research&lt;/h1&gt;
 
 &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -678,7 +678,7 @@
   simulations are indistinguishable from reality.&lt;/span&gt;
 
 &lt;hr&gt;
-&lt;h1&gt;Part 2: Definition&lt;/h1&gt;
+&lt;h1 class=&quot;top-margin&quot;&gt;Proposal&lt;/h1&gt;
 
 &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -690,6 +690,11 @@
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid&quot; src=&quot;/img/karaoke/deepfake-obama.png&quot;&gt;
+    &lt;span class=&quot;caption text-muted&quot;&gt;
+      Source: &lt;a href=&quot;https://www.buzzfeed.com/craigsilverman/obama-jordan-peele-deepfake-video-debunk-buzzfeed&quot;
+        target=&quot;blank_&quot;&gt;Buzzfeed&lt;/a&gt;
+    &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -715,7 +720,7 @@
 &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Our solution must:&lt;/h2&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Our Solution Must:&lt;/h2&gt;
     &lt;p class=&quot;intro&quot;&gt;
       Keep someone in front of a camera for 1-2 minutes.
     &lt;/p&gt;
@@ -752,16 +757,16 @@
 &lt;/div&gt;
 
 &lt;hr&gt;
-&lt;h1&gt;Part 3: Execution&lt;/h1&gt;
+&lt;h1 class=&quot;top-margin&quot;&gt;Execution&lt;/h1&gt;
 
 &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;h2 class=&quot;section-heading&quot;&gt;Concept: Heroes&lt;/h2&gt;
-    &lt;p&gt;
+    &lt;p class=&quot;intro&quot;&gt;
       What if anyone could deepfake themselves into their heroes, too?
     &lt;/p&gt;
-    &lt;p&gt;
+    &lt;p class=&quot;intro&quot;&gt;
       Do deepfakes have to be about deception, or can you use it to honor your subject, too? Have you always wanted to
       become your heroes? Now you can. &lt;/p&gt;
   &lt;/div&gt;
