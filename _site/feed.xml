@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T11:58:14-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T12:00:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -1086,7 +1086,270 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid &quot; src=&quot;/img/karaoke/karaoke_storefront.jpg&quot;&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A service for people to generate deepfake content. Through the performative and controlled medium of a karaoke booth, people can embody their heroes. Category: Interactive installation, generative video, research Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2019-01-25T12:00:00-08:00</published><updated>2019-01-25T12:00:00-08:00</updated><id>http://localhost:4000/work/how-to-deepfake-yourself</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A service for people to generate deepfake content. Through the performative and controlled medium of a karaoke booth, people can embody their heroes. Category: Interactive installation, generative video, research Instructor: Jennifer Rodenhouse Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/work/chill_by_netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2019-01-25T12:00:00-08:00</published><updated>2019-01-25T12:00:00-08:00</updated><id>http://localhost:4000/work/chill</id><content type="html" xml:base="http://localhost:4000/work/chill_by_netflix/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;A personal care brand extension for Netflix’s sultry side.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt; --&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Packaging&lt;br /&gt;
+      Instructors: Andrew Gibbs, Jessica Deseo&lt;br /&gt;
+      Year: 2017
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Netflix &amp; Chill?&lt;/h2&gt;
+
+    &lt;p&gt;
+      In 2015, “Netflix and chill” had blown up the internet. So when tasked with creating a brand extension in the
+      category of personal care, the answer was obvious. Chill By Netflix is the product line/ad
+      campaign Netflix never knew they needed.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;script type=&quot;text/javascript&quot; src=&quot;https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+      trends.embed.renderExploreWidget(&quot;TIMESERIES&quot;, {
+        &quot;comparisonItem&quot;: [{
+          &quot;keyword&quot;: &quot;netflix and chill&quot;,
+          &quot;geo&quot;: &quot;&quot;,
+          &quot;time&quot;: &quot;today 5-y&quot;
+        }],
+        &quot;category&quot;: 0,
+        &quot;property&quot;: &quot;&quot;
+      }, {
+        &quot;exploreQuery&quot;: &quot;date=today%205-y&amp;q=netflix%20and%20chill&quot;,
+        &quot;guestPath&quot;: &quot;https://trends.google.com:443/trends/embed/&quot;
+      });
+    &lt;/script&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-body-lotion.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-lube.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-candle.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-fragrance.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-1.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-2.jpg&quot; /&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Design Notes&lt;/h2&gt;
+    &lt;p&gt;
+      The shape of the packaging references the curve of the logo and is ergonomically designed. Each item features
+      unique illustrated quotes pulled from Netflix original programs related to sex and dating. The full set comes in a
+      single-color printed corrugated mailer, with illustrated quotes celebrating the tongue-in-cheek humor of the
+      brand.
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-box-family.jpg&quot; /&gt;
+
+
+&lt;!-- &lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Flexible Logo&lt;/h2&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop
+        poster=&quot;/img/netflix/netflix-logo-poster.jpg&quot;&gt;
+        &lt;source src=&quot;/img/netflix/netflix-logo-animation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;/video&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+    &lt;div class=&quot;carousel-inner&quot;&gt;
+      &lt;div class=&quot;carousel-item active&quot;&gt;
+        &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot;&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;carousel-item&quot;&gt;
+        &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+      &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+      &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/work/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/blade</id><content type="html" xml:base="http://localhost:4000/work/the_blade/">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
+      technology.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;p&gt;
+      Category: Interactive installation&lt;br /&gt;
+      Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor&lt;br /&gt;
+      Year: 2019
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;h2 class=&quot;section-heading&quot;&gt;Inspired by the Sun&lt;/h2&gt;
+
+    &lt;p&gt;
+      An international tech client wanted to to communicate the power of their revolutionary LED technology &amp;mdash;
+      light that embodies the sun.
+      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive
+      scale.
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-03.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-04.jpg&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-05.jpg&quot; /&gt;
+
+&lt;!-- &lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;A Powerful Narrative&lt;/h2&gt;
+
+    &lt;p&gt;
+      Our narrative about the power of the sun became a key driver of the company’s new brand narrative after we pitched
+      to the CEO and investors.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-lg-8&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt; --&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
+    &lt;p&gt;This project was a first for ArtCenter: a student team collaborating with Triad Berlin and a real-world client.
+      We created small-scale prototypes and VR sketches to iterate quickly and discovered that simple forms best
+      communicated the power of the light. Through its simple form, The Blade shows off the power of these lights in an
+      immediate, immerse manner.&lt;/p&gt;
+
+    &lt;!-- &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;. --&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+
+    &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+      &lt;div class=&quot;carousel-inner&quot;&gt;
+        &lt;div class=&quot;carousel-item active&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_1.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_2.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_3.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_4.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_5.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_6.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_7.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_8.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_9.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_10.jpg&quot;&gt;
+        &lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+      &lt;/a&gt;
+      &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Constant Change Berlin&lt;/h2&gt;
+    &lt;p&gt;To celebrate the end of our trip, we threw a party. We designed audio-reactive visuals for the DJs and
+      multi-media installations for guests. I&amp;nbsp;designed the typeface, Platz, used throughout.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/332449130?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot;
+    allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/blade/ccb_visualizer_posterframe.jpg&quot;&gt;
+    &lt;source src=&quot;/img/blade/ccb_visualizer.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;We built an audio visualizer in Processing with 12 different code sketches that can be
+  combined for an endless array of visual combinations.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">How to Deepfake Yourself</title><link href="http://localhost:4000/work/how_to_deepfake_yourself/" rel="alternate" type="text/html" title="How to Deepfake Yourself" /><published>2019-01-23T12:00:00-08:00</published><updated>2019-01-23T12:00:00-08:00</updated><id>http://localhost:4000/work/how-to-deepfake-yourself</id><content type="html" xml:base="http://localhost:4000/work/how_to_deepfake_yourself/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A deep-dive into deepfakes.
@@ -1238,267 +1501,4 @@
 &lt;/div&gt;
 
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_12.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A deep-dive into deepfakes. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">The Blade</title><link href="http://localhost:4000/work/the_blade/" rel="alternate" type="text/html" title="The Blade" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/blade</id><content type="html" xml:base="http://localhost:4000/work/the_blade/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;An interactive installation celebrating the connective power of the sun and breakthrough LED
-      technology.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Interactive installation&lt;br /&gt;
-      Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor&lt;br /&gt;
-      Year: 2019
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Inspired by the Sun&lt;/h2&gt;
-
-    &lt;p&gt;
-      An international tech client wanted to to communicate the power of their revolutionary LED technology &amp;mdash;
-      light that embodies the sun.
-      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive
-      scale.
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-01.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-02.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-03.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-04.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-render-05.jpg&quot; /&gt;
-
-&lt;!-- &lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;A Powerful Narrative&lt;/h2&gt;
-
-    &lt;p&gt;
-      Our narrative about the power of the sun became a key driver of the company’s new brand narrative after we pitched
-      to the CEO and investors.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/blade/blade-process-07.jpg&quot; /&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt; --&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-    &lt;p&gt;This project was a first for ArtCenter: a student team collaborating with Triad Berlin and a real-world client.
-      We created small-scale prototypes and VR sketches to iterate quickly and discovered that simple forms best
-      communicated the power of the light. Through its simple form, The Blade shows off the power of these lights in an
-      immediate, immerse manner.&lt;/p&gt;
-
-    &lt;!-- &lt;p&gt;See more process from the instructor’s perspective &lt;a href=&quot;https://ivanjcruz.com/Mediatecture-Berlin&quot;&gt;here&lt;/a&gt;. --&gt;
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-      &lt;div class=&quot;carousel-inner&quot;&gt;
-        &lt;div class=&quot;carousel-item active&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_1.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_2.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_3.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_4.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_5.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_6.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_7.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_8.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_9.jpg&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/blade/berlin_process_10.jpg&quot;&gt;
-        &lt;/div&gt;
-
-      &lt;/div&gt;
-      &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-      &lt;/a&gt;
-      &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Constant Change Berlin&lt;/h2&gt;
-    &lt;p&gt;To celebrate the end of our trip, we threw a party. We designed audio-reactive visuals for the DJs and
-      multi-media installations for guests. I&amp;nbsp;designed the typeface, Platz, used throughout.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/332449130?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot;
-    allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image&quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/blade/ccb_visualizer_posterframe.jpg&quot;&gt;
-    &lt;source src=&quot;/img/blade/ccb_visualizer.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;We built an audio visualizer in Processing with 12 different code sketches that can be
-  combined for an endless array of visual combinations.&lt;/span&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation celebrating the connective power of the sun and breakthrough LED technology. Category: Interactive installation Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/work/chill_by_netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2019-01-23T12:00:00-08:00</published><updated>2019-01-23T12:00:00-08:00</updated><id>http://localhost:4000/work/chill</id><content type="html" xml:base="http://localhost:4000/work/chill_by_netflix/">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p class=&quot;intro&quot;&gt;A personal care brand extension for Netflix’s sultry side.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;!-- &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt; --&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;p&gt;
-      Category: Packaging&lt;br /&gt;
-      Instructors: Andrew Gibbs, Jessica Deseo&lt;br /&gt;
-      Year: 2017
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Netflix &amp; Chill?&lt;/h2&gt;
-
-    &lt;p&gt;
-      In 2015, “Netflix and chill” had blown up the internet. So when tasked with creating a brand extension in the
-      category of personal care, the answer was obvious. Chill By Netflix is the product line/ad
-      campaign Netflix never knew they needed.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;script type=&quot;text/javascript&quot; src=&quot;https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js&quot;&gt;&lt;/script&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-      trends.embed.renderExploreWidget(&quot;TIMESERIES&quot;, {
-        &quot;comparisonItem&quot;: [{
-          &quot;keyword&quot;: &quot;netflix and chill&quot;,
-          &quot;geo&quot;: &quot;&quot;,
-          &quot;time&quot;: &quot;today 5-y&quot;
-        }],
-        &quot;category&quot;: 0,
-        &quot;property&quot;: &quot;&quot;
-      }, {
-        &quot;exploreQuery&quot;: &quot;date=today%205-y&amp;q=netflix%20and%20chill&quot;,
-        &quot;guestPath&quot;: &quot;https://trends.google.com:443/trends/embed/&quot;
-      });
-    &lt;/script&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-body-lotion.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-lube.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-candle.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-fragrance.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-1.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-condom-2.jpg&quot; /&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-
-    &lt;h2 class=&quot;section-heading&quot;&gt;Design Notes&lt;/h2&gt;
-    &lt;p&gt;
-      The shape of the packaging references the curve of the logo and is ergonomically designed. Each item features
-      unique illustrated quotes pulled from Netflix original programs related to sex and dating. The full set comes in a
-      single-color printed corrugated mailer, with illustrated quotes celebrating the tongue-in-cheek humor of the
-      brand.
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-box-family.jpg&quot; /&gt;
-
-
-&lt;!-- &lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Flexible Logo&lt;/h2&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;col-lg-8&quot;&gt;
-    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop
-        poster=&quot;/img/netflix/netflix-logo-poster.jpg&quot;&gt;
-        &lt;source src=&quot;/img/netflix/netflix-logo-animation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-      &lt;/video&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-    &lt;div class=&quot;carousel-inner&quot;&gt;
-      &lt;div class=&quot;carousel-item active&quot;&gt;
-        &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot;&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;carousel-item&quot;&gt;
-        &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot;&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-      &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-      &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-    &lt;/a&gt;
-    &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-      &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-      &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A deep-dive into deepfakes. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry></feed>
