@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T12:00:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T22:17:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -1501,4 +1501,31 @@
 &lt;/div&gt;
 
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_12.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A deep-dive into deepfakes. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry></feed>
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A deep-dive into deepfakes. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">Formosa</title><link href="http://localhost:4000/work/formosa/" rel="alternate" type="text/html" title="Formosa" /><published>2019-01-22T12:00:00-08:00</published><updated>2019-01-22T12:00:00-08:00</updated><id>http://localhost:4000/work/formosa</id><content type="html" xml:base="http://localhost:4000/work/formosa/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;p class=&quot;intro&quot;&gt;
+            Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of
+            its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance.
+            Its name comes from the street and iconic LA restaurant. 🍴
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;p&gt;
+            Category: Typeface, type specimen&lt;br /&gt;
+            Instructor: &lt;a href=&quot;https://luxtypo.com/&quot; target=&quot;blank_&quot;&gt;Greg Lindy&lt;/a&gt;&lt;br /&gt;
+            Year: 2019
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        
+      &lt;p&gt;
+        Planned for release in 2020.
+      &lt;/p&gt;
+  
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance. Its name comes from the street and iconic LA restaurant. 🍴 Category: Typeface, type specimen Instructor: Greg Lindy Year: 2019</summary></entry></feed>
