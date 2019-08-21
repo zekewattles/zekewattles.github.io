@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-19T14:45:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-21T13:05:25-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -1120,7 +1120,7 @@
             unique and memorable take-away.
         &lt;/p&gt;
 
-        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/ascii-booth/photobooth_diagram_4.png&quot;&gt;
+        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/ascii-booth/photobooth_diagram.png&quot;&gt;
         &lt;span class=&quot;caption text-muted&quot;&gt;Booth diagram. Not shown: the code that captures and prints ASCII photos runs on a &lt;a
                 href=&quot;https://zeke.studio/ascii-camera/&quot; target=&quot;_blank&quot;&gt;webpage&lt;/a&gt; on the laptop (which could also be
             a screen connected to a Raspberry Pi,
