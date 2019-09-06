@@ -6,8 +6,6 @@ layout: default
   <div class="row">
     <div class="col-lg">
 
-      <br><br>
-
       {{ content }}
 
       <!-- Home Post List -->
@@ -15,7 +13,7 @@ layout: default
 
       <article class="post-preview">
 
-        <br><br>
+        
 
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
 
@@ -29,6 +27,9 @@ layout: default
 
           </p>
         </a>
+
+        <br><br>
+
       </article>
 
       {% endfor %}

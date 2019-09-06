@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-29T12:17:01-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-06T16:30:19-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -251,7 +251,7 @@
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
       Related project: &lt;a href=&quot;/work/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
-      Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
+      Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
       Category: Interactive&lt;br&gt;
       Year: 2018
     &lt;/p&gt;
@@ -1506,125 +1506,7 @@
 &lt;/div&gt;
 
 &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_12.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A deep-dive into deepfakes. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">Formosa</title><link href="http://localhost:4000/work/formosa/" rel="alternate" type="text/html" title="Formosa" /><published>2019-01-20T12:00:00-08:00</published><updated>2019-01-20T12:00:00-08:00</updated><id>http://localhost:4000/work/formosa</id><content type="html" xml:base="http://localhost:4000/work/formosa/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;p class=&quot;intro&quot;&gt;
-            Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of
-            its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance.
-            Its name comes from the street and iconic LA restaurant.
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;p&gt;
-            Category: Type design, type specimen&lt;br /&gt;
-            Instructor: &lt;a href=&quot;https://luxtypo.com/&quot; target=&quot;blank_&quot;&gt;Greg Lindy&lt;/a&gt;&lt;br /&gt;
-            Year: 2019
-        &lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;Newsprint Specimen&lt;/h2&gt;
-        &lt;p&gt;The copy is pulled from iconic LA signage, restaurant menus, and the late Jonathan Gold’s writing about his
-            hometown. The specimen’s function is more mood than explanation.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-1by1&quot;&gt;
-            &lt;video class=&quot;embed-responsive-item&quot; playsinline loop muted autoplay poster=&quot;/img/formosa/1-square.JPG&quot;&gt;
-                &lt;source src=&quot;/img/formosa/flipthru_square.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-            &lt;/video&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/1-square.JPG&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/2-square.JPG&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/3-square.JPG&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-    &lt;div class=&quot;carousel-inner&quot;&gt;
-        &lt;div class=&quot;carousel-item active&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-01.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-02.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-03.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-04.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-05.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;carousel-item&quot;&gt;
-            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-06.png&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-    &lt;/a&gt;
-    &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-01.png&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-02.png&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-03.png&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-04.png&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-05.png&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-06.png&quot; /&gt; --&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
-        &lt;p&gt;
-            Type design is a long and meditative process with plenty of print-outs and red ink along the way. Regular
-            print-outs and rigorous testing ensure that the typeface can function at a variety of sizes &amp;mdash; both
-            headlines and long copy &amp;mdash; and every possible
-            character combination is properly kerned.
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/formosa/process1.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-
-        &lt;p&gt;
-            Planned for release in 2020.
-        &lt;/p&gt;
-
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance. Its name comes from the street and iconic LA restaurant. Category: Type design, type specimen Instructor: Greg Lindy Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/work/chill_by_netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2019-01-01T12:00:00-08:00</published><updated>2019-01-01T12:00:00-08:00</updated><id>http://localhost:4000/work/chill</id><content type="html" xml:base="http://localhost:4000/work/chill_by_netflix/">&lt;div class=&quot;row&quot;&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/deepfakes/ats_spread_mockup_8.jpg&quot; /&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A deep-dive into deepfakes. Category: Book design Instructor: Brad Bartlett Year: 2019</summary></entry><entry><title type="html">Chill by Netflix</title><link href="http://localhost:4000/work/chill_by_netflix/" rel="alternate" type="text/html" title="Chill by Netflix" /><published>2019-01-15T12:00:00-08:00</published><updated>2019-01-15T12:00:00-08:00</updated><id>http://localhost:4000/work/chill</id><content type="html" xml:base="http://localhost:4000/work/chill_by_netflix/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;A personal care brand extension for Netflix’s sultry side.&lt;/p&gt;
   &lt;/div&gt;
@@ -1747,4 +1629,122 @@
   &lt;/div&gt;
 
 &lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-2.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry></feed>
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/netflix/netflix-process-1.jpg&quot; /&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A personal care brand extension for Netflix’s sultry side. Category: Packaging Instructors: Andrew Gibbs, Jessica Deseo Year: 2017</summary></entry><entry><title type="html">Formosa</title><link href="http://localhost:4000/work/formosa/" rel="alternate" type="text/html" title="Formosa" /><published>2019-01-10T12:00:00-08:00</published><updated>2019-01-10T12:00:00-08:00</updated><id>http://localhost:4000/work/formosa</id><content type="html" xml:base="http://localhost:4000/work/formosa/">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;p class=&quot;intro&quot;&gt;
+            Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of
+            its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance.
+            Its name comes from the street and iconic LA restaurant.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;p&gt;
+            Category: Type design, type specimen&lt;br /&gt;
+            Instructor: &lt;a href=&quot;https://luxtypo.com/&quot; target=&quot;blank_&quot;&gt;Greg Lindy&lt;/a&gt;&lt;br /&gt;
+            Year: 2019
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Newsprint Specimen&lt;/h2&gt;
+        &lt;p&gt;The copy is pulled from iconic LA signage, restaurant menus, and the late Jonathan Gold’s writing about his
+            hometown. The specimen’s function is more mood than explanation.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-1by1&quot;&gt;
+            &lt;video class=&quot;embed-responsive-item&quot; playsinline loop muted autoplay poster=&quot;/img/formosa/1-square.JPG&quot;&gt;
+                &lt;source src=&quot;/img/formosa/flipthru_square.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+            &lt;/video&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/1-square.JPG&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/2-square.JPG&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/3-square.JPG&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+    &lt;div class=&quot;carousel-inner&quot;&gt;
+        &lt;div class=&quot;carousel-item active&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-01.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-02.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-03.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-04.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-05.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+            &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/formosa/formosa-specimen-06.png&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-01.png&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-02.png&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-03.png&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-04.png&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-05.png&quot; /&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/formosa/formosa-specimen-06.png&quot; /&gt; --&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Process&lt;/h2&gt;
+        &lt;p&gt;
+            Type design is a long and meditative process with plenty of print-outs and red ink along the way. Regular
+            print-outs and rigorous testing ensure that the typeface can function at a variety of sizes &amp;mdash; both
+            headlines and long copy &amp;mdash; and every possible
+            character combination is properly kerned.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/formosa/process1.jpg&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+
+        &lt;p&gt;
+            Planned for release in 2020.
+        &lt;/p&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance. Its name comes from the street and iconic LA restaurant. Category: Type design, type specimen Instructor: Greg Lindy Year: 2019</summary></entry></feed>
