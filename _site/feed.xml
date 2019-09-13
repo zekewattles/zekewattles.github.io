@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-12T23:59:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-13T10:13:02-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
@@ -332,8 +332,13 @@
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;p&gt;
-            Category: Interactive, event-specific, creative technology&lt;br /&gt;
+            Related project: &lt;a href=&quot;/work/order_and_chaos&quot;&gt;Order and Chaos&lt;/a&gt;&lt;br /&gt;
+            Category: Interactive installation, creative technology&lt;br /&gt;
+            Collaborators: &lt;a
+            href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;, &lt;a href=&quot;https://www.dublab.com/djs/ale&quot;
+            target=&quot;_blank&quot;&gt;Alejandro Cohen&lt;/a&gt;&lt;br&gt;
             Year: 2019
+            
         &lt;/p&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -346,6 +351,21 @@
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Back Story&lt;/h2&gt;
+        &lt;p&gt;
+            The photo booth concept stemmed from a conversation with Dublab’s &lt;a href=&quot;https://www.dublab.com/djs/ale&quot;
+                target=&quot;_blank&quot;&gt;Ale&lt;/a&gt;, whose endless enthusiasm, excitement,
+            and support pushed me to finish, and coding help from the incredibly talented &lt;a
+                href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/ascii-booth/photobooth_diagram.png&quot;&gt;
+        &lt;span class=&quot;caption text-muted&quot;&gt;Booth diagram. Not shown: the code that captures and prints ASCII photos runs
+            on a &lt;a href=&quot;https://zeke.studio/ascii-camera/&quot; target=&quot;_blank&quot;&gt;webpage&lt;/a&gt; on the laptop.&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;col-sm&quot;&gt;
         &lt;h2 class=&quot;section-heading&quot;&gt;Let’s Have More Fun&lt;/h2&gt;
         &lt;p&gt;
             At the ArtCenter Grad Show, most booths are no more than a display of a variety of work from students’
@@ -353,7 +373,12 @@
             unique and memorable take-away.
         &lt;/p&gt;
 
-    &lt;/div&gt;
+    &lt;/div&gt; --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
             &lt;video class=&quot;embed-responsive-item&quot; autoplay muted controls loop poster=&quot;&quot;&gt;
@@ -361,32 +386,17 @@
             &lt;/video&gt;
         &lt;/div&gt;
     &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;Back Story&lt;/h2&gt;
-        &lt;p&gt;
-            The photo booth concept stemmed from a conversation with Dublab’s &lt;a href=&quot;https://www.dublab.com/djs/ale&quot; target=&quot;_blank&quot;&gt;Ale&lt;/a&gt;, whose endless enthusiasm, excitement,
-            and support pushed me to finish, and coding help from the incredibly talented &lt;a href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;.
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/ascii-booth/photobooth_diagram.png&quot;&gt;
-        &lt;span class=&quot;caption text-muted&quot;&gt;Booth diagram. Not shown: the code that captures and prints ASCII photos runs
-            on a &lt;a href=&quot;https://zeke.studio/ascii-camera/&quot; target=&quot;_blank&quot;&gt;webpage&lt;/a&gt; on the laptop (which could also
-            be
-            a screen connected to a Raspberry Pi,
-            etc).&lt;/span&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;hr /&gt;
 
-&lt;div class=&quot;row&quot;&gt;
+&lt;!-- &lt;hr /&gt; --&gt;
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;How Did People Respond?&lt;/h2&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Response&lt;/h2&gt;
         &lt;p&gt;
             It proved to be the most popular and Instagrammed part of the grad show—there were crowds around it the
             entire event. Seeing the genuine joy and excitement of participants was the best part of the whole event.
@@ -395,7 +405,7 @@
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
     &lt;/div&gt;
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm inline-image&quot;&gt;
@@ -428,9 +438,20 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;Response&lt;/h2&gt; --&gt;
+        &lt;p&gt;
+            Instagram documentation by grad show guests.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;!-- &lt;span class=&quot;caption text-muted&quot;&gt;I was worried about documentation, but participants did my job for me. Thanks, Instagram!&lt;/span&gt; --&gt;
 
-&lt;hr /&gt;
+&lt;!-- &lt;hr /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
@@ -443,7 +464,7 @@
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an instant ASCII art selfie booth. Category: Interactive, event-specific, creative technology Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an instant ASCII art selfie booth. Related project: Order and Chaos Category: Interactive installation, creative technology Collaborators: Ali Torbati, Alejandro Cohen Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A service for people to generate deepfake content. Through the performative and
