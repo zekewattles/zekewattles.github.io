@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-17T10:37:33-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-19T20:16:56-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
-      A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound?
+      A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how
+      can you draw with sound?
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
@@ -71,27 +72,25 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-    &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop controls
-      poster=&quot;/img/dublab/video-soundwaves-poster1.jpg&quot;&gt;
-      &lt;!-- &lt;source src=&quot;/img/indeterminacy/video-reel.webm&quot; type=&quot;video/webm&quot; /&gt; --&gt;
-      &lt;source src=&quot;/img/dublab/video-soundwaves.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-    &lt;/video&gt;
-  &lt;/div&gt;
+  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop controls
+    poster=&quot;/img/dublab/video-soundwaves-poster1.jpg&quot;&gt;
+    &lt;source src=&quot;/img/dublab/video-soundwaves.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;h2 class=&quot;section-heading&quot;&gt;Posters&lt;/h2&gt;
-&lt;!-- style=&quot;padding-top: 1.2rem; --&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-1.jpg&quot; /&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-5.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-2.jpg&quot; /&gt;
@@ -143,60 +142,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
-    &lt;p&gt;
-      I met Mark (Dublab’s founder) at an event where he gave a talk on &lt;a
-        href=&quot;/work/order_and_chaos&quot;&gt;chance in music&lt;/a&gt;.
-      Looking to get deeper into my research, I struck up a conversation. He was passionate and excited to share.
-    &lt;/p&gt;
-    &lt;p&gt;
-      I asked directly what interested Mark that Dublab could do more of, and he mentioned that Dublab had a large
-      archive of interviews with musicians that he felt was important to preserve. I took the initiative to propose a
-      print version and transcribe one of the most memorable interviews.
-    &lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-1.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-2.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-1.jpg&quot; &gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-2.jpg&quot; &gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-3.jpg&quot; &gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-4.jpg&quot; &gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-5.jpg&quot; &gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
 &lt;hr&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
@@ -237,10 +182,67 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;!-- &lt;br&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;In Conversation&lt;/h2&gt;
+    &lt;p&gt;
+      I met Mark (Dublab’s founder) at an event where he gave a talk on &lt;a
+        href=&quot;/work/order_and_chaos&quot;&gt;chance in music&lt;/a&gt;.
+      Looking to get deeper into my research, I struck up a conversation. He was passionate and excited to share.
+    &lt;/p&gt;
+    &lt;p&gt;
+      I asked directly what interested Mark that Dublab could do more of, and he mentioned that Dublab had a large
+      archive of interviews with musicians that he felt was important to preserve. I took the initiative to propose a
+      print version and transcribe one of the most memorable interviews.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-1.jpg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/print-booklet-2.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;carouselExampleControls&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;carousel-item active&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-1.jpg&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-2.jpg&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-3.jpg&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-4.jpg&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/dublab/print-booklet-carousel-5.jpg&quot;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;hr&gt; --&gt;
+&lt;br&gt;&lt;br&gt;
+
 &lt;p style=&quot;text-align: center;&quot;&gt;
-  &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt;
-&lt;/p&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound? Related project: Order and Chaos Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie Category: Identity, type design, interactive, print Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/work/order_and_chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2019-01-26T12:00:00-08:00</published><updated>2019-01-26T12:00:00-08:00</updated><id>http://localhost:4000/work/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/work/order_and_chaos/">&lt;div class=&quot;row&quot;&gt;
+  &lt;!-- &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt; --&gt;
+  Related project: &lt;a href=&quot;/work/order_and_chaos&quot;&gt;Order and Chaos&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how can you draw with sound? Related project: Order and Chaos Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie Category: Identity, type design, interactive, print Year: 2018</summary></entry><entry><title type="html">Order and Chaos</title><link href="http://localhost:4000/work/order_and_chaos/" rel="alternate" type="text/html" title="Order and Chaos" /><published>2019-01-26T12:00:00-08:00</published><updated>2019-01-26T12:00:00-08:00</updated><id>http://localhost:4000/work/order-and-chaos</id><content type="html" xml:base="http://localhost:4000/work/order_and_chaos/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       An interactive installation inspired by &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cage&quot; target=&quot;_blank&quot;&gt;John
@@ -250,7 +252,7 @@
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p&gt;
-      Related project: &lt;a href=&quot;/work/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br&gt;
+      Related project: &lt;a href=&quot;/work/ascii-booth&quot;&gt;ASCII Booth&lt;/a&gt;&lt;br&gt;
       Collaborator: &lt;a href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;&lt;br&gt;
       Category: Interactive&lt;br&gt;
       Year: 2018
@@ -274,14 +276,15 @@
     &lt;/p&gt;
 
     &lt;p&gt;
-      &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;http://zeke.studio/indeterminacy&quot; target=&quot;_blank&quot; role=&quot;button&quot;&gt;Create
-        your own poster&lt;/a&gt;
+      &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;/indeterminacy/&quot; target=&quot;_blank&quot; role=&quot;button&quot;&gt;
+        Create your own poster
+      &lt;/a&gt;
     &lt;/p&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
 
-      &lt;div id=&quot;carouselExampleControls3&quot; class=&quot;carousel slide inline-image&quot; data-ride=&quot;carousel&quot;&gt;
+    &lt;!-- &lt;div id=&quot;carouselExampleControls3&quot; class=&quot;carousel slide inline-image&quot; data-ride=&quot;carousel&quot;&gt;
           &lt;div class=&quot;carousel-inner&quot;&gt;
             &lt;div class=&quot;carousel-item active&quot;&gt;
               &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot;&gt;
@@ -298,14 +301,9 @@
             &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
             &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
           &lt;/a&gt;
-        &lt;/div&gt;
-
-    &lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot; /&gt; --&gt;
+        &lt;/div&gt; --&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt;
-&lt;img class=&quot;img-fluid&quot; src=&quot;/img/indeterminacy/micro_all_tiled_3.jpg&quot; /&gt;
 
 &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -323,7 +321,36 @@
     &lt;source src=&quot;/img/indeterminacy/video-reel.webm&quot; type=&quot;video/webm&quot; /&gt;
     &lt;source src=&quot;/img/indeterminacy/video-reel.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   &lt;/video&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: Dublab Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">ASCII Booth</title><link href="http://localhost:4000/work/ascii-booth/" rel="alternate" type="text/html" title="ASCII Booth" /><published>2019-01-25T12:00:00-08:00</published><updated>2019-01-25T12:00:00-08:00</updated><id>http://localhost:4000/work/ascii-booth</id><content type="html" xml:base="http://localhost:4000/work/ascii-booth/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Work&lt;/h2&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/animation-black.gif&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;/img/indeterminacy/micro_all_tiled_3.jpg&quot; /&gt;
+
+&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt; --&gt;
+&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/gif_in_laptop_2x.gif&quot; /&gt;
+
+&lt;br&gt;&lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- &lt;a href=&quot;/&quot;&gt;&amp;larr; Back to all work&lt;/a&gt; --&gt;
+  Related project: &lt;a href=&quot;/work/ascii-booth&quot;&gt;ASCII Booth&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">An interactive installation inspired by John Cage’s method for composing with chance that gives users the power to create and print their own posters live. Related project: ASCII Booth Collaborator: Ali Torbati Category: Interactive Year: 2018</summary></entry><entry><title type="html">ASCII Booth</title><link href="http://localhost:4000/work/ascii-booth/" rel="alternate" type="text/html" title="ASCII Booth" /><published>2019-01-25T12:00:00-08:00</published><updated>2019-01-25T12:00:00-08:00</updated><id>http://localhost:4000/work/ascii-booth</id><content type="html" xml:base="http://localhost:4000/work/ascii-booth/">&lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;p class=&quot;intro&quot;&gt;
             ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an
@@ -332,13 +359,11 @@
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;p&gt;
-            Related project: &lt;a href=&quot;/work/order_and_chaos&quot;&gt;Order and Chaos&lt;/a&gt;&lt;br /&gt;
+            Related project: &lt;a href=&quot;/work/dublab&quot;&gt;Dublab&lt;/a&gt;&lt;br /&gt;
             Category: Interactive installation, creative technology&lt;br /&gt;
-            Collaborators: &lt;a
-            href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;, &lt;a href=&quot;https://www.dublab.com/djs/ale&quot;
-            target=&quot;_blank&quot;&gt;Alejandro Cohen&lt;/a&gt;&lt;br&gt;
+            Collaborators: &lt;a href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;, &lt;a
+                href=&quot;https://www.dublab.com/djs/ale&quot; target=&quot;_blank&quot;&gt;Alejandro Cohen&lt;/a&gt;&lt;br&gt;
             Year: 2019
-            
         &lt;/p&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -351,18 +376,66 @@
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;Let’s Have More Fun&lt;/h2&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Backstory&lt;/h2&gt;
         &lt;p&gt;
-            At the ArtCenter Grad Show, most booths are no more than a display of a variety of work from students’
-            tenure, which is impressive in its own right. But I wanted to create something fun and event-specific with a
-            unique and memorable take-away.
+            After finishing my &lt;a href=&quot;/work/dublab&quot;&gt;Dublab concept project&lt;/a&gt;, I hit up Mark
+            and Ale and arranged a visit to the Dublab studio to share the work. Unfortunately, they had announced a new
+            brand and website exactly the same time I had finished my project. But they liked the energy, and I was
+            eager to make something real.
         &lt;/p&gt;
+        &lt;p&gt;
+            Ale loved the dot matrix printer but wasn’t convinced by the &lt;a
+                href=&quot;/indeterminacy/&quot;&gt;poster generator&lt;/a&gt;. He asked if we could turn it into a
+            photo booth. I didn’t know how we would, but I said yes.
+        &lt;/p&gt;
+
+        &lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;Back Story&lt;/h2&gt;
+        &lt;p&gt;
+            The photo booth concept stemmed from a conversation with Dublab’s &lt;a href=&quot;https://www.dublab.com/djs/ale&quot;
+                target=&quot;_blank&quot;&gt;Ale&lt;/a&gt;, whose endless enthusiasm, excitement,
+            and support pushed me to finish, and coding help from the incredibly talented &lt;a
+                href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;.
+        &lt;/p&gt; --&gt;
 
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
-            &lt;video class=&quot;embed-responsive-item&quot; autoplay muted controls loop poster=&quot;&quot;&gt;
-                &lt;source src=&quot;/img/ascii-booth/video1.MOV&quot; type=&quot;video/mp4&quot; /&gt;
+        &lt;img class=&quot;img-fluid&quot; src=&quot;/img/ascii-booth/asciibooth_polaroid.jpg&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;ASCII&lt;/h2&gt;
+        &lt;p&gt;
+            The ASCII art is both aesthetic and functional. Dot matrix printers are designed for printing plain text
+            documents. I learned from my &lt;a href=&quot;/work/order_and_chaos&quot;&gt;previous project&lt;/a&gt; that
+            printing anything else was incredibly slow, and forcing people to wait too long for their photo to print
+            wasn’t
+            ideal. I also learned that plain text printing worked only from a Windows machine.
+        &lt;/p&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Interface&lt;/h2&gt;
+        &lt;p&gt;
+            The interface shows you what will print. It converts the webcam image to text using JavaScript, and pauses
+            and downloads the current page as a text file when a button is pressed. I styled the page in CSS.
+        &lt;/p&gt;
+        &lt;p&gt;
+            What you don’t see is the footer. Since the whole thing is text, there’s a unique built-in opportunity for
+            messaging: event name, time stamp, sponsors, secret codes, and ASCII logos. The footer can be changed for
+            each event.
+        &lt;/p&gt;
+        &lt;p&gt;
+            &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;/ascii-camera/&quot; target=&quot;_blank&quot; role=&quot;button&quot;&gt;
+                Take a picture
+            &lt;/a&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+            &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop controls
+                poster=&quot;/img/ascii-booth/ascii_interface.jpg&quot;&gt;
+                &lt;source src=&quot;/img/ascii-booth/ascii_interface.mp4&quot; type=&quot;video/mp4&quot; /&gt;
             &lt;/video&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -372,30 +445,36 @@
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;Back Story&lt;/h2&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;Physical Build&lt;/h2&gt;
         &lt;p&gt;
-            The photo booth concept stemmed from a conversation with Dublab’s &lt;a href=&quot;https://www.dublab.com/djs/ale&quot; target=&quot;_blank&quot;&gt;Ale&lt;/a&gt;, whose endless enthusiasm, excitement,
-            and support pushed me to finish, and coding help from the incredibly talented &lt;a href=&quot;http://alitorbati.com/&quot; target=&quot;_blank&quot;&gt;Ali Torbati&lt;/a&gt;.
+            I built the booth out of MDF to fit the dimensions of the printer. A set of caster wheels at the bottom
+            makes it easy to transport. The booth is built like a shelving unit, with flat shelves for the laptop and
+            printer, and a drawer in between to house the button and hide the Arduino and wiring behind it.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;img class=&quot;img-fluid&quot; src=&quot;/img/ascii-booth/photobooth_diagram.png&quot;&gt;
-        &lt;span class=&quot;caption text-muted&quot;&gt;Booth diagram. Not shown: the code that captures and prints ASCII photos runs
+        &lt;!-- &lt;span class=&quot;caption text-muted&quot;&gt;Booth diagram. Not shown: the code that captures and prints ASCII photos runs
             on a &lt;a href=&quot;https://zeke.studio/ascii-camera/&quot; target=&quot;_blank&quot;&gt;webpage&lt;/a&gt; on the laptop (which could also
-            be
-            a screen connected to a Raspberry Pi,
-            etc).&lt;/span&gt;
+            be a screen connected to a Raspberry Pi, etc).&lt;/span&gt; --&gt;
     &lt;/div&gt;
 &lt;/div&gt;
+
 &lt;hr /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;How Did People Respond?&lt;/h2&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;
+            First Run: Grad Show
+        &lt;/h2&gt;
         &lt;p&gt;
-            It proved to be the most popular and Instagrammed part of the grad show—there were crowds around it the
-            entire time. Seeing the genuine joy and excitement of participants was the best part of the whole event.
-            &lt;!-- Even crossed-arm creative directors couldn’t help but crack a smile. --&gt;
+            The ArtCenter Grad Show is a chance for hardworking students to display the work they feel best represents
+            them, and hopefully will land them a job. I am interested in both graphic design and interaction, and wanted
+            to show something event-specific with a personalized take-away. Who needs another tote bag?
+        &lt;/p&gt;
+        &lt;p&gt;
+            It was the most Instagrammed part of the grad show and there were crowds around for the whole event. For me,
+            seeing the genuine excitement of participants was the best part of the weekend.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
@@ -412,18 +491,18 @@
     &lt;/div&gt;
     &lt;div class=&quot;col-sm inline-image&quot;&gt;
         &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
+            &lt;video class=&quot;embed-responsive-item&quot; autoplay muted controls loop poster=&quot;&quot;&gt;
+                &lt;source src=&quot;/img/ascii-booth/video1.MOV&quot; type=&quot;video/mp4&quot; /&gt;
+            &lt;/video&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- &lt;div class=&quot;col-sm inline-image&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
             &lt;video class=&quot;embed-responsive-item&quot; autoplay muted loop poster=&quot;&quot;&gt;
                 &lt;source src=&quot;/img/ascii-booth/ugc2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
             &lt;/video&gt;
         &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-sm inline-image&quot;&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
-            &lt;video class=&quot;embed-responsive-item&quot; autoplay muted loop poster=&quot;&quot;&gt;
-                &lt;source src=&quot;/img/ascii-booth/ugc3.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-            &lt;/video&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
+    &lt;/div&gt; --&gt;
     &lt;div class=&quot;col-sm inline-image&quot;&gt;
         &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
             &lt;video class=&quot;embed-responsive-item&quot; autoplay muted loop poster=&quot;&quot;&gt;
@@ -431,24 +510,119 @@
             &lt;/video&gt;
         &lt;/div&gt;
     &lt;/div&gt;
+    &lt;!-- &lt;div class=&quot;col-sm inline-image&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
+            &lt;video class=&quot;embed-responsive-item&quot; autoplay muted loop poster=&quot;&quot;&gt;
+                &lt;source src=&quot;/img/ascii-booth/ugc3.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+            &lt;/video&gt;
+        &lt;/div&gt;
+    &lt;/div&gt; --&gt;
 &lt;/div&gt;
-
-&lt;!-- &lt;span class=&quot;caption text-muted&quot;&gt;I was worried about documentation, but participants did my job for me. Thanks, Instagram!&lt;/span&gt; --&gt;
 
 &lt;hr /&gt;
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
-        &lt;h2 class=&quot;section-heading&quot;&gt;What’s Next?&lt;/h2&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;
+            Second Run: Dublab’s 20th Anniversary Weekend
+        &lt;/h2&gt;
         &lt;p&gt;
-            If you missed it at the grad show, ASCII Booth will be featured at Dublab’s &lt;a
-                href=&quot;https://www.dublab.com/events/78254/dublab-20th-anniversary-party&quot; target=&quot;_blank&quot;&gt;20th
-                Anniversary Party&lt;/a&gt; on September 21 and 22, 2019!
+            The Grad Show was also the first real user testing for the booth. For the &lt;a
+                href=&quot;https://www.dublab.com/events/78254/dublab-20th-anniversary-party&quot; target=&quot;_blank&quot;&gt;Dublab
+                event&lt;/a&gt;, Ali joined me, and here are some of the problems we solved:
+        &lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                There was a bug with photos double-printing, or not at all. It turned out to be an issue with Chrome in
+                full-screen mode, so we didn’t do that.
+            &lt;/li&gt;
+            &lt;li&gt;
+                When we prototyped the booth, the “print” button was a UI element on screen accompanied by text
+                instructions. When I added the Arduino button and told people to “press the big button”, half of users
+                were confused as to which button I meant &amp;mdash; physical or UI? The solution was to &lt;strong&gt;remove the
+                    UI button&lt;/strong&gt; and all text instructions.
+            &lt;/li&gt;
+            &lt;li&gt;
+                Users always asked “what is this?” and “how does this work?” Initially, we gave a long explanation.
+                After the end of the weekend, our &lt;strong&gt;verbal instructions&lt;/strong&gt; went from 1-2 minutes to 10
+                seconds.
+            &lt;/li&gt;
+
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/ascii-booth/dublab_event_02.JPG&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm inline-image&quot;&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-9by16&quot;&gt;
+            &lt;video class=&quot;embed-responsive-item&quot; autoplay muted controls loop poster=&quot;/img/ascii-booth/dublab_event_04.jpg&quot;&gt;
+                &lt;source src=&quot;/img/ascii-booth/dublab_event_04.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+            &lt;/video&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+            &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/ascii-booth/dublab_event_01.JPG&quot; /&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm&quot;&gt;
+            &lt;h2 class=&quot;section-heading&quot;&gt;
+                The Future
+            &lt;/h2&gt;
+            &lt;p&gt;
+                Dublab has expressed interest in doing more events. A permanent home in a public/retail space would be
+                great, too.
+            &lt;/p&gt;
+            &lt;p&gt;
+                With a larger budget, the booth 2.0 would:
+                &lt;ul&gt;
+                    &lt;li&gt;
+                        Use a built-in screen connected to a Raspberri Pi instead of a laptop.
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                        Have a built-in flash or ring light.
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                        Be self-sufficient. Currently, the dot matrix printer can jam unpredictably and a booth operator
+                        needs to be present.
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt; --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm&quot;&gt;
+        &lt;h2 class=&quot;section-heading&quot;&gt;
+            Conclusion
+        &lt;/h2&gt;
+        &lt;p&gt;
+            This self-initiated project shows my interests in experimenting and prototyping. It’s a graphic design,
+            product design, branding, and interaction project in one.
+        &lt;/p&gt;
+        &lt;p&gt;
+            In a class project, your audience is your peers. This was the first time I created something where my
+            audience didn’t know me at all, and the project had to be compelling, understandable, and functional.
+        &lt;/p&gt;
+        &lt;p&gt;
+            Through a process of iteration, testing, and building, I achieved those goals. I collaborated with a
+            developer to code the aspects I couldn’t figure out myself, and communicated with a real client along
+            the way to deliver a project we both were happy with.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an instant ASCII art selfie booth. Related project: Order and Chaos Category: Interactive installation, creative technology Collaborators: Ali Torbati, Alejandro Cohen Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an instant ASCII art selfie booth. Related project: Dublab Category: Interactive installation, creative technology Collaborators: Ali Torbati, Alejandro Cohen Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A service for people to generate deepfake content. Through the performative and
