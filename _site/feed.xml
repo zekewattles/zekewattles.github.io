@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-19T22:11:38-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-19T22:26:52-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how
@@ -79,7 +79,11 @@
 &lt;/div&gt;
 
 &lt;hr /&gt;
-&lt;h2 class=&quot;section-heading&quot;&gt;Posters&lt;/h2&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Posters&lt;/h2&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/dublab/poster-7.jpg&quot; /&gt;
@@ -146,17 +150,27 @@
 
 &lt;hr&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Logotype&lt;/h2&gt;
-&lt;img class=&quot;img-fluid&quot; src=&quot;/img/dublab/logo_1.png&quot; /&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Logotype&lt;/h2&gt;
+    &lt;img class=&quot;img-fluid&quot; src=&quot;/img/dublab/logo_1.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;hr&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
 
-&lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
-  &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/web-preview.jpg&quot;&gt;
-    &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Web&lt;/h2&gt;
+
+    &lt;div class=&quot;embed-responsive embed-responsive-16by9 inline-image &quot;&gt;
+      &lt;video class=&quot;embed-responsive-item&quot; playsinline autoplay muted loop poster=&quot;/img/dublab/web-preview.jpg&quot;&gt;
+        &lt;source src=&quot;/img/dublab/web-preview.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;/video&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr&gt;
@@ -273,13 +287,12 @@
     &lt;h2 class=&quot;section-heading&quot;&gt;Design as Performance&lt;/h2&gt;
 
     &lt;p&gt;I created a &lt;a href=&quot;/work/dublab&quot;&gt;proposed identity for Dublab&lt;/a&gt; based on a unique
-      set
-      of tools for graphic creation inspired by sound and music.&lt;/p&gt;
+      set of tools for graphic creation inspired by sound and music.&lt;/p&gt;
 
     &lt;p&gt;
-      This interactive installation allows guests to generate and output their own posters in real time
-      via a hacked dot matrix printer. Rather than a singular event poster, a controlled set of parameters allows for
-      infinite graphic variations with a user’s personal message.
+      This interactive installation allows guests to generate and output their own posters in real time via a hacked dot
+      matrix printer. Rather than a singular event poster, a controlled set of parameters allows for infinite graphic
+      variations with a user’s personal message.
     &lt;/p&gt;
 
     &lt;p&gt;
@@ -291,24 +304,24 @@
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
 
-    &lt;!-- &lt;div id=&quot;carouselExampleControls3&quot; class=&quot;carousel slide inline-image&quot; data-ride=&quot;carousel&quot;&gt;
-          &lt;div class=&quot;carousel-inner&quot;&gt;
-            &lt;div class=&quot;carousel-item active&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;carousel-item&quot;&gt;
-              &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/indeterminacy/animation-black.gif&quot;&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls3&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-          &lt;/a&gt;
-          &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls3&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-          &lt;/a&gt;
-        &lt;/div&gt; --&gt;
+    &lt;div id=&quot;carouselExampleControls3&quot; class=&quot;carousel slide inline-image&quot; data-ride=&quot;carousel&quot;&gt;
+      &lt;div class=&quot;carousel-inner&quot;&gt;
+        &lt;div class=&quot;carousel-item active&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel-item&quot;&gt;
+          &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/indeterminacy/animation-black.gif&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleControls3&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+        &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+      &lt;/a&gt;
+      &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleControls3&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+        &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -333,7 +346,7 @@
 &lt;hr&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;h2 class=&quot;section-heading&quot;&gt;Work&lt;/h2&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Interface&lt;/h2&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
   &lt;/div&gt;
@@ -341,17 +354,34 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt; --&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/gif_in_laptop_2x.gif&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;h2 class=&quot;section-heading&quot;&gt;Results&lt;/h2&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/micro_all_tiled_3.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/animation-black.gif&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/poster-wall.jpg&quot; /&gt;
   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img class=&quot;img-fluid&quot; src=&quot;/img/indeterminacy/micro_all_tiled_3.jpg&quot; /&gt;
-
-&lt;!-- &lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/web-laptop.jpg&quot; /&gt; --&gt;
-&lt;img class=&quot;img-fluid inline-image&quot; src=&quot;/img/indeterminacy/gif_in_laptop_2x.gif&quot; /&gt;
+&lt;/div&gt; --&gt;
 
 &lt;br&gt;&lt;br&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
