@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-19T23:21:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-23T10:35:48-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeke Wattles</title><subtitle>Zeke Wattles / Graphic Design</subtitle><author><name>Zeke Wattles</name></author><entry><title type="html">Dublab</title><link href="http://localhost:4000/work/dublab/" rel="alternate" type="text/html" title="Dublab" /><published>2019-01-30T12:00:00-08:00</published><updated>2019-01-30T12:00:00-08:00</updated><id>http://localhost:4000/work/dublab</id><content type="html" xml:base="http://localhost:4000/work/dublab/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how
@@ -639,7 +639,7 @@
 
 &lt;hr /&gt;
 
-&lt;!-- &lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col-sm&quot;&gt;
             &lt;h2 class=&quot;section-heading&quot;&gt;
                 The Future
@@ -666,9 +666,9 @@
         &lt;/div&gt;
         &lt;div class=&quot;col-sm&quot;&gt;
         &lt;/div&gt;
-    &lt;/div&gt; --&gt;
+    &lt;/div&gt;
 
-&lt;div class=&quot;row&quot;&gt;
+&lt;!-- &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
         &lt;h2 class=&quot;section-heading&quot;&gt;
             Conclusion
@@ -689,7 +689,7 @@
     &lt;/div&gt;
     &lt;div class=&quot;col-sm&quot;&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an instant ASCII art selfie booth. Related project: Dublab Category: Interactive installation, creative technology Collaborators: Ali Torbati, Alejandro Cohen Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt; --&gt;</content><author><name>Zeke Wattles</name></author><summary type="html">ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an instant ASCII art selfie booth. Related project: Dublab Category: Interactive installation, creative technology Collaborators: Ali Torbati, Alejandro Cohen Year: 2019</summary></entry><entry><title type="html">Karaoke for Deepfakes</title><link href="http://localhost:4000/work/deepfake_karaoke/" rel="alternate" type="text/html" title="Karaoke for Deepfakes" /><published>2019-01-24T12:00:00-08:00</published><updated>2019-01-24T12:00:00-08:00</updated><id>http://localhost:4000/work/karaoke</id><content type="html" xml:base="http://localhost:4000/work/deepfake_karaoke/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-sm&quot;&gt;
     &lt;p class=&quot;intro&quot;&gt;
       A service for people to generate deepfake content. Through the performative and
