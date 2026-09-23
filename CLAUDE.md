@@ -14,17 +14,23 @@ Currently a Jekyll site served by GitHub Pages at `zeke.studio`. We're mid-migra
 - [x] **Stage 6**: About + Experiments pages ported. Orphan projects (Art+Environment, Kinetic Type) stay hardcoded on their respective pages since both are external links, not `/work/` pages
 - [x] **Stage 7**: GitHub Actions deploy workflow (`.github/workflows/deploy.yml`)
 - [x] **About page trimmed** (2026-09-21): removed phone, résumé PDF link, "based in Portland / Instrument" paragraph, "Information" header. Contact list is now Email → LinkedIn → Instagram → Are.na, all under one Contact heading.
-- [ ] **Stage 8**: Cutover cleanup — **do not run without Zeke's approval and after visual verification**
+- [x] **Archive restructure** (2026-09-23): moved `/`, `/about/`, `/experiments/`, `/work/[slug]/` under `src/pages/archive/`. Redirects wired in `astro.config.mjs`. `Nav.astro` links updated. Inter-project links updated in 3 project markdown files.
+- [x] **New homepage** (2026-09-23): self-contained landing at `src/pages/index.astro` (no `Base.astro`, no Bootstrap). Dark theme, ABC Areal Variable font using `DRKM` (dark mode) and `MONO` (mono/proportional) axes. Two hero-image blocks: Newer Work → Figma prototype; Older Work → `/archive/`.
+- [x] **GitHub Pages source** switched to "GitHub Actions" (2026-09-23)
+- [ ] **Deploy**: push `preview/new-homepage` branch → PR → merge to `master` (triggers Actions deploy)
+- [ ] **Stage 8**: Cutover cleanup — **do not run without Zeke's approval and after visual verification of the live deploy**
 
-**Build produces 11 pages**: `/`, `/about/`, `/experiments/`, and 8 project pages under `/work/<slug>/`. Total `dist/` ≈ 505MB (nearly all images — optimization deferred).
+**Build produces 12 pages** (1 new home + 3 archive index/about/experiments + 8 archive work), plus static redirect stubs at the old `/about/`, `/experiments/`, and `/work/<slug>/` URLs.
 
-## Session pause notes (2026-09-21)
+## Session pause notes (2026-09-23)
 
-Astro migration is fully built and visually reviewed on the About page (with edits applied). Remaining work:
-1. Zeke to walk `/`, `/experiments/`, and each `/work/<slug>/` locally to spot regressions vs. live `zeke.studio`
-2. Switch GitHub Pages source to "GitHub Actions" in repo settings
-3. Test-deploy from a preview branch
-4. Ask Claude to run Stage 8 cleanup (delete Jekyll files) once verified
+Archive restructure + new homepage complete and committed locally on branch `preview/new-homepage` (SHA `82f9fad`). Build succeeds cleanly (12 pages). GitHub Pages source has been switched to "GitHub Actions" per Zeke. The sandboxed Claude session couldn't push — Zeke to push from GitHub Desktop or terminal.
+
+Remaining to go live:
+1. Zeke pushes `preview/new-homepage` to origin (GitHub Desktop: "Publish branch")
+2. Open PR against `master`, review diff, merge
+3. Verify GitHub Actions deploy succeeds and `https://zeke.studio` renders correctly
+4. Then ask Claude to run Stage 8 cleanup (delete Jekyll files)
 
 ## Key decisions made during implementation
 
@@ -35,6 +41,11 @@ Astro migration is fully built and visually reviewed on the About page (with edi
 5. **Migration script handles**: gray-matter frontmatter parse, slug derivation from `permalink: /work/<slug>/`, date-override for ascii-booth mismatch, HTML comment stripping, Liquid `relative_url` resolution (baseurl is empty so it's a no-op string substitution).
 6. **Skipped FontAwesome** — grep showed zero usage in any post body.
 7. **Copied `img/` (448MB), `fonts/`, `CNAME`, `robots.txt` into `public/`** unchanged. Image optimization is out of scope for the migration.
+8. **New homepage is self-contained** — does NOT use `Base.astro`. `src/pages/index.astro` is one file with embedded `<style is:global>`; no Nav, Footer, jQuery, or Bootstrap. Loads ABC Areal Variable via `@font-face`. Body defaults to weight 500, `font-variation-settings: 'DRKM' 1, 'MONO' 50`, `color: rgba(255,255,255,0.6)` on `#000`. Bio paragraphs override MONO to 0 for proportional cut at display size (24/32). Mid-tier trio (header, work-block captions, contact links) uses 18/24 + MONO 0. Small type (section labels, credits, footer) inherits MONO 50 at weight 400. Selective 100% white on "Hi, I'm Zeke.", section labels, and entry titles.
+9. **Container mirrors Bootstrap breakpoints** (540 / 720 / 960 / 1140px, 15px side padding) so the new home visually aligns with archive pages' side gutters.
+10. **Font file lives at `public/fonts/ABCArealSuperfamilyVariable.woff2`** (also committed as TTF for source-of-truth, but only woff2 is loaded).
+11. **Broken import paths after moving pages** into `src/pages/archive/`: files at `pages/archive/*.astro` need `../../layouts/` and `../../components/`; `pages/archive/work/[slug].astro` needs `../../../` (three levels). This was the root cause of `/archive/` 404ing in the first build after the move.
+12. **Older Work image reuses `/img/dublab/poster-enviro.jpg`** (already in `public/img/dublab/`) rather than duplicating into `public/img/home/`.
 
 ## Files created this session
 
@@ -44,9 +55,13 @@ Astro migration is fully built and visually reviewed on the About page (with edi
 - `src/components/Nav.astro`, `src/components/Footer.astro`
 - `src/content/config.ts` (Zod schema for `projects` collection)
 - `src/content/projects/*.md` (8 files, generated by migration script)
-- `src/pages/index.astro`
-- `src/pages/work/[slug].astro`
+- `src/pages/index.astro` — **new self-contained homepage** (2026-09-23 rewrite)
+- `src/pages/archive/index.astro`, `src/pages/archive/about.astro`, `src/pages/archive/experiments.astro`
+- `src/pages/archive/work/[slug].astro`
+- `public/img/home/newer.jpg` — hero image for Newer Work block (2220×1249, ~208K)
+- `public/fonts/ABCArealSuperfamilyVariable.woff2` — homepage font
 - `scripts/migrate.mjs`
+- `.github/workflows/deploy.yml`
 
 ## How to resume next session
 
@@ -58,10 +73,11 @@ Astro migration is fully built and visually reviewed on the About page (with edi
 
 ## What Zeke needs to do next
 
-1. **Run the dev server locally** and walk `/`, `/about/`, `/experiments/`, and every `/work/<slug>/`. Each project should look very close to the current live site. Report anything that looks off.
-2. **In GitHub repo settings → Pages**, switch source from "Deploy from a branch" to "GitHub Actions" (required so `.github/workflows/deploy.yml` takes over from the built-in Jekyll build).
-3. **Push a preview branch first** to test the deploy workflow before merging to master — avoid breaking `zeke.studio` if something's off.
-4. **Once verified**, ask Claude to run Stage 8 cleanup: delete `_config.yml`, `Gemfile*`, `gulpfile.js`, `_layouts/`, `_includes/`, `_sass/`, `_site/`, `.sass-cache/`, `_posts/`, `posts/`, `resume.html`, `assets/vendor/`, all `.DS_Store` files, and the orphaned webfonts in `fonts/`.
+1. **Push the preview branch** — from GitHub Desktop click "Publish branch," or from a terminal: `git push -u origin preview/new-homepage`. (The sandboxed Claude session can't push.)
+2. **Open a PR** on GitHub from `preview/new-homepage` → `master`. Review the "Files changed" tab.
+3. **Merge the PR** — that triggers the GitHub Actions workflow, which builds and deploys to `zeke.studio` (~1–2 min).
+4. **Verify at https://zeke.studio** in a fresh incognito window: walk `/`, `/archive/`, `/archive/about/`, `/archive/experiments/`, a couple `/archive/work/<slug>/` pages, and confirm an old URL like `/work/formosa/` still resolves (via redirect).
+5. **Once verified**, ask Claude to run Stage 8 cleanup: delete `_config.yml`, `Gemfile*`, `gulpfile.js`, `_layouts/`, `_includes/`, `_sass/`, `_site/`, `.sass-cache/`, `_posts/`, `posts/`, `resume.html`, `assets/vendor/`, all `.DS_Store` files, and the orphaned webfonts in `fonts/`.
 
 ## Adding a new project (post-migration)
 
