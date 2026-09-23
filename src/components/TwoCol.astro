@@ -1,0 +1,30 @@
+---
+export interface Props {
+  gap?: string;
+}
+const { gap = "1rem" } = Astro.props;
+---
+
+<div class="zc-two-col" style={`--zc-gap: ${gap}`}>
+  <slot />
+</div>
+
+<style>
+  .zc-two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--zc-gap);
+    margin-bottom: 1.2rem;
+  }
+  .zc-two-col :global(img),
+  .zc-two-col :global(video) {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  @media (max-width: 640px) {
+    .zc-two-col {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

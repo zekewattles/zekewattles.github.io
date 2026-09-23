@@ -1,0 +1,118 @@
+---
+export interface Props {
+  images: string[];
+  alt?: string;
+  loop?: boolean;
+}
+const { images, alt = "", loop = true } = Astro.props;
+const id = `carousel-${Math.random().toString(36).slice(2, 8)}`;
+---
+
+<div class="zc-carousel" data-carousel-id={id} data-loop={loop}>
+  <div class="zc-carousel-track">
+    {images.map((src, i) => (
+      <div class="zc-carousel-slide" data-active={i === 0 ? "true" : "false"}>
+        <img src={src} alt={alt} loading="lazy" />
+      </div>
+    ))}
+  </div>
+  <button class="zc-carousel-btn zc-carousel-prev" aria-label="Previous">‹</button>
+  <button class="zc-carousel-btn zc-carousel-next" aria-label="Next">›</button>
+  <div class="zc-carousel-dots">
+    {images.map((_, i) => (
+      <button
+        class="zc-carousel-dot"
+        data-index={i}
+        data-active={i === 0 ? "true" : "false"}
+        aria-label={`Go to slide ${i + 1}`}
+      ></button>
+    ))}
+  </div>
+</div>
+
+<style>
+  .zc-carousel {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 1.2rem;
+  }
+  .zc-carousel-track {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+  .zc-carousel-slide {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 300ms ease;
+    pointer-events: none;
+  }
+  .zc-carousel-slide[data-active="true"] {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .zc-carousel-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+  .zc-carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    border: none;
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+  }
+  .zc-carousel-btn:hover { background: rgba(0, 0, 0, 0.7); }
+  .zc-carousel-prev { left: 0.5rem; }
+  .zc-carousel-next { right: 0.5rem; }
+  .zc-carousel-dots {
+    position: absolute;
+    bottom: 0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 0.4rem;
+  }
+  .zc-carousel-dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    padding: 0;
+  }
+  .zc-carousel-dot[data-active="true"] { background: rgba(255, 255, 255, 1); }
+</style>
+
+<script>
+  const carousels = document.querySelectorAll<HTMLElement>(".zc-carousel");
+  carousels.forEach((carousel) => {
+    const slides = carousel.querySelectorAll<HTMLElement>(".zc-carousel-slide");
+    const dots = carousel.querySelectorAll<HTMLElement>(".zc-carousel-dot");
+    const loop = carousel.dataset.loop !== "false";
+    let index = 0;
+
+    const show = (i: number) => {
+      if (loop) i = (i + slides.length) % slides.length;
+      else i = Math.max(0, Math.min(slides.length - 1, i));
+      slides.forEach((s, si) => s.dataset.active = si === i ? "true" : "false");
+      dots.forEach((d, di) => d.dataset.active = di === i ? "true" : "false");
+      index = i;
+    };
+
+    carousel.querySelector(".zc-carousel-prev")?.addEventListener("click", () => show(index - 1));
+    carousel.querySelector(".zc-carousel-next")?.addEventListener("click", () => show(index + 1));
+    dots.forEach((dot, i) => dot.addEventListener("click", () => show(i)));
+  });
+</script>

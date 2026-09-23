@@ -1,0 +1,240 @@
+---
+title: "ASCII Booth"
+date: "2019-01-28"
+hero: "/img/ascii-booth/scans-cover-full.gif"
+legacy: true
+---
+
+<div class="row">
+    <div class="col-sm">
+        <p class="intro">
+            ASCII Booth takes a nostalgic piece of old technology—the dot matrix printer—and recontextualizes it as an
+            instant ASCII art selfie booth.
+        </p>
+    </div>
+    <div class="col-sm">
+        <p>
+            Related project: <a href="/archive/work/dublab/">Dublab</a><br />
+            Category: Interactive installation, creative technology<br />
+            Collaborators: <a href="http://alitorbati.com/" target="_blank">Ali Torbati</a>, <a
+                href="https://www.dublab.com/djs/ale" target="_blank">Alejandro Cohen</a><br>
+            Year: 2019
+        </p>
+    </div>
+</div>
+
+<hr />
+
+<img class="img-fluid " src="/img/ascii-booth/scans-cover-full.gif">
+
+<hr />
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">Backstory</h2>
+        <p>
+            After finishing my <a href="/archive/work/dublab/">Dublab concept project</a>, I hit up Mark
+            and Ale and arranged a visit to the Dublab studio to share the work. Unfortunately, they had announced a new
+            brand and website exactly the same time I had finished my project. But they liked the energy, and I was
+            eager to make something real.
+        </p>
+        <p>
+            Ale loved the dot matrix printer but wasn’t convinced by the <a
+                href="/indeterminacy/">poster generator</a>. He asked if we could turn it into a
+            photo booth. I didn’t know how we would, but I said yes.
+        </p>
+
+        
+
+    </div>
+    <div class="col-sm">
+        <img class="img-fluid" src="/img/ascii-booth/asciibooth_polaroid.jpg" />
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">ASCII</h2>
+        <p>
+            The ASCII art is both aesthetic and functional. Dot matrix printers are designed for printing plain text
+            documents. I learned from my <a href="/archive/work/order_and_chaos/">previous project</a> that
+            printing anything else was incredibly slow, and forcing people to wait too long for their photo to print
+            wasn’t
+            ideal. I also learned that plain text printing worked only from a Windows machine.
+        </p>
+        <h2 class="section-heading">Interface</h2>
+        <p>
+            The interface shows you what will print. It converts the webcam image to text using JavaScript, and pauses
+            and downloads the current page as a text file when a button is pressed. I styled the page in CSS.
+        </p>
+        <p>
+            What you don’t see is the footer. Since the whole thing is text, there’s a unique built-in opportunity for
+            messaging: event name, time stamp, sponsors, secret codes, and ASCII logos. The footer can be changed for
+            each event.
+        </p>
+        <p>
+            <a class="btn btn-primary btn-lg" href="/ascii-camera/" target="_blank" role="button">
+                Take a picture
+            </a>
+        </p>
+    </div>
+    <div class="col-sm">
+        <div class="embed-responsive embed-responsive-16by9 inline-image ">
+            <video class="embed-responsive-item" playsinline autoplay muted loop controls
+                poster="/img/ascii-booth/ascii_interface.jpg">
+                <source src="/img/ascii-booth/ascii_interface.mp4" type="video/mp4" />
+            </video>
+        </div>
+        <img class="img-fluid " src="/img/ascii-booth/ascii_footers.jpg">
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">Physical Build</h2>
+        <p>
+            I built the booth out of MDF to fit the dimensions of the printer. A set of caster wheels at the bottom
+            makes it easy to transport. The booth is built like a shelving unit, with flat shelves for the laptop and
+            printer, and a drawer in between to house the button and hide the Arduino and wiring behind it.
+        </p>
+    </div>
+    <div class="col-sm">
+        <img class="img-fluid" src="/img/ascii-booth/photobooth_diagram.png">
+        
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">
+            First Run: Grad Show
+        </h2>
+        <p>
+            The ArtCenter Grad Show is a chance for hardworking students to display the work they feel best represents
+            them, and hopefully will land them a job. I am interested in both graphic design and interaction, and wanted
+            to show something event-specific with a personalized take-away. Who needs another tote bag?
+        </p>
+        <p>
+            It was the most Instagrammed part of the grad show and there were crowds around for the whole event. For me,
+            seeing the genuine excitement of participants was the best part of the weekend.
+        </p>
+    </div>
+    <div class="col-sm">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm inline-image">
+        <div class="embed-responsive embed-responsive-9by16">
+            <video class="embed-responsive-item" autoplay muted loop poster="">
+                <source src="/img/ascii-booth/ugc1.mp4" type="video/mp4" />
+            </video>
+        </div>
+    </div>
+    <div class="col-sm inline-image">
+        <div class="embed-responsive embed-responsive-9by16">
+            <video class="embed-responsive-item" autoplay muted controls loop poster="">
+                <source src="/img/ascii-booth/video1.MOV" type="video/mp4" />
+            </video>
+        </div>
+    </div>
+    
+    <div class="col-sm inline-image">
+        <div class="embed-responsive embed-responsive-9by16">
+            <video class="embed-responsive-item" autoplay muted loop poster="">
+                <source src="/img/ascii-booth/ugc4.mp4" type="video/mp4" />
+            </video>
+        </div>
+    </div>
+    
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">
+            Second Run: Dublab’s 20th Anniversary Weekend
+        </h2>
+        <p>
+            The Grad Show was also the first real user testing for the booth. For the <a
+                href="https://www.dublab.com/events/78254/dublab-20th-anniversary-party" target="_blank">Dublab
+                event</a>, Ali joined me, and here are some of the problems we solved:
+        </p>
+        <ul>
+            <li>
+                There was a bug with photos double-printing, or not at all. It turned out to be an issue with Chrome in
+                full-screen mode, so we didn’t do that.
+            </li>
+            <li>
+                When we prototyped the booth, the “print” button was a UI element on screen accompanied by text
+                instructions. When I added the Arduino button and told people to “press the big button”, half of users
+                were confused as to which button I meant &mdash; physical or UI? The solution was to <strong>remove the
+                    UI button</strong> and all text instructions.
+            </li>
+            <li>
+                Users always asked “what is this?” and “how does this work?” Initially, we gave a long explanation.
+                After the end of the weekend, our <strong>verbal instructions</strong> went from 1-2 minutes to 10
+                seconds.
+            </li>
+
+        </ul>
+    </div>
+    <div class="col-sm">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm">
+        <img class="img-fluid inline-image" src="/img/ascii-booth/dublab_event_02.JPG" />
+    </div>
+    <div class="col-sm inline-image">
+        <div class="embed-responsive embed-responsive-9by16">
+            <video class="embed-responsive-item" autoplay muted controls loop poster="/img/ascii-booth/dublab_event_04.jpg">
+                <source src="/img/ascii-booth/dublab_event_04.mp4" type="video/mp4" />
+            </video>
+        </div>
+    </div>
+    <div class="col-sm">
+            <img class="img-fluid inline-image" src="/img/ascii-booth/dublab_event_01.JPG" />
+        </div>
+</div>
+
+<hr />
+
+<div class="row">
+        <div class="col-sm">
+            <h2 class="section-heading">
+                The Future
+            </h2>
+            <p>
+                Dublab has expressed interest in doing more events. A permanent home in a public/retail space would be
+                great, too.
+            </p>
+            <p>
+                With a larger budget, the booth 2.0 would:
+                <ul>
+                    <li>
+                        Use a built-in screen connected to a Raspberri Pi instead of a laptop.
+                    </li>
+                    <li>
+                        Have a built-in flash or ring light.
+                    </li>
+                    <li>
+                        Be self-sufficient. Currently, the dot matrix printer can jam unpredictably and a booth operator
+                        needs to be present.
+                    </li>
+                </ul>
+            </p>
+        </div>
+        <div class="col-sm">
+        </div>
+    </div>
+
+

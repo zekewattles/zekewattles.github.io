@@ -1,0 +1,121 @@
+---
+title: "Formosa"
+date: "2019-01-10"
+hero: "/img/formosa/formosa_specimen_mockup-01.jpg"
+legacy: true
+---
+
+<div class="row">
+    <div class="col-sm">
+        <p class="intro">
+            Formosa is a warm, sturdy grotesque typeface inspired by vernacular signage in Los Angeles. While much of
+            its geometry reflects models of the past, its construction is informed by warmth, clarity, and performance.
+            Its name comes from the street and iconic LA restaurant.
+        </p>
+    </div>
+    <div class="col-sm">
+        <p>
+            Category: Type design, type specimen<br />
+            Instructor: <a href="https://luxtypo.com/" target="blank_">Greg Lindy</a><br />
+            Year: 2019
+        </p>
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">Newsprint Specimen</h2>
+        <p>The copy is pulled from iconic LA signage, restaurant menus, and the late Jonathan Gold’s writing about his
+            hometown. The specimen’s function is more mood than explanation.</p>
+    </div>
+    <div class="col-sm">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm">
+        <div class="embed-responsive embed-responsive-1by1">
+            <video class="embed-responsive-item" playsinline loop muted autoplay poster="/img/formosa/1-square.JPG">
+                <source src="/img/formosa/flipthru_square.mp4" type="video/mp4" />
+            </video>
+        </div>
+    </div>
+    <div class="col-sm">
+        <img class="img-fluid inline-image" src="/img/formosa/1-square.JPG" />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm">
+        <img class="img-fluid inline-image" src="/img/formosa/2-square.JPG" />
+    </div>
+    <div class="col-sm">
+        <img class="img-fluid inline-image" src="/img/formosa/3-square.JPG" />
+    </div>
+</div>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="/img/formosa/formosa-specimen-01.png">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/img/formosa/formosa-specimen-02.png">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/img/formosa/formosa-specimen-03.png">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/img/formosa/formosa-specimen-04.png">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/img/formosa/formosa-specimen-05.png">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/img/formosa/formosa-specimen-06.png">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+
+
+<hr>
+
+<div class="row">
+    <div class="col-sm">
+        <h2 class="section-heading">Process</h2>
+        <p>
+            Type design is a long and meditative process with plenty of print-outs and red ink along the way. Regular
+            print-outs and rigorous testing ensure that the typeface can function at a variety of sizes &mdash; both
+            headlines and long copy &mdash; and every possible
+            character combination is properly kerned.
+        </p>
+    </div>
+    <div class="col-sm">
+        <img class="img-fluid" src="/img/formosa/process1.jpg" />
+    </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm">
+
+        <p>
+            Planned for release in 2020.
+        </p>
+
+    </div>
+    <div class="col-sm">
+    </div>
+</div>

@@ -1,0 +1,125 @@
+---
+title: "Order and Chaos"
+date: "2019-01-26"
+hero: "/img/indeterminacy/gif_in_laptop_2x.gif"
+legacy: true
+---
+
+<div class="row">
+  <div class="col-sm">
+    <p class="intro">
+      An interactive installation inspired by <a href="https://en.wikipedia.org/wiki/John_Cage" target="_blank">John
+        Cage</a>’s method for <a href="https://en.wikipedia.org/wiki/Indeterminacy_(music)" target="_blank">composing
+        with chance</a> that gives users the power to create and print their own posters live.
+    </p>
+  </div>
+  <div class="col-sm">
+    <p>
+      Related project: <a href="/archive/work/ascii-booth/">ASCII Booth</a><br>
+      Collaborator: <a href="http://alitorbati.com/" target="_blank">Ali Torbati</a><br>
+      Category: Interactive<br>
+      Year: 2018
+    </p>
+  </div>
+</div>
+
+<hr>
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Design as Performance</h2>
+
+    <p>I created a <a href="/archive/work/dublab/">proposed identity for Dublab</a> based on a unique
+      set of tools for graphic creation inspired by sound and music.</p>
+
+    <p>
+      This interactive installation allows guests to generate and output their own posters in real time via a hacked dot
+      matrix printer. Rather than a singular event poster, a controlled set of parameters allows for infinite graphic
+      variations with a user’s personal message.
+    </p>
+
+    <p>
+      <a class="btn btn-primary btn-lg" href="/indeterminacy/" target="_blank" role="button">
+        Create your own poster
+      </a>
+    </p>
+
+  </div>
+  <div class="col-sm">
+
+    <div id="carouselExampleControls3" class="carousel slide inline-image" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="/img/indeterminacy/poster-wall.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/indeterminacy/animation-black.gif">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls3" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls3" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<hr>
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Installation</h2>
+
+  </div>
+  <div class="col-sm">
+  </div>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9 inline-image ">
+  <video class="embed-responsive-item" playsinline autoplay muted loop controls
+    poster="/img/indeterminacy/video-reel.jpg">
+    <source src="/img/indeterminacy/video-reel.webm" type="video/webm" />
+    <source src="/img/indeterminacy/video-reel.mp4" type="video/mp4" />
+  </video>
+</div>
+
+<hr>
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Interface</h2>
+  </div>
+  <div class="col-sm">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm">
+    
+    <img class="img-fluid inline-image" src="/img/indeterminacy/gif_in_laptop_2x.gif" />
+  </div>
+</div>
+
+<hr>
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Results</h2>
+  </div>
+  <div class="col-sm">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/indeterminacy/micro_all_tiled_3.jpg" />
+  </div>
+</div>
+
+
+
+<br><br>
+<p style="text-align: center;">
+  
+  Related project: <a href="/archive/work/ascii-booth/">ASCII Booth</a>
+</p>

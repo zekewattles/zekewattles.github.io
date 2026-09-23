@@ -1,0 +1,23 @@
+---
+export interface Props {
+  maxWidth?: string;
+}
+const { maxWidth = "100%" } = Astro.props;
+---
+
+<div class="zc-one-col" style={`--zc-max: ${maxWidth}`}>
+  <slot />
+</div>
+
+<style>
+  .zc-one-col {
+    max-width: var(--zc-max);
+    margin: 0 auto 1.2rem;
+  }
+  .zc-one-col :global(img),
+  .zc-one-col :global(video) {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+</style>

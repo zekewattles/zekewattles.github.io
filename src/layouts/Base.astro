@@ -1,0 +1,65 @@
+---
+export interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  canonical?: string;
+}
+
+const {
+  title,
+  description = "Zeke Wattles - Graphic Design and Art Direction",
+  ogImage = "/img/dublab/poster-enviro.jpg",
+  canonical,
+} = Astro.props;
+
+const siteTitle = "Zeke Wattles";
+const fullTitle = title ? `${title} - ${siteTitle}` : siteTitle;
+const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+
+import Nav from "../components/Nav.astro";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <title>{fullTitle}</title>
+
+    <meta name="description" content={description} />
+
+    <link rel="stylesheet" href="/assets/vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/vendor/fontawesome-free/css/all.min.css" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <meta property="og:title" content={title ?? siteTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/site/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/site/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/site/favicon-16x16.png" />
+    <link rel="manifest" href="/img/site/site.webmanifest" />
+    <link rel="mask-icon" href="/img/site/safari-pinned-tab.svg" color="#00ff00" />
+    <link rel="shortcut icon" href="/img/site/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#00ff55" />
+    <meta name="msapplication-config" content="/img/site/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+
+  <body>
+    <Nav />
+
+    <br />
+
+    <slot />
+
+    <script src="/assets/vendor/jquery/jquery.min.js" is:inline></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" is:inline></script>
+    <script src="/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js" is:inline></script>
+    <script src="/assets/scripts.js" is:inline></script>
+  </body>
+</html>
