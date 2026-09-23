@@ -1,0 +1,133 @@
+---
+title: "The Blade"
+date: "2019-01-20"
+hero: "/img/blade/blade-render-01.jpg"
+legacy: true
+---
+
+<div class="row">
+  <div class="col-sm">
+    <p class="intro">An interactive installation celebrating the connective power of the sun and breakthrough LED
+      technology.</p>
+  </div>
+  <div class="col-sm">
+    <p>
+      Category: Interactive installation<br />
+      Team: Nik Hafermass, Ivan Cruz, Blossom Liu, Maddie Ma, Danny Grey, Chris Taylor<br />
+      Year: 2019
+    </p>
+  </div>
+</div>
+
+
+<hr />
+
+<div class="row">
+  <div class="col-sm">
+
+    <h2 class="section-heading">Inspired by the Sun</h2>
+
+    <p>
+      An international tech client wanted to to communicate the power of their revolutionary LED technology &mdash;
+      light that embodies the sun.
+      Our team concepted an interactive installation that lets visitors experience the power of pure light on a massive
+      scale.
+    </p>
+
+  </div>
+  <div class="col-sm">
+  </div>
+</div>
+<img class="img-fluid inline-image" src="/img/blade/blade-render-01.jpg" />
+<img class="img-fluid inline-image" src="/img/blade/blade-render-02.jpg" />
+<img class="img-fluid inline-image" src="/img/blade/blade-render-03.jpg" />
+<img class="img-fluid inline-image" src="/img/blade/blade-render-04.jpg" />
+<img class="img-fluid inline-image" src="/img/blade/blade-render-05.jpg" />
+
+
+
+<hr>
+
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Process</h2>
+    <p>This project was a first for ArtCenter: a student team collaborating with Triad Berlin and a real-world client.
+      We created small-scale prototypes and VR sketches to iterate quickly and discovered that simple forms best
+      communicated the power of the light. Through its simple form, The Blade shows off the power of these lights in an
+      immediate, immerse manner.</p>
+
+    
+    </p>
+  </div>
+  <div class="col-sm">
+
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="/img/blade/berlin_process_1.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_2.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_3.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_4.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_5.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_6.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_7.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_8.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_9.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/img/blade/berlin_process_10.jpg">
+        </div>
+
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Constant Change Berlin</h2>
+    <p>To celebrate the end of our trip, we threw a party. We designed audio-reactive visuals for the DJs and
+      multi-media installations for guests. I&nbsp;designed the typeface, Platz, used throughout.</p>
+  </div>
+  <div class="col-sm"></div>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://player.vimeo.com/video/332449130?autoplay=0&loop=1&muted=1&byline=0&title=0&color=ffffff&portrait=0#t=0m40s" frameborder="0"
+    allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9 inline-image">
+  <video class="embed-responsive-item" playsinline autoplay muted loop poster="/img/blade/ccb_visualizer_posterframe.jpg">
+    <source src="/img/blade/ccb_visualizer.mp4" type="video/mp4" />
+  </video>
+</div>
+<span class="caption text-muted">We built an audio visualizer in Processing with 12 different code sketches that can be
+  combined for an endless array of visual combinations.</span>

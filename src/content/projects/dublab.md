@@ -1,0 +1,265 @@
+---
+title: "Dublab"
+date: "2019-01-30"
+hero: "/img/dublab/poster-enviro.jpg"
+legacy: true
+---
+
+<div class="row">
+  <div class="col-sm">
+    <p class="intro">
+      A proposed identity system for an experimental online radio station in Los Angeles that explores the question: how
+      can you draw with sound?
+    </p>
+  </div>
+  <div class="col-sm">
+    <p>
+      Related project: <a href="/archive/work/order_and_chaos/">Order and Chaos</a><br />
+      Instructors: Brad Bartlett, Ivan Cruz, Miles Mazzie<br />
+      Category: Identity, type design, interactive, print<br />
+      Year: 2018
+    </p>
+  </div>
+</div>
+
+<hr />
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Future Roots Radio</h2>
+    <p>
+      <a href="https://www.Dublab.com/">Dublab</a> is an independent online radio that prides itself on being a hotbed
+      for emerging music, art, and culture. Since 1999, its experimental ethos has attracted musicians including Flying
+      Lotus, Daedelus, and many more.
+    </p>
+    <p>
+      As a kid in LA, I’ve been a big fan for as long as I can remember. Their tagline ”Future Roots” refers to their
+      style of mixing old and new to create something fresh.
+    </p>
+    <br />
+  </div>
+  <div class="col-sm"></div>
+</div>
+<img class="img-fluid" src="/img/dublab/poster-enviro.jpg" />
+
+<hr />
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Drawing with Sound</h2>
+    <p>
+      I created a unique tool for making posters and large-scale installations through sound synthesis.
+    </p>
+    <p>
+      The Processing program works like a feedback loop: images are translated to sound, sound is visualized
+      on the oscilloscope, then that sound is filtered, which affects the image again. It’s like a synthesizer for
+      visuals. The code is based on the open source <a href="https://teddavis.org/xyscope/">XYscope</a> library.
+    </p>
+  </div>
+  <div class="col-sm"></div>
+</div>
+
+
+<div class="row">
+  <div class="col-sm">
+    <div class="embed-responsive embed-responsive-16by9 inline-image">
+      <video class="embed-responsive-item" playsinline autoplay muted loop poster="/img/dublab/video-drawsound-2.jpg">
+        <source src="/img/dublab/video-drawsound-2.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <span class="caption text-muted">A phone running TouchOSC controls the filter value for the
+      sound&nbsp;image.</span>
+  </div>
+  <div class="col-sm">
+    <div class="embed-responsive embed-responsive-16by9 inline-image">
+      <video class="embed-responsive-item" playsinline autoplay muted loop poster="/img/dublab/video-drawsound-1.jpg">
+        <source src="/img/dublab/video-drawsound-1.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <span class="caption text-muted">The Processing sketch used to generate poster&nbsp;linework.</span>
+  </div>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9 inline-image ">
+  <video class="embed-responsive-item" playsinline autoplay muted loop controls
+    poster="/img/dublab/video-soundwaves-poster1.jpg">
+    <source src="/img/dublab/video-soundwaves.mp4" type="video/mp4" />
+  </video>
+</div>
+
+<hr />
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Posters</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-7.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-1.jpg" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-5.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-2.jpg" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-6.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-8.jpg" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-4.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/poster-3.jpg" />
+  </div>
+</div>
+
+<hr />
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Custom Typefaces</h2>
+    <p>
+      Two typefaces were developed for Dublab based around sound.
+    </p>
+    <p><strong>DB Data Mono</strong> is a true monospace revival of Data70 in sine- and square wave variants inspired by
+      the concept of Future Roots.
+    </p>
+    <p>
+      <strong>DB Circuit Mono</strong> is a connected digital “script” based on the way type is rendered on
+      oscilloscopes, used for the logotype.
+    </p>
+  </div>
+  <div class="col-sm">
+      
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid" src="/img/dublab/fonts-2.png" />
+    <span class="caption text-muted">DB Data Mono</span>
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid" src="/img/dublab/fonts-1.png" />
+    <span class="caption text-muted">DB Circuit Mono</span>
+  </div>
+</div>
+
+
+
+<hr>
+
+<div class="row">
+  <div class="col-sm">
+
+    <h2 class="section-heading">Web</h2>
+
+    <div class="embed-responsive embed-responsive-16by9 inline-image ">
+      <video class="embed-responsive-item" playsinline autoplay muted loop poster="/img/dublab/web-preview.jpg">
+        <source src="/img/dublab/web-preview.mp4" type="video/mp4" />
+      </video>
+    </div>
+
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">Collateral</h2>
+    <p>Inspired by the concept of Future Roots, dot matrix printing plays a prominent role in the identity.
+      Dot matrix paper becomes an envelope and letter in one.</p>
+  </div>
+  <div class="col-sm"></div>
+</div>
+
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/print-cards-3.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/print-cards-4.jpg" />
+  </div>
+</div>
+
+<div class="row">
+
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/print-letterhead-1.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/print-letterhead-2.jpg" />
+  </div>
+</div>
+
+<hr />
+<div class="row">
+  <div class="col-sm">
+    <h2 class="section-heading">In Conversation</h2>
+    <p>
+      I met Mark (Dublab’s founder) at an event where he gave a talk on <a
+        href="/archive/work/order_and_chaos/">chance in music</a>.
+      Looking to get deeper into my research, I struck up a conversation. He was passionate and excited to share.
+    </p>
+    <p>
+      I asked directly what interested Mark that Dublab could do more of, and he mentioned that Dublab had a large
+      archive of interviews with musicians that he felt was important to preserve. I took the initiative to propose a
+      print version and transcribe one of the most memorable interviews.
+    </p>
+  </div>
+  <div class="col-sm"></div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/print-booklet-1.jpg" />
+  </div>
+  <div class="col-sm">
+    <img class="img-fluid inline-image" src="/img/dublab/print-booklet-2.jpg" />
+  </div>
+</div>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/img/dublab/print-booklet-carousel-1.jpg">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/img/dublab/print-booklet-carousel-2.jpg">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/img/dublab/print-booklet-carousel-3.jpg">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/img/dublab/print-booklet-carousel-4.jpg">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/img/dublab/print-booklet-carousel-5.jpg">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+<br><br>
+
+<p style="text-align: center;">
+  
+  Related project: <a href="/archive/work/order_and_chaos/">Order and Chaos</a>
+</p>

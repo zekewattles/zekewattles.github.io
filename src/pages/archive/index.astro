@@ -1,0 +1,80 @@
+---
+import Base from "../../layouts/Base.astro";
+import Footer from "../../components/Footer.astro";
+import { getCollection } from "astro:content";
+
+let projects: Awaited<ReturnType<typeof getCollection>> = [];
+try {
+  projects = await getCollection("projects");
+} catch {
+  projects = [];
+}
+
+const sortedProjects = projects.sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
+---
+
+<Base>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg">
+        <article class="post-preview">
+          <a
+            href="https://www.nevadaart.org/conference2021/"
+            target="_blank"
+            rel="noopener"
+          >
+            <div class="embed-responsive embed-responsive-16by9 inline-image">
+              <video
+                class="embed-responsive-item"
+                playsinline
+                autoplay
+                muted
+                loop
+                poster="/img/apluse/apluse.jpg"
+              >
+                <source src="/img/apluse/apluse.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <p class="post-title">
+              <strong>Art + Environment 2021</strong>
+            </p>
+          </a>
+          <p style="text-align: center">
+            A site-specific microsite for site-specific artworks, using realtime
+            wind data to drive a dynamic logotype. With <a
+              href="http://bradbartlett.com/"
+              target="_blank"
+              rel="noopener">Brad Bartlett</a
+            > and <a
+              href="http://alitorbati.com/"
+              target="_blank"
+              rel="noopener">Ali Torbati</a
+            >.
+          </p>
+          <br /><br />
+        </article>
+
+        {
+          sortedProjects.map((project) => (
+            <article class="post-preview">
+              <a href={`/archive/work/${project.slug}/`}>
+                {project.data.hero && (
+                  <img src={project.data.hero} class="img-fluid" />
+                )}
+                <p class="post-title">
+                  <strong>{project.data.title}</strong>
+                </p>
+              </a>
+              <br />
+              <br />
+            </article>
+          ))
+        }
+
+        <Footer />
+      </div>
+    </div>
+  </div>
+</Base>

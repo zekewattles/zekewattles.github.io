@@ -1,0 +1,307 @@
+---
+const siteTitle = "Zeke Wattles";
+const description = "Zeke Wattles — Graphic Design and Art Direction";
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
+const currentYear = new Date().getFullYear();
+
+const NEWER_HREF = "https://www.figma.com/proto/BK2NWO7OAact8DUwvxdT1E/Zeke-Wattles---Portfolio-2026-September?node-id=1469-37999&p=f&viewport=167%2C186%2C0.02&t=XiZ7CtL2Z0qzJ9WZ-1&scaling=contain&content-scaling=fixed&page-id=1469%3A8473";
+const OLDER_HREF = "/archive/";
+
+const contacts = [
+  { label: "Email",     href: "mailto:zeke@zeke.studio" },
+  { label: "LinkedIn",  href: "https://www.linkedin.com/in/zeke-wattles/" },
+  { label: "Instagram", href: "https://www.instagram.com/zeke.studio/" },
+  { label: "Are.na",    href: "https://www.are.na/zeke-wattles" },
+];
+
+const experience = [
+  {
+    role: "Senior Art Director",
+    org: "Apple Music",
+    dates: "2025–Present",
+    body: "Working on all things Apple Music Replay, including the 2026 highlight reel. Designing, art directing agency partners, working with engineering, prototyping in Claude Code, and presenting for cross-functional partners and leadership.",
+  },
+  {
+    role: "Adjunct Professor",
+    org: "ArtCenter College of Design",
+    dates: "2022–2026",
+    body: "Taught a creative coding and graphic design course at ArtCenter called Generative Typography, which teaches students a variety of techniques for building interactive, type-driven work in p5.js on the web.",
+  },
+  {
+    role: "Freelance Graphic Designer",
+    org: "Day Job / zeke.studio",
+    dates: "2024–2025",
+    body: "Designed and art directed an EOY experience for Grindr, led brand and motion systems work for BBC Studios, and contributed to various brand and web design projects (Day Job). Ran an independent freelance practice spanning web, brand, and experimental identity systems for clients including visitBerlin, the Nevada Museum of Art, Smalls, and (zeke.studio).",
+  },
+  {
+    role: "Digital Designer → Senior Brand Designer",
+    org: "Seed",
+    dates: "2022–2024",
+    body: "Built and maintained Seed’s first digital design system in Figma. Designed growth and editorial emails, scaling output by systematizing workflows and onboarding freelancers. Created brand work across spatial activations, print, ads, and web, including a new product launch.",
+  },
+  {
+    role: "Digital Designer",
+    org: "Instrument",
+    dates: "2019–2022",
+    body: "Digital design for clients including Nike, Google, Dropbox, and TripAdvisor. Worked on Nike’s global digital design system, porting to Figma in 2020. Collaborated with developers, strategists, and other designers to create vision work spanning product design, web design, and marketing.",
+  },
+];
+
+const clients = [
+  "Apple Music", "Grindr", "The BBC", "TBPN", "visitBerlin", "Reframe Beauty",
+  "The Nevada Museum of Art", "Smalls", "Seed", "Nike", "Google", "Dropbox",
+  "TripAdvisor", "LuxTypo", "Jenny Holzer", "Nécessaire",
+];
+
+const education = [
+  {
+    role: "Bachelor of Fine Arts, Graphic Design",
+    org: "ArtCenter College of Design",
+    dates: "2014 – 2019",
+    body: "Emphasis in Transmedia Design. Graduated with distinction.",
+  },
+];
+
+const recognition = [
+  { title: "Fast Company Innovation by Design Awards (2019)", body: "Student Honorable Mention, Dublab" },
+  { title: "Core77 Design Awards (2019)", body: "Student Notable Award, Visual Communication, Dublab" },
+  { title: "The Young Ones ADC (2019)", body: "Merit Award, Branding Systems, Dublab" },
+  { title: "The Dieline (2017)", body: "Project Feature, Chill by Netflix" },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{siteTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content="/img/dublab/poster-enviro.jpg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/site/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/site/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/site/favicon-16x16.png" />
+    <link rel="shortcut icon" href="/img/site/favicon.ico" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="preload" href="/fonts/ABCArealSuperfamilyVariable.woff2" as="font" type="font/woff2" crossorigin />
+  </head>
+  <body>
+    <main class="wrap">
+      <header class="head">
+        <div class="name">Zeke Wattles</div>
+        <div class="role">Graphic Design and Art Direction</div>
+      </header>
+
+      <a href={NEWER_HREF} class="workblock" target="_blank" rel="noopener">
+        <img src="/img/home/newer.jpg" alt="Newer work" />
+        <div class="caption">Newer Work</div>
+      </a>
+
+      <a href={OLDER_HREF} class="workblock" target="_blank" rel="noopener">
+        <img src="/img/dublab/poster-enviro.jpg" alt="Older work" />
+        <div class="caption">Older Work</div>
+      </a>
+
+      <section class="bio">
+        <p><strong>Hi, I’m Zeke.</strong> I’m a designer and art director based in Los Angeles working across brand and digital. I love typography, exploring new tools, and creating my own. I bring craft and systems-thinking to every project, large or small. I always sweat the details.</p>
+        <p>I’m currently designing digital experiences as a Senior Art Director at Apple Music.</p>
+        <p>Before that, I was a Senior Brand Designer at Seed, where I built the company’s first Figma design system. I worked at Instrument across clients including Nike (working on Nike’s global digital design system), Google, Dropbox, and TripAdvisor.</p>
+        <p>I freelanced for a stretch from 2024–2025, working on Grindr’s “Unwrapped” experience and brand systems work for the BBC and TBPN through Day Job, plus independent projects for visitBerlin, Reframe Beauty, Smalls, and the Nevada Museum of Art.</p>
+        <p>From 2022–2026, I taught creative coding at ArtCenter College of Design, where I showed future designers how to create their own tools for producing generative, interactive, type-driven work.</p>
+      </section>
+
+      <section class="contact">
+        <h2 class="section-label">Contact</h2>
+        <ul class="contact-list">
+          {contacts.map(c => {
+            const external = c.href.startsWith("http");
+            return (
+              <li>
+                <a
+                  href={c.href}
+                  {...(external ? { target: "_blank", rel: "noopener" } : {})}
+                >{c.label}</a>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+
+      <section class="meta">
+        <div class="meta-col meta-col--main">
+          <h2 class="section-label">Experience</h2>
+          {experience.map(e => (
+            <div class="entry">
+              <div class="entry-role">{e.role}</div>
+              <div class="entry-org">{e.org}</div>
+              <div class="entry-dates">{e.dates}</div>
+              <p class="entry-body">{e.body}</p>
+            </div>
+          ))}
+        </div>
+
+        <div class="meta-col meta-col--side">
+          <h2 class="section-label">Clients</h2>
+          <ul class="plain-list">
+            {clients.map(c => (
+              <li>{c}</li>
+            ))}
+          </ul>
+
+          <h2 class="section-label">Education</h2>
+          {education.map(e => (
+            <div class="entry">
+              <div class="entry-role">{e.role}</div>
+              <div class="entry-org">{e.org}</div>
+              <div class="entry-dates">{e.dates}</div>
+              <p class="entry-body">{e.body}</p>
+            </div>
+          ))}
+
+          <h2 class="section-label">Recognition</h2>
+          {recognition.map(r => (
+            <div class="entry">
+              <div class="entry-role">{r.title}</div>
+              <p class="entry-body">{r.body}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <footer class="foot">
+        Copyright © Zeke Wattles {currentYear}. All rights reserved.
+      </footer>
+    </main>
+
+    <style is:global>
+      @font-face {
+        font-family: 'ABC Areal';
+        src: url('/fonts/ABCArealSuperfamilyVariable.woff2') format('woff2-variations');
+        font-weight: 100 900;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      *, *::before, *::after { box-sizing: border-box; }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #000;
+        color: rgba(255, 255, 255, 0.6);
+        font-family: 'ABC Areal', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.45;
+        font-weight: 500;
+        font-variation-settings: 'DRKM' 1, 'MONO' 50;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      img { display: block; max-width: 100%; height: auto; }
+
+      a { color: inherit; text-decoration: none; }
+
+      .wrap {
+        width: 100%;
+        margin: 0 auto;
+        padding: 24px 15px 96px;
+      }
+      @media (min-width: 576px) { .wrap { max-width: 540px; } }
+      @media (min-width: 768px) { .wrap { max-width: 720px; padding-bottom: 128px; } }
+      @media (min-width: 992px) { .wrap { max-width: 960px; } }
+      @media (min-width: 1200px) { .wrap { max-width: 1140px; } }
+
+      .head { margin-bottom: 32px; font-size: 1.125rem; line-height: 1.5rem; letter-spacing: -0.02em; font-variation-settings: 'DRKM' 1, 'MONO' 0; }
+      .head .name { color: #fff; }
+
+      .workblock { display: block; margin-bottom: 32px; }
+      .workblock img {
+        width: 100%;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        border-radius: 8px;
+      }
+      .workblock .caption {
+        margin-top: 12px;
+        font-size: 1.125rem;
+        line-height: 1.5rem;
+        letter-spacing: -0.02em;
+        font-variation-settings: 'DRKM' 1, 'MONO' 0;
+        transition: color 0.15s ease;
+      }
+      .workblock:hover .caption { color: #fff; }
+
+      .bio { margin: 32px 0; }
+      .bio p { margin: 0 0 1em; font-size: 1.5rem; line-height: 2rem; letter-spacing: -0.03em; font-variation-settings: 'DRKM' 1; }
+      .bio p:first-child strong { color: #fff; }
+      .bio strong { font-weight: inherit; }
+
+      .section-label {
+        color: #fff;
+        font-size: 0.75rem;
+        line-height: 1rem;
+        font-weight: 400;
+        margin: 0 0 12px;
+      }
+
+      .contact { margin: 32px 0; }
+      .contact-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-size: 1.125rem;
+        line-height: 1.5rem;
+        letter-spacing: -0.02em;
+        font-variation-settings: 'DRKM' 1, 'MONO' 0;
+      }
+      .contact-list li { margin-bottom: 4px; }
+      .contact-list a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+
+      .meta {
+        margin-top: 48px;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+
+      .meta-col .section-label { margin-top: 32px; }
+      .meta-col .section-label:first-child { margin-top: 0; }
+
+      .entry {
+        font-size: 12px;
+        line-height: 1.45;
+        margin-bottom: 20px;
+        color: #fff;
+        font-weight: 400;
+      }
+      .entry-dates { margin-bottom: 6px; }
+      .entry-body { margin: 0; color: rgba(255, 255, 255, 0.6); }
+
+      .plain-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-size: 12px;
+        line-height: 1.6;
+        font-weight: 400;
+      }
+
+      .foot {
+        margin-top: 64px;
+        text-align: center;
+        font-size: 12px;
+        font-weight: 400;
+      }
+
+      @media (min-width: 768px) {
+        .meta {
+          grid-template-columns: 1fr 1fr;
+          gap: 64px;
+        }
+      }
+    </style>
+  </body>
+</html>

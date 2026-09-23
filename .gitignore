@@ -1,0 +1,16 @@
+# Astro
+dist/
+.astro/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Jekyll (still present during migration)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# System
+.DS_Store
