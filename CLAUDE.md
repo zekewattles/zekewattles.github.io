@@ -22,7 +22,39 @@ Currently a Jekyll site served by GitHub Pages at `zeke.studio`. We're mid-migra
 
 **Build produces 12 pages** (1 new home + 3 archive index/about/experiments + 8 archive work), plus static redirect stubs at the old `/about/`, `/experiments/`, and `/work/<slug>/` URLs.
 
-## Session pause notes (2026-09-23)
+## Session pause notes (2026-09-23, evening — DEPLOY BROKEN)
+
+Site is currently broken. First PR was merged to `master` and the GitHub Actions deploy failed. Two rounds of fixes tried; deploy is still failing at last report. Session paused for the day.
+
+### Timeline of what was tried this session
+
+1. **First deploy failure:** `npx astro build` on Node 20 → Astro requires ≥22.12. Fix: bumped `node-version: 22` in `deploy.yml`, changed `npx astro build` → `npm run build`. Commit `b5cf823`.
+2. **Second deploy failure:** `npm ci` crashed with `npm error Exit handler never called!` — known npm bug with certain npm/Node combos. Fix: regenerated `package-lock.json` locally (Node 25 + npm 11). Verified `npm ci` + `npm run build` succeeds locally. Commit `e23bf94`.
+3. **User began merging `preview/new-homepage` → `master` via GitHub Desktop.** Latest status when session paused: "still broken" — no new failure log captured yet.
+
+### What next session should do first
+
+1. **Check the Actions tab** on the repo for the most recent failed run. Click into the failed job → failed step → paste the last ~20 lines of that step's log. This tells us exactly what's still breaking.
+2. **Options if it's still `npm ci`-related:** pin a specific npm version in the workflow (`- run: npm install -g npm@11`), or fall back to `npm install` instead of `npm ci`, or bump the CI Node version further.
+3. **Emergency stop-gap:** if Zeke wants the old Jekyll site back live immediately, `git revert` all the migration-related merge commits on `master` and push. This restores whatever `master` was before the cutover. GitHub Pages source is now "GitHub Actions" though — so the Jekyll build won't auto-run. To fully roll back to the pre-migration state, would also need to switch Pages source back to "Deploy from a branch" (Settings → Pages).
+
+### Local git state at pause
+
+- Branch `preview/new-homepage` has 4 commits ahead of the pre-migration `master`:
+  - `82f9fad` — New homepage + archive restructure (already merged to `master` via PR)
+  - `80f9ea0` — CLAUDE.md update
+  - `b5cf823` — Node 22 workflow fix
+  - `e23bf94` — regenerated package-lock.json
+- The 3 later commits need to reach `master` to unblock deploy. Zeke was mid-merge in GitHub Desktop when the session paused.
+- Uncommitted noise (leave as-is): `.DS_Store`, `img/.DS_Store`, `img/newer@2x.png` (working source file).
+
+### Going forward (once deploy is healthy)
+
+For personal-site edits, direct-to-master is fine — the PR workflow is overkill for small tweaks. Reserve preview branches for changes big enough that a broken deploy would be genuinely painful.
+
+---
+
+## Prior session pause notes (2026-09-23, morning)
 
 Archive restructure + new homepage complete and committed locally on branch `preview/new-homepage` (SHA `82f9fad`). Build succeeds cleanly (12 pages). GitHub Pages source has been switched to "GitHub Actions" per Zeke. The sandboxed Claude session couldn't push — Zeke to push from GitHub Desktop or terminal.
 
