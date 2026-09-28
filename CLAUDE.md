@@ -1,163 +1,116 @@
-# zekewattles.github.io — Migration Plan
+# zekewattles.github.io
 
-Currently a Jekyll site served by GitHub Pages at `zeke.studio`. We're mid-migration to Astro. This file is the source of truth for where we left off — read it first at the start of a session.
+Personal portfolio at **zeke.studio** — Jekyll 3.9 site served natively by GitHub Pages.
 
-## Status
+Read this file first at the start of a session — it's the source of truth for where we left off.
 
-- [x] Audited current Jekyll site
-- [x] Plan approved (2026-09-19)
-- [x] **Stage 1**: Scaffold Astro (`package.json`, `astro.config.mjs`, `tsconfig.json`, `.gitignore`)
-- [x] **Stage 2**: Port layout/nav/footer (`src/layouts/Base.astro`, `src/components/Nav.astro`, `src/components/Footer.astro`, home page with featured Art+Environment project)
-- [x] **Stage 3**: Content collection schema + migration script (`src/content/config.ts`, `scripts/migrate.mjs`, 8 projects at `src/content/projects/*.md`)
-- [x] **Stage 4**: Dynamic `/work/[slug]/` route (`src/pages/work/[slug].astro`) — all 8 project URLs generate
-- [x] **Stage 5**: New-project components (`src/components/TwoCol.astro`, `OneCol.astro`, `Caption.astro`, `Carousel.astro`) — ready for future MDX projects
-- [x] **Stage 6**: About + Experiments pages ported. Orphan projects (Art+Environment, Kinetic Type) stay hardcoded on their respective pages since both are external links, not `/work/` pages
-- [x] **Stage 7**: GitHub Actions deploy workflow (`.github/workflows/deploy.yml`)
-- [x] **About page trimmed** (2026-09-21): removed phone, résumé PDF link, "based in Portland / Instrument" paragraph, "Information" header. Contact list is now Email → LinkedIn → Instagram → Are.na, all under one Contact heading.
-- [x] **Archive restructure** (2026-09-23): moved `/`, `/about/`, `/experiments/`, `/work/[slug]/` under `src/pages/archive/`. Redirects wired in `astro.config.mjs`. `Nav.astro` links updated. Inter-project links updated in 3 project markdown files.
-- [x] **New homepage** (2026-09-23): self-contained landing at `src/pages/index.astro` (no `Base.astro`, no Bootstrap). Dark theme, ABC Areal Variable font using `DRKM` (dark mode) and `MONO` (mono/proportional) axes. Two hero-image blocks: Newer Work → Figma prototype; Older Work → `/archive/`.
-- [x] **GitHub Pages source** switched to "GitHub Actions" (2026-09-23)
-- [ ] **Deploy**: push `preview/new-homepage` branch → PR → merge to `master` (triggers Actions deploy)
-- [ ] **Stage 8**: Cutover cleanup — **do not run without Zeke's approval and after visual verification of the live deploy**
+## Current state (2026-09-28)
 
-**Build produces 12 pages** (1 new home + 3 archive index/about/experiments + 8 archive work), plus static redirect stubs at the old `/about/`, `/experiments/`, and `/work/<slug>/` URLs.
+**Live and healthy.** Master branch is Jekyll. GitHub Pages source is set to **"Deploy from a branch" → `master` / `/ (root)`** — Pages builds Jekyll natively on every push to master.
 
-## Session pause notes (2026-09-23, evening — DEPLOY BROKEN)
+- Astro migration attempt (2026-09-19 → 2026-09-23) was **reverted on 2026-09-28** after deploy failures. Full Astro work is preserved on branch `preview/new-homepage` (locally and on origin) in case of future revival.
+- Only things on current master that didn't exist pre-migration: `CLAUDE.md` (this file), `.ruby-version` (pins Ruby per-project via rbenv), and an updated `Gemfile.lock`.
 
-Site is currently broken. First PR was merged to `master` and the GitHub Actions deploy failed. Two rounds of fixes tried; deploy is still failing at last report. Session paused for the day.
+## Local dev setup
 
-### Timeline of what was tried this session
+- **Ruby via rbenv.** `.ruby-version` is committed so `cd` into the project auto-switches to the right Ruby.
+- **Bundler 2.2.26** to match the `Gemfile.lock` pin.
 
-1. **First deploy failure:** `npx astro build` on Node 20 → Astro requires ≥22.12. Fix: bumped `node-version: 22` in `deploy.yml`, changed `npx astro build` → `npm run build`. Commit `b5cf823`.
-2. **Second deploy failure:** `npm ci` crashed with `npm error Exit handler never called!` — known npm bug with certain npm/Node combos. Fix: regenerated `package-lock.json` locally (Node 25 + npm 11). Verified `npm ci` + `npm run build` succeeds locally. Commit `e23bf94`.
-3. **User began merging `preview/new-homepage` → `master` via GitHub Desktop.** Latest status when session paused: "still broken" — no new failure log captured yet.
-
-### What next session should do first
-
-1. **Check the Actions tab** on the repo for the most recent failed run. Click into the failed job → failed step → paste the last ~20 lines of that step's log. This tells us exactly what's still breaking.
-2. **Options if it's still `npm ci`-related:** pin a specific npm version in the workflow (`- run: npm install -g npm@11`), or fall back to `npm install` instead of `npm ci`, or bump the CI Node version further.
-3. **Emergency stop-gap:** if Zeke wants the old Jekyll site back live immediately, `git revert` all the migration-related merge commits on `master` and push. This restores whatever `master` was before the cutover. GitHub Pages source is now "GitHub Actions" though — so the Jekyll build won't auto-run. To fully roll back to the pre-migration state, would also need to switch Pages source back to "Deploy from a branch" (Settings → Pages).
-
-### Local git state at pause
-
-- Branch `preview/new-homepage` has 4 commits ahead of the pre-migration `master`:
-  - `82f9fad` — New homepage + archive restructure (already merged to `master` via PR)
-  - `80f9ea0` — CLAUDE.md update
-  - `b5cf823` — Node 22 workflow fix
-  - `e23bf94` — regenerated package-lock.json
-- The 3 later commits need to reach `master` to unblock deploy. Zeke was mid-merge in GitHub Desktop when the session paused.
-- Uncommitted noise (leave as-is): `.DS_Store`, `img/.DS_Store`, `img/newer@2x.png` (working source file).
-
-### Going forward (once deploy is healthy)
-
-For personal-site edits, direct-to-master is fine — the PR workflow is overkill for small tweaks. Reserve preview branches for changes big enough that a broken deploy would be genuinely painful.
-
----
-
-## Prior session pause notes (2026-09-23, morning)
-
-Archive restructure + new homepage complete and committed locally on branch `preview/new-homepage` (SHA `82f9fad`). Build succeeds cleanly (12 pages). GitHub Pages source has been switched to "GitHub Actions" per Zeke. The sandboxed Claude session couldn't push — Zeke to push from GitHub Desktop or terminal.
-
-Remaining to go live:
-1. Zeke pushes `preview/new-homepage` to origin (GitHub Desktop: "Publish branch")
-2. Open PR against `master`, review diff, merge
-3. Verify GitHub Actions deploy succeeds and `https://zeke.studio` renders correctly
-4. Then ask Claude to run Stage 8 cleanup (delete Jekyll files)
-
-## Key decisions made during implementation
-
-1. **Kept legacy Jekyll files in place** during migration — Astro's `src/`, `public/`, `astro.config.mjs` don't collide with Jekyll's `_posts/`, `_layouts/`, etc. The Jekyll site continues to be what GitHub Pages builds until Stage 7 flips the deploy workflow.
-2. **Copied compiled assets from `_site/assets/` into `public/assets/`** — this preserves the exact CSS the current site ships (the custom dark theme compiled from `_sass/styles.scss` + `assets/vendor/*`). Cleanup deletes the source `assets/vendor/` in Stage 8.
-3. **Loaded Bootstrap 4 CSS + JS site-wide** (via `<link>`/`<script>` in `Base.astro`) rather than isolating it to legacy projects. The nav itself uses Bootstrap navbar classes, so isolating Bootstrap to just project bodies would have required rewriting the nav. Simpler: load site-wide, dropped the `<LegacyBootstrap>` wrapper from the original plan.
-4. **Used `.md` not `.mdx` for migrated legacy projects.** MDX's stricter JSX parsing rejected the raw Bootstrap-grid HTML (issues with HTML comments, `<p>` inside `<div>`, Liquid template braces). Markdown treats raw HTML as opaque pass-through, which is exactly what we want for verbatim legacy bodies. **New projects going forward will use `.mdx`** to enable component composition — collections support both extensions.
-5. **Migration script handles**: gray-matter frontmatter parse, slug derivation from `permalink: /work/<slug>/`, date-override for ascii-booth mismatch, HTML comment stripping, Liquid `relative_url` resolution (baseurl is empty so it's a no-op string substitution).
-6. **Skipped FontAwesome** — grep showed zero usage in any post body.
-7. **Copied `img/` (448MB), `fonts/`, `CNAME`, `robots.txt` into `public/`** unchanged. Image optimization is out of scope for the migration.
-8. **New homepage is self-contained** — does NOT use `Base.astro`. `src/pages/index.astro` is one file with embedded `<style is:global>`; no Nav, Footer, jQuery, or Bootstrap. Loads ABC Areal Variable via `@font-face`. Body defaults to weight 500, `font-variation-settings: 'DRKM' 1, 'MONO' 50`, `color: rgba(255,255,255,0.6)` on `#000`. Bio paragraphs override MONO to 0 for proportional cut at display size (24/32). Mid-tier trio (header, work-block captions, contact links) uses 18/24 + MONO 0. Small type (section labels, credits, footer) inherits MONO 50 at weight 400. Selective 100% white on "Hi, I'm Zeke.", section labels, and entry titles.
-9. **Container mirrors Bootstrap breakpoints** (540 / 720 / 960 / 1140px, 15px side padding) so the new home visually aligns with archive pages' side gutters.
-10. **Font file lives at `public/fonts/ABCArealSuperfamilyVariable.woff2`** (also committed as TTF for source-of-truth, but only woff2 is loaded).
-11. **Broken import paths after moving pages** into `src/pages/archive/`: files at `pages/archive/*.astro` need `../../layouts/` and `../../components/`; `pages/archive/work/[slug].astro` needs `../../../` (three levels). This was the root cause of `/archive/` 404ing in the first build after the move.
-12. **Older Work image reuses `/img/dublab/poster-enviro.jpg`** (already in `public/img/dublab/`) rather than duplicating into `public/img/home/`.
-
-## Files created this session
-
-- `package.json` (overwrote gulp/Bootstrap tooling; git history preserves the old one)
-- `astro.config.mjs`, `tsconfig.json`, `.gitignore`
-- `src/layouts/Base.astro`
-- `src/components/Nav.astro`, `src/components/Footer.astro`
-- `src/content/config.ts` (Zod schema for `projects` collection)
-- `src/content/projects/*.md` (8 files, generated by migration script)
-- `src/pages/index.astro` — **new self-contained homepage** (2026-09-23 rewrite)
-- `src/pages/archive/index.astro`, `src/pages/archive/about.astro`, `src/pages/archive/experiments.astro`
-- `src/pages/archive/work/[slug].astro`
-- `public/img/home/newer.jpg` — hero image for Newer Work block (2220×1249, ~208K)
-- `public/fonts/ABCArealSuperfamilyVariable.woff2` — homepage font
-- `scripts/migrate.mjs`
-- `.github/workflows/deploy.yml`
-
-## How to resume next session
-
-1. `npm install` (if node_modules is gone)
-2. `npx astro dev` — dev server on http://localhost:4321 (in this sandbox, dev server can't bind ports; Zeke must run it locally)
-3. `npx astro build` — output to `dist/`
-4. Re-run migration if _posts/ changes: `node scripts/migrate.mjs`
-5. Check this file's Status section for the next stage to work on
-
-## What Zeke needs to do next
-
-1. **Push the preview branch** — from GitHub Desktop click "Publish branch," or from a terminal: `git push -u origin preview/new-homepage`. (The sandboxed Claude session can't push.)
-2. **Open a PR** on GitHub from `preview/new-homepage` → `master`. Review the "Files changed" tab.
-3. **Merge the PR** — that triggers the GitHub Actions workflow, which builds and deploys to `zeke.studio` (~1–2 min).
-4. **Verify at https://zeke.studio** in a fresh incognito window: walk `/`, `/archive/`, `/archive/about/`, `/archive/experiments/`, a couple `/archive/work/<slug>/` pages, and confirm an old URL like `/work/formosa/` still resolves (via redirect).
-5. **Once verified**, ask Claude to run Stage 8 cleanup: delete `_config.yml`, `Gemfile*`, `gulpfile.js`, `_layouts/`, `_includes/`, `_sass/`, `_site/`, `.sass-cache/`, `_posts/`, `posts/`, `resume.html`, `assets/vendor/`, all `.DS_Store` files, and the orphaned webfonts in `fonts/`.
-
-## Adding a new project (post-migration)
-
-Create `src/content/projects/<slug>.mdx`:
-
-```mdx
----
-title: New Project
-date: 2026-01-15
-hero: /img/new-project/hero.jpg
-category: Identity system
-year: 2025
-legacy: false
----
-
-import TwoCol from '../../components/TwoCol.astro'
-import OneCol from '../../components/OneCol.astro'
-import Caption from '../../components/Caption.astro'
-import Carousel from '../../components/Carousel.astro'
-
-Body copy goes here as markdown.
-
-<TwoCol>
-  <img src="/img/new-project/a.jpg" alt="" />
-  <img src="/img/new-project/b.jpg" alt="" />
-</TwoCol>
-<Caption>Detail shot caption</Caption>
-
-<Carousel images={["/img/new-project/1.jpg", "/img/new-project/2.jpg"]} />
+```bash
+bundle install                          # first time / after Gemfile changes
+bundle exec jekyll serve                # dev server at http://localhost:4000
+bundle exec jekyll serve --livereload   # auto-refresh browser on save
 ```
 
-Drop images in `public/img/<slug>/`, save the MDX, `npx astro build`. Done.
+If system Ruby ever gets in the way (permissions on `/Library/Ruby/Gems/`), the fix is rbenv + `gem install bundler:2.2.26` under the rbenv-owned Ruby.
 
-## Current site (Jekyll) — what exists today
+## Editing workflow
 
-- **Stack**: Jekyll 3.9, Bootstrap 4.3, jQuery 3.3, FontAwesome 4.7, gulp (all ~7 years old)
-- **Theme**: Vendored Start Bootstrap "Clean Blog" 5.0.4
-- **Deploy**: GitHub Pages builds Jekyll natively; `CNAME` = `zeke.studio`
-- **Pages**: `index.html` (home grid), `about.html`, `experiments.html`, `resume.html` (mostly commented out), `posts/index.html` (unused theme leftover)
+Direct commits to master are fine for a personal portfolio — GitHub Pages rebuilds on every push (~30–90s). Use GitHub Desktop or terminal. No PR needed for small tweaks.
+
+**Files worth knowing:**
+- `about.html`, `index.html`, `experiments.html` — top-level pages
+- `_posts/*.html` — 8 project pages, each with `permalink: /work/<slug>/`
+- `_layouts/default.html` — outer HTML shell (calls `_includes/head.html`, navbar, footer, scripts)
+- `_layouts/home.html` — home grid (also embeds the "Art + Environment 2021" project)
+- `_includes/head.html` — `<head>` metadata
+- `_includes/navbar.html`, `_includes/footer.html`, `_includes/scripts.html`
+- `_config.yml` — site-wide metadata
+- `_sass/styles.scss` — custom dark theme (compiled to `assets/main.css` by Jekyll's Sass; also mirrored in `_site/` because this repo tracks build output)
+
+**Commit noise to expect:** `_site/*` and `.sass-cache/*` regenerate on every local `jekyll serve`. The pre-migration repo tracks them (unusual choice, but pre-existing), so commits will look bulky — GitHub Pages ignores them and rebuilds server-side.
+
+## Domain / DNS
+
+- **Registered at Squarespace Domains** (migrated from Google Domains in 2023). Login: https://account.squarespace.com.
+- **Apex**: `zeke.studio` → GitHub Pages via A records at DNS + `CNAME` file containing `zeke.studio`.
+- **www**: `www.zeke.studio` CNAME → `zekewattles.github.io` (added 2026-09-28, redirects to apex via GitHub Pages).
+- **HTTPS**: enforced by GitHub Pages.
+
+## Site metadata reference
+
+**Site-wide (`_config.yml`):**
+- `title: Zeke Wattles`
+- `email: zeke@zeke.studio`
+- `description: Zeke Wattles / Graphic Design`
+- `url: "zeke.studio"` — note: missing `https://` scheme. Not causing visible problems, but technically invalid; worth fixing eventually.
+
+**About page (`about.html`) frontmatter:**
+- `title: About`
+- `description: Zeke Wattles - Graphic Designer` — note: **not wired up** in `_includes/head.html`; page falls back to `site.description`.
+
+**Head template (`_includes/head.html`):**
+- `<title>` = `{{ page.title }} - {{ site.title }}` (or just site title on home).
+- `<meta name="description">` = `page.excerpt` if present, else `site.description`, truncated to 160 chars.
+- Full favicon / touch icon set from `/img/site/`.
+- RSS feed at `/feed.xml`.
+- **No** Open Graph tags, Twitter cards, or per-page description wiring.
+
+## Recent session (2026-09-28)
+
+1. Reverted Astro migration (commit `5cf3841` on master) — single revert commit snapshotting pre-migration tree `a945910`. `preview/new-homepage` branch untouched.
+2. Cleaned up local Astro artifacts (`node_modules/`, `dist/`, `.astro/`, `public/`) — ~640MB, all rebuildable.
+3. Zeke flipped GitHub Pages source from "GitHub Actions" back to "Deploy from a branch".
+4. Set up local Jekyll dev (rbenv + Ruby, bundler 2.2.26).
+5. About page edits: added mailto subject line — `mailto:zeke@zeke.studio?subject=Work%20samples%20please%20%3A%29` — and a new image `img/about/figma_preview-small.jpg`.
+6. Added `www.zeke.studio` CNAME record in Squarespace DNS.
+
+## Ideas parked for later
+
+- Fix `_config.yml` `url` to include `https://` scheme.
+- Wire up per-page `description:` frontmatter in `_includes/head.html` (currently the field exists on about.html but isn't rendered).
+- Add Open Graph tags to `_includes/head.html` for better link previews (Slack, iMessage, LinkedIn).
+- Consider adding `.gitignore` for `_site/` and `.sass-cache/` to reduce commit noise — would be a departure from the pre-migration convention but cleaner going forward.
+
+---
+
+## Historical: Astro migration (2026-09-19 → 2026-09-28, reverted)
+
+An Astro migration was attempted, completed locally through Stage 7, deployed to production, then failed in CI (Node/npm version issues) and was reverted. The full migration plan, decisions, and implementation notes live on branch `preview/new-homepage`. Key artifacts if you ever want to revisit:
+
+- Migration branch: `preview/new-homepage` (both local and origin).
+- Migration plan: the previous version of this file, recoverable via `git show 90a22fd:CLAUDE.md`.
+- Astro-era commits on master (all pre-revert): `82f9fad`, `80f9ea0`, `b5cf823`, `e23bf94`.
+
+**Why it was reverted:** GitHub Actions deploy kept failing (Node 20 → 22 bump, then `npm ci` "Exit handler never called" crash). Fixes were attempted but the site stayed down. Rolling back to the well-understood Jekyll setup was faster than continuing to debug CI.
+
+**If resuming the migration**: check out `preview/new-homepage`, read its version of CLAUDE.md, and pick up from Stage 8 (cutover cleanup). The main unresolved problem is CI — the local `npm run build` worked fine.
+
+## Pre-migration audit (still current — describes today's site)
+
+- **Stack**: Jekyll 3.9, Bootstrap 4.3, jQuery 3.3, FontAwesome 4.7, gulp (all ~7 years old).
+- **Theme**: Vendored Start Bootstrap "Clean Blog" 5.0.4.
+- **Deploy**: GitHub Pages builds Jekyll natively; `CNAME` = `zeke.studio`.
+- **Pages**: `index.html` (home grid), `about.html`, `experiments.html`, `resume.html` (mostly commented out), `posts/index.html` (unused theme leftover).
 - **Content**: 8 projects in `_posts/*.html` with `permalink: /work/<slug>/`. Bodies are 100–780 lines of hand-crafted Bootstrap grid HTML. Metadata (category/team/year/instructor) is prose, not frontmatter.
 - **Two "orphan" projects live in templates, not `_posts/`**:
   - "Art + Environment 2021" (hardcoded in `_layouts/home.html`)
   - "Kinetic Type" (hardcoded in `experiments.html`)
 - **Images**: `img/` is 448MB, 297 files (Karaoke alone is 168MB, Deepfakes 89MB). 35 mp4, 22 gif. Unoptimized.
-- **Fonts**: `fonts/` has 12 woff/woff2 files (Graphik, Styrene B, Real Text) — **none are `@font-face`'d anywhere**. Orphaned.
-- **Dead code**: Formspree contact-form JS in `_includes/scripts.html` (no contact page exists), `_includes/read_time.html` (unreferenced), `resume.html` (95% commented out), `assets/vendor/` (19MB third-party)
+- **Fonts**: `fonts/` has 12 woff/woff2 files (Graphik, Styrene B, Real Text) — none are `@font-face`'d anywhere. Orphaned.
+- **Dead code**: Formspree contact-form JS in `_includes/scripts.html` (no contact page exists), `_includes/read_time.html` (unreferenced), `resume.html` (95% commented out), `assets/vendor/` (19MB third-party).
 
-### The 8 existing project URLs (must preserve)
+### The 8 project URLs (must preserve)
 
 - `/work/formosa/` — Type design (2019)
 - `/work/chill_by_netflix/` — Packaging (2019)
@@ -165,119 +118,5 @@ Drop images in `public/img/<slug>/`, save the MDX, `npx astro build`. Done.
 - `/work/how_to_deepfake_yourself/` — Book design (2019)
 - `/work/deepfake_karaoke/` — Service/installation (2019, 780-line body — largest)
 - `/work/order_and_chaos/` — Interactive installation (2019)
-- `/work/ascii-booth/` — Creative tech (2019) — note frontmatter date `2019-01-25` disagrees with filename `2019-01-28`; use the filename date on migration
+- `/work/ascii-booth/` — Creative tech (2019) — note frontmatter date `2019-01-25` disagrees with filename `2019-01-28`
 - `/work/dublab/` — Identity system (2019)
-
-## Target architecture (Astro)
-
-Chosen over Eleventy for: first-class image optimization (attacks the 448MB problem), typed content collections (Zod-validated frontmatter catches missing fields), component composition in MDX (clean reusable design gestures for new projects).
-
-### Directory layout
-
-```
-src/
-  layouts/
-    Base.astro          # <html>/<head>/nav/footer — replaces _layouts/default.html
-    Project.astro       # per-project chrome — replaces _layouts/post.html
-  components/
-    Nav.astro
-    Footer.astro
-    ProjectMeta.astro   # renders category/team/year/instructor from frontmatter
-    TwoCol.astro        # new-project gesture: 2-column asset block
-    OneCol.astro        # 1-column asset block (max-width media)
-    Caption.astro       # figure caption text style
-    Carousel.astro      # island — Embla or Swiper; JS only on pages that use it
-    LegacyBootstrap.astro  # opt-in wrapper loading Bootstrap grid CSS for legacy projects
-  content/
-    projects/           # content collection, one .mdx per project
-  pages/
-    index.astro         # home grid — replaces _layouts/home.html
-    about.astro
-    experiments.astro
-    work/
-      [slug].astro      # dynamic route rendering content/projects/[slug].mdx
-public/
-  img/                  # existing images move here as-is (paths in ported HTML keep working)
-  CNAME
-astro.config.mjs
-package.json
-```
-
-### Content model (Zod schema, `src/content/config.ts`)
-
-```ts
-{
-  title: string
-  subtitle?: string
-  date: Date
-  hero: string
-  heroPoster?: string   // for video heroes
-  category?: string
-  team?: string
-  instructors?: string
-  year?: number
-  related?: string
-  legacy?: boolean      // true for ported Bootstrap-era projects
-}
-```
-
-Legacy projects: `legacy: true`, body is raw HTML wrapped in `<LegacyBootstrap>` (which pulls in Bootstrap grid CSS). New projects: `.mdx` bodies composed of `<TwoCol>`, `<OneCol>`, `<Caption>`, `<Carousel>` — no Bootstrap.
-
-## Migration script
-
-`scripts/migrate.mjs` (Node, one-off):
-
-1. Reads each `_posts/*.html`, parses YAML frontmatter.
-2. Maps to new schema, sets `legacy: true`.
-3. Extracts HTML body verbatim (no rewriting).
-4. Emits `src/content/projects/<slug>.mdx` — frontmatter + `<LegacyBootstrap>{raw HTML}</LegacyBootstrap>`.
-5. Fixes the ascii-booth date mismatch (use filename date `2019-01-28`).
-6. Emits stubs for the two orphan template-embedded projects (Art + Environment 2021, Kinetic Type).
-
-## Constraints
-
-- **Do not change existing project designs.** Ported projects must render pixel-close to today's site. This is what `<LegacyBootstrap>` is for.
-- **Preserve every `/work/<slug>/` URL** and `zeke.studio` on the apex domain.
-- New projects (currently in a personal Figma deck) will be added **manually** post-migration using the component system.
-
-## Verification
-
-1. `npm run dev` — walk `/`, `/about/`, `/experiments/`, and every `/work/<slug>/`. Each legacy project must look identical to the live site.
-2. `npm run build` — confirm `dist/work/<slug>/index.html` exists for all 8 projects.
-3. Deploy to a preview branch, visual-diff against live `zeke.studio` before merging.
-4. Confirm GitHub Actions deploy succeeds and `CNAME` is preserved.
-
-## Cleanup (after cutover)
-
-Delete: `_config.yml`, `Gemfile`, `Gemfile.lock`, `jekyll-theme-clean-blog.gemspec`, `gulpfile.js`, `_layouts/`, `_includes/`, `_sass/`, `_site/`, `.sass-cache/`, `_posts/`, `posts/`, `resume.html`, `assets/vendor/`, `assets/main.scss`, `assets/scripts.js`, all `.DS_Store` files, orphaned webfonts in `fonts/`.
-
-## Add-a-new-project workflow (post-migration)
-
-```mdx
----
-title: New Project
-date: 2026-01-15
-hero: /img/new-project/hero.jpg
-category: Identity system
-year: 2025
----
-
-import { TwoCol, OneCol, Caption, Carousel } from '../../components'
-
-# Overview
-Body copy.
-
-<TwoCol>
-  <img src="/img/new-project/a.jpg" />
-  <img src="/img/new-project/b.jpg" />
-</TwoCol>
-<Caption>Two-up detail shot</Caption>
-
-<Carousel images={['/img/new-project/1.jpg', '/img/new-project/2.jpg']} />
-```
-
-## Out of scope
-
-- Image optimization pass on the existing 448MB (deferred; new projects get it automatically via `<Image>`)
-- Site redesign (not happening — the "Figma deck" is a set of new *projects* to upload, not a new site design)
-- Per-project OG images (could be added later via the content schema)
